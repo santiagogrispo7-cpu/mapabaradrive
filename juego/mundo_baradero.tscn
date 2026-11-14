@@ -1,0 +1,128 @@
+[gd_scene format=3 uid="uid://i7n527hkatu3"]
+
+[ext_resource type="PackedScene" path="res://escenas/vehiculos/vehiculo.tscn" id="1_vehiculo"]
+[ext_resource type="Script" uid="uid://cyy8xgvmguh6r" path="res://scripts/vehiculos/hud.gd" id="2_hud"]
+
+[sub_resource type="ProceduralSkyMaterial" id="cielo_mat"]
+sky_top_color = Color(0.25, 0.45, 0.75, 1)
+sky_horizon_color = Color(0.64, 0.65, 0.67, 1)
+ground_bottom_color = Color(0.2, 0.17, 0.13, 1)
+ground_horizon_color = Color(0.64, 0.65, 0.67, 1)
+
+[sub_resource type="Sky" id="cielo"]
+sky_material = SubResource("cielo_mat")
+
+[sub_resource type="Environment" id="entorno"]
+background_mode = 2
+sky = SubResource("cielo")
+ambient_light_source = 3
+ambient_light_sky_contribution = 0.6
+
+[sub_resource type="StandardMaterial3D" id="mat_suelo"]
+albedo_color = Color(0.22, 0.3, 0.18, 1)
+
+[sub_resource type="BoxMesh" id="malla_suelo"]
+material = SubResource("mat_suelo")
+size = Vector3(300, 0.4, 300)
+
+[sub_resource type="BoxShape3D" id="forma_suelo"]
+size = Vector3(300, 0.4, 300)
+
+[sub_resource type="StandardMaterial3D" id="mat_calle"]
+albedo_color = Color(0.18, 0.18, 0.19, 1)
+roughness = 0.95
+
+[sub_resource type="BoxMesh" id="malla_calle"]
+material = SubResource("mat_calle")
+size = Vector3(10, 0.4, 220)
+
+[sub_resource type="BoxShape3D" id="forma_calle"]
+size = Vector3(10, 0.4, 220)
+
+[sub_resource type="StandardMaterial3D" id="mat_linea"]
+albedo_color = Color(0.95, 0.9, 0.35, 1)
+roughness = 0.8
+
+[sub_resource type="BoxMesh" id="malla_linea"]
+material = SubResource("mat_linea")
+size = Vector3(0.3, 0.02, 220)
+
+[node name="MundoBaradero" type="Node3D" unique_id=1177116674]
+
+[node name="Entorno" type="WorldEnvironment" parent="." unique_id=1902838347]
+environment = SubResource("entorno")
+
+[node name="Sol" type="DirectionalLight3D" parent="." unique_id=1126400205]
+transform = Transform3D(0.8660254, 0.38302222, -0.32139382, 0, 0.64278764, 0.76604444, 0.5, -0.66341394, 0.5566704, 0, 50, 0)
+shadow_enabled = true
+directional_shadow_max_distance = 120.0
+
+[node name="Suelo" type="StaticBody3D" parent="." unique_id=983898531]
+
+[node name="SueloMalla" type="MeshInstance3D" parent="Suelo" unique_id=348886860]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.22, 0)
+mesh = SubResource("malla_suelo")
+
+[node name="SueloColision" type="CollisionShape3D" parent="Suelo" unique_id=1146748881]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.22, 0)
+shape = SubResource("forma_suelo")
+
+[node name="Calle" type="StaticBody3D" parent="." unique_id=317402621]
+
+[node name="CalleMalla" type="MeshInstance3D" parent="Calle" unique_id=660212583]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.2, 0)
+mesh = SubResource("malla_calle")
+
+[node name="CalleColision" type="CollisionShape3D" parent="Calle" unique_id=729442266]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.2, 0)
+shape = SubResource("forma_calle")
+
+[node name="LineaCentral" type="MeshInstance3D" parent="Calle" unique_id=1271407569]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.011, 0)
+mesh = SubResource("malla_linea")
+
+[node name="Vehiculo" parent="." unique_id=1525024450 instance=ExtResource("1_vehiculo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.3, 40)
+
+[node name="HUD" type="CanvasLayer" parent="." unique_id=1851701158]
+script = ExtResource("2_hud")
+
+[node name="EtiquetaCamara" type="Label" parent="HUD" unique_id=1652319787]
+offset_left = 24.0
+offset_top = 16.0
+offset_right = 420.0
+offset_bottom = 48.0
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.7)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 1
+theme_override_font_sizes/font_size = 18
+text = "Cámara: interior (C)"
+
+[node name="EtiquetaControles" type="Label" parent="HUD" unique_id=682400555]
+offset_left = 24.0
+offset_top = 44.0
+offset_right = 700.0
+offset_bottom = 72.0
+theme_override_colors/font_color = Color(0.9, 0.9, 0.9, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.7)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 1
+theme_override_font_sizes/font_size = 15
+text = "W A S D: conducir · S: frenar / marcha atrás · C: cambiar cámara"
+
+[node name="EtiquetaVelocidad" type="Label" parent="HUD" unique_id=1545943664]
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 24.0
+offset_top = -76.0
+offset_right = 420.0
+offset_bottom = -24.0
+grow_vertical = 0
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.7)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 1
+theme_override_font_sizes/font_size = 40
+text = "0 km/h"
