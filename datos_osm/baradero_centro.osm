@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.1 (426143 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-33.8107300" minlon="-59.5070000" maxlat="-33.8043100" maxlon="-59.4973600"/>
+ <node id="2366201343" visible="true" version="3" changeset="46915396" timestamp="2017-03-17T02:33:27Z" user="mweper" uid="1311281" lat="-33.8143238" lon="-59.4969240"/>
+ <node id="2366209404" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104704" lon="-59.4967129"/>
+ <node id="2366209406" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109612" lon="-59.4958313"/>
+ <node id="2366209410" visible="true" version="4" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8115240" lon="-59.4947932"/>
+ <node id="2367938796" visible="true" version="2" changeset="46915396" timestamp="2017-03-17T02:33:28Z" user="mweper" uid="1311281" lat="-33.8104383" lon="-59.4992732"/>
+ <node id="2367938797" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079031" lon="-59.4975454"/>
+ <node id="2367938798" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8126286" lon="-59.4956496"/>
+ <node id="2367938799" visible="true" version="1" changeset="16771671" timestamp="2013-06-30T23:35:20Z" user="alpertron" uid="466854" lat="-33.8093698" lon="-59.4987287"/>
+ <node id="2367938800" visible="true" version="3" changeset="46915396" timestamp="2017-03-17T02:33:28Z" user="mweper" uid="1311281" lat="-33.8120481" lon="-59.4966763"/>
+ <node id="2367938801" visible="true" version="3" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8073082" lon="-59.4970949"/>
+ <node id="2367938802" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8151216" lon="-59.4975646"/>
+ <node id="2367938803" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8068558" lon="-59.4963807"/>
+ <node id="2367938804" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8094812" lon="-59.4985250"/>
+ <node id="2367938805" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8118429" lon="-59.5037824"/>
+ <node id="2367938806" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8128070" lon="-59.4998264"/>
+ <node id="2367938807" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8103295" lon="-59.4994634"/>
+ <node id="2367938808" visible="true" version="4" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8140514" lon="-59.4995863"/>
+ <node id="2367938809" visible="true" version="4" changeset="177413388" timestamp="2026-01-19T08:44:53Z" user="LakeVan" uid="22315977" lat="-33.8105809" lon="-59.4993814"/>
+ <node id="2367938810" visible="true" version="5" changeset="177413388" timestamp="2026-01-19T08:44:53Z" user="LakeVan" uid="22315977" lat="-33.8104896" lon="-59.4995814"/>
+ <node id="2367938811" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8114343" lon="-59.4974846"/>
+ <node id="2367938814" visible="true" version="4" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8131157" lon="-59.5013606"/>
+ <node id="2367938816" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109408" lon="-59.4983750"/>
+ <node id="2367938818" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8110473" lon="-59.4984583"/>
+ <node id="2367938819" visible="true" version="1" changeset="16771671" timestamp="2013-06-30T23:35:21Z" user="alpertron" uid="466854" lat="-33.8146724" lon="-59.5028582"/>
+ <node id="2367938821" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8115372" lon="-59.4975663"/>
+ <node id="2367938822" visible="true" version="4" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8130207" lon="-59.5015509"/>
+ <node id="2367938823" visible="true" version="5" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8145738" lon="-59.4985975"/>
+ <node id="2367938824" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8099797" lon="-59.4976075"/>
+ <node id="2367940092" visible="true" version="2" changeset="46915396" timestamp="2017-03-17T02:33:28Z" user="mweper" uid="1311281" lat="-33.8122230" lon="-59.5009488"/>
+ <node id="2367940093" visible="true" version="2" changeset="46915396" timestamp="2017-03-17T02:33:28Z" user="mweper" uid="1311281" lat="-33.8123218" lon="-59.5007596"/>
+ <node id="2367940099" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8147880" lon="-59.5026548"/>
+ <node id="2367940100" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8114734" lon="-59.5000579"/>
+ <node id="2367940104" visible="true" version="3" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8061946" lon="-59.5093365"/>
+ <node id="2367940107" visible="true" version="3" changeset="84922981" timestamp="2020-05-09T01:59:09Z" user="CorazonDelator" uid="8127216" lat="-33.8138660" lon="-59.5022348"/>
+ <node id="2367940111" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8135376" lon="-59.4963155"/>
+ <node id="2367940113" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8129672" lon="-59.4973667"/>
+ <node id="2367940114" visible="true" version="3" changeset="84933850" timestamp="2020-05-09T11:05:44Z" user="CorazonDelator" uid="8127216" lat="-33.8078375" lon="-59.5093186"/>
+ <node id="2367940115" visible="true" version="4" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8132732" lon="-59.4989621"/>
+ <node id="2367940117" visible="true" version="4" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8137823" lon="-59.4979776"/>
+ <node id="2367940119" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8119608" lon="-59.4991693"/>
+ <node id="2367940122" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113655" lon="-59.5002549"/>
+ <node id="2367940124" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8124382" lon="-59.4982992"/>
+ <node id="2367941828" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8092967" lon="-59.4970708"/>
+ <node id="2367941829" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8102944" lon="-59.4938677"/>
+ <node id="2367941832" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8091320" lon="-59.4956362"/>
+ <node id="2367941837" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8174973" lon="-59.5115372"/>
+ <node id="2367941843" visible="true" version="4" changeset="174180408" timestamp="2025-11-04T08:25:58Z" user="JudaeanDesert" uid="22435578" lat="-33.8138036" lon="-59.5085321"/>
+ <node id="2367941857" visible="true" version="1" changeset="16771671" timestamp="2013-06-30T23:49:32Z" user="alpertron" uid="466854" lat="-33.8096860" lon="-59.4948274"/>
+ <node id="2367941871" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8085888" lon="-59.4964870"/>
+ <node id="2367941971" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8066122" lon="-59.4976255"/>
+ <node id="2367941972" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8165318" lon="-59.5053447"/>
+ <node id="2367941973" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8104326" lon="-59.5018872"/>
+ <node id="2367941975" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8150255" lon="-59.5041733"/>
+ <node id="2367941976" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8126145" lon="-59.5023019"/>
+ <node id="2367941977" visible="true" version="6" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8134605" lon="-59.5029671"/>
+ <node id="2367941980" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8138301" lon="-59.5043389"/>
+ <node id="2367941981" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8044847" lon="-59.4971310"/>
+ <node id="2367941984" visible="true" version="3" changeset="85349205" timestamp="2020-05-17T21:24:42Z" user="Hora" uid="9105" lat="-33.8095747" lon="-59.5012752"/>
+ <node id="2367941985" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8142586" lon="-59.5035754"/>
+ <node id="2367941986" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8179093" lon="-59.5064070"/>
+ <node id="2367941988" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8109347" lon="-59.5010294"/>
+ <node id="2367941989" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8058539" lon="-59.4984486"/>
+ <node id="2367941991" visible="true" version="4" changeset="177413388" timestamp="2026-01-19T08:44:53Z" user="LakeVan" uid="22315977" lat="-33.8100851" lon="-59.5003594"/>
+ <node id="2367941992" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8158159" lon="-59.5047946"/>
+ <node id="2367941993" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8084454" lon="-59.5004206"/>
+ <node id="2367941994" visible="true" version="3" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8113812" lon="-59.5025731"/>
+ <node id="2367941995" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8118396" lon="-59.5017108"/>
+ <node id="2367941996" visible="true" version="4" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8121693" lon="-59.5031429"/>
+ <node id="2367941997" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8074349" lon="-59.4982846"/>
+ <node id="2367941999" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8172725" lon="-59.5059052"/>
+ <node id="2367942000" visible="true" version="4" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8130332" lon="-59.5037884"/>
+ <node id="2367942001" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8089585" lon="-59.4994875"/>
+ <node id="2367942941" visible="true" version="1" changeset="16771671" timestamp="2013-06-30T23:56:40Z" user="alpertron" uid="466854" lat="-33.8045500" lon="-59.5008894"/>
+ <node id="2367942943" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8043806" lon="-59.4982179">
+  <tag k="noexit" v="yes"/>
+ </node>
+ <node id="2367942944" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8183130" lon="-59.5122026"/>
+ <node id="2367942946" visible="true" version="6" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8115068" lon="-59.5067021"/>
+ <node id="2367942948" visible="true" version="2" changeset="85349205" timestamp="2020-05-17T21:24:42Z" user="Hora" uid="9105" lat="-33.8092494" lon="-59.5018600"/>
+ <node id="2367942953" visible="true" version="1" changeset="16771671" timestamp="2013-06-30T23:56:40Z" user="alpertron" uid="466854" lat="-33.8089242" lon="-59.5045706"/>
+ <node id="2367942956" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8126993" lon="-59.5044287"/>
+ <node id="2367942957" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8167398" lon="-59.5109385">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2367942958" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8081200" lon="-59.5009984"/>
+ <node id="2367942959" visible="true" version="4" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8106922" lon="-59.5060019"/>
+ <node id="2367942960" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8070289" lon="-59.5029681"/>
+ <node id="2367942961" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8145355" lon="-59.5091495"/>
+ <node id="2367942962" visible="true" version="4" changeset="85349205" timestamp="2020-05-17T21:24:42Z" user="Hora" uid="9105" lat="-33.8086950" lon="-59.5027941"/>
+ <node id="2367942964" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8076192" lon="-59.5019168"/>
+ <node id="2367942967" visible="true" version="6" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8120868" lon="-59.5055824"/>
+ <node id="2367942969" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8159751" lon="-59.5103340"/>
+ <node id="2367942971" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8127989" lon="-59.5061819"/>
+ <node id="2367942973" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8129649" lon="-59.5078441">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2367942977" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8112610" lon="-59.5048828"/>
+ <node id="2367942989" visible="true" version="3" changeset="66003729" timestamp="2019-01-03T22:31:40Z" user="Fryleaf" uid="9202917" lat="-33.8105006" lon="-59.5042451"/>
+ <node id="2367942991" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8184195" lon="-59.5122924"/>
+ <node id="2367942993" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8099163" lon="-59.5053616">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2367942995" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8080270" lon="-59.5038352">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2367942997" visible="true" version="1" changeset="16771671" timestamp="2013-06-30T23:56:41Z" user="alpertron" uid="466854" lat="-33.8101062" lon="-59.5024953"/>
+ <node id="2367942999" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8122093" lon="-59.5072408"/>
+ <node id="2367943001" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8095426" lon="-59.5034582"/>
+ <node id="2367943005" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8134661" lon="-59.5050017"/>
+ <node id="2367943009" visible="true" version="5" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8152437" lon="-59.5097289"/>
+ <node id="2367943014" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8110520" lon="-59.5032053"/>
+ <node id="2367944765" visible="true" version="3" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8032857" lon="-59.5014641"/>
+ <node id="2367944767" visible="true" version="5" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8110313" lon="-59.5076230"/>
+ <node id="2367944768" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8088389" lon="-59.5074500"/>
+ <node id="2367944769" visible="true" version="4" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8101805" lon="-59.5069509"/>
+ <node id="2367944772" visible="true" version="5" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8104512" lon="-59.5087563"/>
+ <node id="2367944774" visible="true" version="3" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8116850" lon="-59.5081557"/>
+ <node id="2367944775" visible="true" version="3" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8058720" lon="-59.5050508"/>
+ <node id="2367944778" visible="true" version="4" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8064796" lon="-59.5039711"/>
+ <node id="2367944781" visible="true" version="3" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8077655" lon="-59.5065915"/>
+ <node id="2367944782" visible="true" version="2" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8110601" lon="-59.5092530"/>
+ <node id="2367944783" visible="true" version="2" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8039481" lon="-59.5019373"/>
+ <node id="2367944787" visible="true" version="3" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8083784" lon="-59.5054990"/>
+ <node id="2367944789" visible="true" version="3" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8094189" lon="-59.5063384"/>
+ <node id="2367944791" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8074862" lon="-59.5047901"/>
+ <node id="2367944792" visible="true" version="5" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8096102" lon="-59.5080786"/>
+ <node id="2367944793" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8068572" lon="-59.5058492"/>
+ <node id="2367953281" visible="true" version="2" changeset="84933850" timestamp="2020-05-09T11:05:44Z" user="CorazonDelator" uid="8127216" lat="-33.8100496" lon="-59.5110675"/>
+ <node id="2367953289" visible="true" version="5" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8067198" lon="-59.5084225"/>
+ <node id="2367953293" visible="true" version="5" changeset="84933850" timestamp="2020-05-09T11:05:44Z" user="CorazonDelator" uid="8127216" lat="-33.8094871" lon="-59.5106050"/>
+ <node id="2367953297" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8069550" lon="-59.5013407"/>
+ <node id="2367953300" visible="true" version="2" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8051581" lon="-59.5044691"/>
+ <node id="2367953302" visible="true" version="2" changeset="84934234" timestamp="2020-05-09T11:18:28Z" user="CorazonDelator" uid="8127216" lat="-33.8016733" lon="-59.5058016"/>
+ <node id="2367953305" visible="true" version="3" changeset="84933850" timestamp="2020-05-09T11:05:44Z" user="CorazonDelator" uid="8127216" lat="-33.7984552" lon="-59.5001754"/>
+ <node id="2367953307" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8052641" lon="-59.5085815"/>
+ <node id="2367953310" visible="true" version="4" changeset="84933850" timestamp="2020-05-09T11:05:44Z" user="CorazonDelator" uid="8127216" lat="-33.8076578" lon="-59.5091690"/>
+ <node id="2367953317" visible="true" version="2" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8072417" lon="-59.5075253"/>
+ <node id="2367953326" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8091067" lon="-59.5090429"/>
+ <node id="2367953339" visible="true" version="4" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8099435" lon="-59.5097344"/>
+ <node id="2367953356" visible="true" version="2" changeset="84934234" timestamp="2020-05-09T11:18:28Z" user="CorazonDelator" uid="8127216" lat="-33.8035935" lon="-59.5072090"/>
+ <node id="2367953357" visible="true" version="2" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8105279" lon="-59.5102146"/>
+ <node id="2367953359" visible="true" version="2" changeset="34558847" timestamp="2015-10-10T21:50:43Z" user="FvGordon" uid="161619" lat="-33.8057789" lon="-59.5033999"/>
+ <node id="2367953371" visible="true" version="5" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8040934" lon="-59.5063267"/>
+ <node id="2367953375" visible="true" version="2" changeset="84933850" timestamp="2020-05-09T11:05:44Z" user="CorazonDelator" uid="8127216" lat="-33.8022264" lon="-59.5048305"/>
+ <node id="2367953395" visible="true" version="6" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8057844" lon="-59.5077001"/>
+ <node id="2367953414" visible="true" version="3" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8053572" lon="-59.5059876"/>
+ <node id="2367953419" visible="true" version="7" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8086298" lon="-59.5099452"/>
+ <node id="2367953442" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8081393" lon="-59.5108827"/>
+ <node id="2367953444" visible="true" version="2" changeset="46915396" timestamp="2017-03-17T02:33:30Z" user="mweper" uid="1311281" lat="-33.8083287" lon="-59.5084094"/>
+ <node id="2367953448" visible="true" version="1" changeset="16771671" timestamp="2013-07-01T00:19:19Z" user="alpertron" uid="466854" lat="-33.8063403" lon="-59.5024157"/>
+ <node id="2367953455" visible="true" version="3" changeset="84934234" timestamp="2020-05-09T11:18:28Z" user="CorazonDelator" uid="8127216" lat="-33.8043378" lon="-59.5078238"/>
+ <node id="2367953460" visible="true" version="2" changeset="84934234" timestamp="2020-05-09T11:18:28Z" user="CorazonDelator" uid="8127216" lat="-33.8023186" lon="-59.5061397"/>
+ <node id="2367953495" visible="true" version="4" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8063261" lon="-59.5067681"/>
+ <node id="2367953500" visible="true" version="3" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8046351" lon="-59.5053701"/>
+ <node id="2367953502" visible="true" version="4" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8048401" lon="-59.5069109"/>
+ <node id="2367961032" visible="true" version="3" changeset="84933850" timestamp="2020-05-09T11:05:44Z" user="CorazonDelator" uid="8127216" lat="-33.7991178" lon="-59.5007350"/>
+ <node id="2367961034" visible="true" version="2" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8027782" lon="-59.5038597"/>
+ <node id="2367961044" visible="true" version="1" changeset="16771671" timestamp="2013-07-01T00:27:20Z" user="alpertron" uid="466854" lat="-33.8074322" lon="-59.5004979"/>
+ <node id="2367961060" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8080230" lon="-59.4973699"/>
+ <node id="2367961068" visible="true" version="3" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8034162" lon="-59.5043805"/>
+ <node id="2367961082" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8082636" lon="-59.4989365"/>
+ <node id="2367961094" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8059659" lon="-59.5005273"/>
+ <node id="2367961098" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8068173" lon="-59.4992062"/>
+ <node id="2367961105" visible="true" version="4" changeset="84933850" timestamp="2020-05-09T11:05:44Z" user="CorazonDelator" uid="8127216" lat="-33.8028265" lon="-59.5053045"/>
+ <node id="2367961111" visible="true" version="1" changeset="16771671" timestamp="2013-07-01T00:27:20Z" user="alpertron" uid="466854" lat="-33.8086802" lon="-59.4981864"/>
+ <node id="2367961121" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087871" lon="-59.4979794"/>
+ <node id="2367961123" visible="true" version="4" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8046544" lon="-59.5024923"/>
+ <node id="2367961136" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8053131" lon="-59.5015662"/>
+ <node id="2367961152" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8064529" lon="-59.4997560"/>
+ <node id="2367961171" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8196190" lon="-59.5132993"/>
+ <node id="2367961195" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8077478" lon="-59.4999113"/>
+ <node id="2367961199" visible="true" version="4" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8039932" lon="-59.5035028"/>
+ <node id="2367988930" visible="true" version="2" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8027357" lon="-59.5024902"/>
+ <node id="2367988935" visible="true" version="2" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8022297" lon="-59.5034053"/>
+ <node id="2367988936" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8048698" lon="-59.4985595"/>
+ <node id="2367988939" visible="true" version="2" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8000197" lon="-59.5014925"/>
+ <node id="2367988940" visible="true" version="2" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8013088" lon="-59.5026373"/>
+ <node id="2367988941" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8050939" lon="-59.4981402">
+  <tag k="noexit" v="yes"/>
+ </node>
+ <node id="2367988942" visible="true" version="1" changeset="16771671" timestamp="2013-07-01T00:44:01Z" user="alpertron" uid="466854" lat="-33.8033103" lon="-59.5029583"/>
+ <node id="2367988949" visible="true" version="2" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8008153" lon="-59.5022084"/>
+ <node id="2367988953" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8051251" lon="-59.4998289"/>
+ <node id="2367988955" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8044556" lon="-59.4993349"/>
+ <node id="2367988965" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8055323" lon="-59.4990696"/>
+ <node id="2367988966" visible="true" version="2" changeset="84924618" timestamp="2020-05-09T04:10:31Z" user="CorazonDelator" uid="8127216" lat="-33.8033167" lon="-59.5013974"/>
+ <node id="2367988967" visible="true" version="2" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.7996191" lon="-59.5011310"/>
+ <node id="2385614985" visible="true" version="1" changeset="16965551" timestamp="2013-07-15T18:06:32Z" user="FedeF" uid="1646703" lat="-33.8039157" lon="-59.5003233"/>
+ <node id="2477224937" visible="true" version="4" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8136307" lon="-59.5003499"/>
+ <node id="2477224940" visible="true" version="2" changeset="46915396" timestamp="2017-03-17T02:33:31Z" user="mweper" uid="1311281" lat="-33.8128486" lon="-59.4997502"/>
+ <node id="2477226534" visible="true" version="1" changeset="18103016" timestamp="2013-09-30T02:16:05Z" user="alpertron" uid="466854" lat="-33.8064073" lon="-59.5024079"/>
+ <node id="2477226538" visible="true" version="1" changeset="18103016" timestamp="2013-09-30T02:16:05Z" user="alpertron" uid="466854" lat="-33.8075306" lon="-59.5019304"/>
+ <node id="2477226539" visible="true" version="1" changeset="18103016" timestamp="2013-09-30T02:16:05Z" user="alpertron" uid="466854" lat="-33.8069467" lon="-59.5014476"/>
+ <node id="2477226945" visible="true" version="1" changeset="18103016" timestamp="2013-09-30T02:18:50Z" user="alpertron" uid="466854" lat="-33.8059660" lon="-59.4970971"/>
+ <node id="2477226946" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8052680" lon="-59.4962490"/>
+ <node id="2477226950" visible="true" version="1" changeset="18103016" timestamp="2013-09-30T02:18:50Z" user="alpertron" uid="466854" lat="-33.8057699" lon="-59.4969737"/>
+ <node id="2477226956" visible="true" version="1" changeset="18103016" timestamp="2013-09-30T02:18:51Z" user="alpertron" uid="466854" lat="-33.8062201" lon="-59.4963085"/>
+ <node id="2477226958" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8068363" lon="-59.4968262"/>
+ <node id="2477226959" visible="true" version="1" changeset="18103016" timestamp="2013-09-30T02:18:51Z" user="alpertron" uid="466854" lat="-33.8074597" lon="-59.4969221"/>
+ <node id="2477226960" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8055528" lon="-59.4967507"/>
+ <node id="2477226968" visible="true" version="2" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8064864" lon="-59.4965625"/>
+ <node id="2477226970" visible="true" version="1" changeset="18103016" timestamp="2013-09-30T02:18:51Z" user="alpertron" uid="466854" lat="-33.8057002" lon="-59.4957466"/>
+ <node id="2477226974" visible="true" version="1" changeset="18103016" timestamp="2013-09-30T02:18:51Z" user="alpertron" uid="466854" lat="-33.8054267" lon="-59.4965446"/>
+ <node id="3781367761" visible="true" version="1" changeset="34558847" timestamp="2015-10-10T21:50:41Z" user="FvGordon" uid="161619" lat="-33.8070266" lon="-59.5028737"/>
+ <node id="3830191441" visible="true" version="2" changeset="84922981" timestamp="2020-05-09T01:59:09Z" user="CorazonDelator" uid="8127216" lat="-33.8139752" lon="-59.5020263"/>
+ <node id="3830193486" visible="true" version="2" changeset="36070346" timestamp="2015-12-20T18:10:47Z" user="mweper" uid="1311281" lat="-33.8063856" lon="-59.5026037"/>
+ <node id="3830193487" visible="true" version="2" changeset="36070346" timestamp="2015-12-20T18:10:47Z" user="mweper" uid="1311281" lat="-33.8067490" lon="-59.5029073"/>
+ <node id="3830193488" visible="true" version="2" changeset="36070346" timestamp="2015-12-20T18:10:47Z" user="mweper" uid="1311281" lat="-33.8064585" lon="-59.5034109"/>
+ <node id="3830193489" visible="true" version="2" changeset="36070346" timestamp="2015-12-20T18:10:47Z" user="mweper" uid="1311281" lat="-33.8060951" lon="-59.5031073"/>
+ <node id="3832068457" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8069649" lon="-59.5012292"/>
+ <node id="3832068458" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8066927" lon="-59.5010871"/>
+ <node id="3832068459" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8069305" lon="-59.5006559"/>
+ <node id="3832068460" visible="true" version="4" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8071739" lon="-59.5008503"/>
+ <node id="3901902696" visible="true" version="1" changeset="36070346" timestamp="2015-12-20T18:10:10Z" user="mweper" uid="1311281" lat="-33.8061289" lon="-59.5030487"/>
+ <node id="3901902697" visible="true" version="1" changeset="36070346" timestamp="2015-12-20T18:10:10Z" user="mweper" uid="1311281" lat="-33.8062554" lon="-59.5031543"/>
+ <node id="3901902698" visible="true" version="1" changeset="36070346" timestamp="2015-12-20T18:10:10Z" user="mweper" uid="1311281" lat="-33.8062629" lon="-59.5030804"/>
+ <node id="3901902699" visible="true" version="1" changeset="36070346" timestamp="2015-12-20T18:10:10Z" user="mweper" uid="1311281" lat="-33.8062866" lon="-59.5031001"/>
+ <node id="3901902700" visible="true" version="1" changeset="36070346" timestamp="2015-12-20T18:10:10Z" user="mweper" uid="1311281" lat="-33.8064029" lon="-59.5028376"/>
+ <node id="3901902701" visible="true" version="1" changeset="36070346" timestamp="2015-12-20T18:10:10Z" user="mweper" uid="1311281" lat="-33.8066290" lon="-59.5030265"/>
+ <node id="3901902702" visible="true" version="1" changeset="36070346" timestamp="2015-12-20T18:10:10Z" user="mweper" uid="1311281" lat="-33.8067144" lon="-59.5028784"/>
+ <node id="4152003895" visible="true" version="1" changeset="38933271" timestamp="2016-04-27T20:23:17Z" user="Gerardo_Santiago" uid="3886654" lat="-33.8093663" lon="-59.4990984">
+  <tag k="amenity" v="school"/>
+  <tag k="name" v="Escuela de Educación Secundaria Nº3"/>
+ </node>
+ <node id="4152003896" visible="true" version="1" changeset="38933271" timestamp="2016-04-27T20:23:17Z" user="Gerardo_Santiago" uid="3886654" lat="-33.8067315" lon="-59.4984357">
+  <tag k="amenity" v="school"/>
+  <tag k="name" v="EEST Nº1"/>
+ </node>
+ <node id="4152003898" visible="true" version="2" changeset="120101350" timestamp="2022-04-23T18:36:27Z" user="Camello_AR" uid="657643" lat="-33.8068666" lon="-59.5011108">
+  <tag k="amenity" v="school"/>
+  <tag k="name" v="Escuela de Educación Media Nº 202"/>
+ </node>
+ <node id="4152003899" visible="true" version="2" changeset="120101368" timestamp="2022-04-23T18:37:18Z" user="Camello_AR" uid="657643" lat="-33.8069510" lon="-59.5008587">
+  <tag k="amenity" v="school"/>
+  <tag k="name" v="Escuela de Educación Secundaria Nº 210"/>
+ </node>
+ <node id="4152003900" visible="true" version="1" changeset="38933271" timestamp="2016-04-27T20:23:17Z" user="Gerardo_Santiago" uid="3886654" lat="-33.8047654" lon="-59.5007449">
+  <tag k="amenity" v="school"/>
+  <tag k="name" v="Instituto San José."/>
+ </node>
+ <node id="4451146586" visible="true" version="1" changeset="42948100" timestamp="2016-10-17T00:29:24Z" user="Aguilas" uid="4548031" lat="-33.8070195" lon="-59.5013623"/>
+ <node id="4451146587" visible="true" version="1" changeset="42948100" timestamp="2016-10-17T00:29:24Z" user="Aguilas" uid="4548031" lat="-33.8072470" lon="-59.5009420"/>
+ <node id="4451146588" visible="true" version="1" changeset="42948100" timestamp="2016-10-17T00:29:24Z" user="Aguilas" uid="4548031" lat="-33.8073391" lon="-59.5010142"/>
+ <node id="4451146889" visible="true" version="1" changeset="42948100" timestamp="2016-10-17T00:29:24Z" user="Aguilas" uid="4548031" lat="-33.8071116" lon="-59.5014345"/>
+ <node id="5991635404" visible="true" version="1" changeset="63591952" timestamp="2018-10-16T21:43:57Z" user="mugrientisima" uid="8961983" lat="-33.8091790" lon="-59.4988753">
+  <tag k="name" v="Supermercado matias"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="5993356330" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8052243" lon="-59.4978794"/>
+ <node id="5993356331" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8055716" lon="-59.4971586"/>
+ <node id="5993356332" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8056374" lon="-59.4968531"/>
+ <node id="6424351940" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8053978" lon="-59.5014253"/>
+ <node id="6424351941" visible="true" version="1" changeset="69506362" timestamp="2019-04-23T22:32:02Z" user="MatiasJ" uid="3837224" lat="-33.8064128" lon="-59.5022909"/>
+ <node id="7499861691" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8054017" lon="-59.5015675"/>
+ <node id="7499861692" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8053978" lon="-59.5015561"/>
+ <node id="7499861693" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063572" lon="-59.5022803"/>
+ <node id="7499861694" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063614" lon="-59.5022906"/>
+ <node id="7499861695" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8053973" lon="-59.5015438"/>
+ <node id="7499861696" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8054003" lon="-59.5015320"/>
+ <node id="7499861697" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8054064" lon="-59.5015222"/>
+ <node id="7499861698" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8054149" lon="-59.5015154"/>
+ <node id="7499861699" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8054248" lon="-59.5015124"/>
+ <node id="7499861700" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8054350" lon="-59.5015136"/>
+ <node id="7499861701" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063499" lon="-59.5022717"/>
+ <node id="7499861702" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063627" lon="-59.5023020"/>
+ <node id="7499861703" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063609" lon="-59.5023133"/>
+ <node id="7499861704" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063563" lon="-59.5023233"/>
+ <node id="7499861705" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063493" lon="-59.5023312"/>
+ <node id="7499861706" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063407" lon="-59.5023359"/>
+ <node id="7499861707" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063312" lon="-59.5023372"/>
+ <node id="7499861708" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063219" lon="-59.5023348"/>
+ <node id="7499861709" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063136" lon="-59.5023290"/>
+ <node id="7499861710" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063063" lon="-59.5023086"/>
+ <node id="7499861711" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063016" lon="-59.5023028"/>
+ <node id="7499861712" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063321" lon="-59.5022674"/>
+ <node id="7499861713" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063372" lon="-59.5022740"/>
+ <node id="7499861714" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8062987" lon="-59.5022956"/>
+ <node id="7499861715" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8062977" lon="-59.5022875"/>
+ <node id="7499861716" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8062989" lon="-59.5022796"/>
+ <node id="7499861717" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063020" lon="-59.5022724"/>
+ <node id="7499861718" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063069" lon="-59.5022668"/>
+ <node id="7499861719" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063129" lon="-59.5022633"/>
+ <node id="7499861720" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063196" lon="-59.5022621"/>
+ <node id="7499861721" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063262" lon="-59.5022636"/>
+ <node id="7499861722" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063400" lon="-59.5022822"/>
+ <node id="7499861723" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063404" lon="-59.5022911"/>
+ <node id="7499861724" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063382" lon="-59.5022997"/>
+ <node id="7499861725" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063338" lon="-59.5023068"/>
+ <node id="7499861726" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063275" lon="-59.5023117"/>
+ <node id="7499861727" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063203" lon="-59.5023137"/>
+ <node id="7499861728" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8063129" lon="-59.5023126"/>
+ <node id="7499861754" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8043182" lon="-59.4991682"/>
+ <node id="7499861755" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8041185" lon="-59.4990109"/>
+ <node id="7499861756" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8042126" lon="-59.4988378"/>
+ <node id="7499861757" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8042294" lon="-59.4988511"/>
+ <node id="7499861758" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8044890" lon="-59.4983738"/>
+ <node id="7499861759" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8046885" lon="-59.4985309"/>
+ <node id="7499861760" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8046279" lon="-59.4986425"/>
+ <node id="7499861761" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8045977" lon="-59.4986187"/>
+ <node id="7499861762" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8045482" lon="-59.4987096"/>
+ <node id="7499861763" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8045767" lon="-59.4987321"/>
+ <node id="7499861764" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8044646" lon="-59.4989382"/>
+ <node id="7499861765" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8043830" lon="-59.4988740"/>
+ <node id="7499861766" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8043401" lon="-59.4989528"/>
+ <node id="7499861767" visible="true" version="2" changeset="85349807" timestamp="2020-05-17T21:58:20Z" user="Hora" uid="9105" lat="-33.8044068" lon="-59.4990053"/>
+ <node id="7499870998" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8054456" lon="-59.4981010"/>
+ <node id="7499870999" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8044360" lon="-59.4970751"/>
+ <node id="7499871005" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216" lat="-33.8056037" lon="-59.4969988"/>
+ <node id="7499901197" visible="true" version="1" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8063171" lon="-59.5022892">
+  <tag k="man_made" v="flagpole"/>
+ </node>
+ <node id="7499901198" visible="true" version="1" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8064319" lon="-59.5028901">
+  <tag k="communication:mobile_phone" v="yes"/>
+  <tag k="man_made" v="mast"/>
+  <tag k="tower:type" v="communication"/>
+ </node>
+ <node id="7499901199" visible="true" version="1" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8059289" lon="-59.5045550">
+  <tag k="communication:mobile_phone" v="yes"/>
+  <tag k="man_made" v="mast"/>
+  <tag k="tower:type" v="communication"/>
+ </node>
+ <node id="7499901221" visible="true" version="1" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8069006" lon="-59.5012531"/>
+ <node id="7499901261" visible="true" version="1" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8178850" lon="-59.5063537"/>
+ <node id="7499901264" visible="true" version="1" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8179026" lon="-59.5063884"/>
+ <node id="7499901265" visible="true" version="1" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8059347" lon="-59.4983353"/>
+ <node id="7499901272" visible="true" version="1" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216" lat="-33.8061652" lon="-59.4972569"/>
+ <node id="7499938127" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8112873" lon="-59.5001521"/>
+ <node id="7499938128" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105985" lon="-59.4996294"/>
+ <node id="7499938129" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113467" lon="-59.5000032"/>
+ <node id="7499938130" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113646" lon="-59.5000178"/>
+ <node id="7499938131" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105853" lon="-59.4996058"/>
+ <node id="7499938132" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105795" lon="-59.4995782"/>
+ <node id="7499938133" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105819" lon="-59.4995498"/>
+ <node id="7499938134" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105921" lon="-59.4995241"/>
+ <node id="7499938135" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8106090" lon="-59.4995042"/>
+ <node id="7499938136" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8106306" lon="-59.4994923"/>
+ <node id="7499938137" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8106542" lon="-59.4994899"/>
+ <node id="7499938138" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113778" lon="-59.5000384"/>
+ <node id="7499938139" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113850" lon="-59.5000628"/>
+ <node id="7499938140" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113856" lon="-59.5000888"/>
+ <node id="7499938141" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113794" lon="-59.5001137"/>
+ <node id="7499938142" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113672" lon="-59.5001351"/>
+ <node id="7499938143" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113500" lon="-59.5001508"/>
+ <node id="7499938144" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113295" lon="-59.5001593"/>
+ <node id="7499938145" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8113080" lon="-59.5001597"/>
+ <node id="7499938146" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104161" lon="-59.4994417"/>
+ <node id="7499938147" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104071" lon="-59.4994311"/>
+ <node id="7499938148" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104569" lon="-59.4993690"/>
+ <node id="7499938149" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104653" lon="-59.4993784"/>
+ <node id="7499938150" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104015" lon="-59.4994174"/>
+ <node id="7499938151" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104002" lon="-59.4994023"/>
+ <node id="7499938152" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104033" lon="-59.4993875"/>
+ <node id="7499938153" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104104" lon="-59.4993749"/>
+ <node id="7499938154" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104206" lon="-59.4993660"/>
+ <node id="7499938155" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104328" lon="-59.4993618"/>
+ <node id="7499938156" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104454" lon="-59.4993629"/>
+ <node id="7499938157" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104708" lon="-59.4993904"/>
+ <node id="7499938158" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104730" lon="-59.4994039"/>
+ <node id="7499938159" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104716" lon="-59.4994175"/>
+ <node id="7499938160" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104668" lon="-59.4994300"/>
+ <node id="7499938161" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104590" lon="-59.4994400"/>
+ <node id="7499938162" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104490" lon="-59.4994466"/>
+ <node id="7499938163" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104378" lon="-59.4994492"/>
+ <node id="7499938164" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8104265" lon="-59.4994475"/>
+ <node id="7499938165" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8102387" lon="-59.4993594"/>
+ <node id="7499938166" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8094764" lon="-59.4987676"/>
+ <node id="7499938167" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8103145" lon="-59.4992081"/>
+ <node id="7499938168" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8103332" lon="-59.4992284"/>
+ <node id="7499938169" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8094638" lon="-59.4987440"/>
+ <node id="7499938170" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8094580" lon="-59.4987169"/>
+ <node id="7499938171" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8094595" lon="-59.4986890"/>
+ <node id="7499938172" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8094682" lon="-59.4986630"/>
+ <node id="7499938173" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8094832" lon="-59.4986416"/>
+ <node id="7499938174" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8095030" lon="-59.4986270"/>
+ <node id="7499938175" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8095257" lon="-59.4986205"/>
+ <node id="7499938176" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8095488" lon="-59.4986229"/>
+ <node id="7499938177" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8103450" lon="-59.4992551"/>
+ <node id="7499938178" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8103487" lon="-59.4992851"/>
+ <node id="7499938179" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8103437" lon="-59.4993148"/>
+ <node id="7499938180" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8103307" lon="-59.4993407"/>
+ <node id="7499938181" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8103112" lon="-59.4993598"/>
+ <node id="7499938182" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8102875" lon="-59.4993699"/>
+ <node id="7499938183" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8102624" lon="-59.4993697"/>
+ <node id="7499938184" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8092967" lon="-59.4986153"/>
+ <node id="7499938185" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087831" lon="-59.4982107"/>
+ <node id="7499938186" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8093708" lon="-59.4984778"/>
+ <node id="7499938187" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8093879" lon="-59.4984972"/>
+ <node id="7499938188" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087723" lon="-59.4981884"/>
+ <node id="7499938189" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087678" lon="-59.4981633"/>
+ <node id="7499938190" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087700" lon="-59.4981377"/>
+ <node id="7499938191" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087786" lon="-59.4981142"/>
+ <node id="7499938192" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087929" lon="-59.4980951"/>
+ <node id="7499938193" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8088115" lon="-59.4980822"/>
+ <node id="7499938194" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8088324" lon="-59.4980769"/>
+ <node id="7499938195" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8088536" lon="-59.4980797"/>
+ <node id="7499938196" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8093986" lon="-59.4985225"/>
+ <node id="7499938197" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8094014" lon="-59.4985507"/>
+ <node id="7499938198" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8093961" lon="-59.4985783"/>
+ <node id="7499938199" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8093833" lon="-59.4986021"/>
+ <node id="7499938200" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8093645" lon="-59.4986192"/>
+ <node id="7499938201" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8093420" lon="-59.4986276"/>
+ <node id="7499938202" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8093184" lon="-59.4986262"/>
+ <node id="7499938203" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8086312" lon="-59.4980871"/>
+ <node id="7499938204" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8086541" lon="-59.4980872"/>
+ <node id="7499938205" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8080696" lon="-59.4974659"/>
+ <node id="7499938206" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8080487" lon="-59.4974648"/>
+ <node id="7499938207" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8086756" lon="-59.4980781"/>
+ <node id="7499938208" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8086933" lon="-59.4980606"/>
+ <node id="7499938209" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087050" lon="-59.4980370"/>
+ <node id="7499938210" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087093" lon="-59.4980100"/>
+ <node id="7499938211" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8087057" lon="-59.4979828"/>
+ <node id="7499938212" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8086947" lon="-59.4979587"/>
+ <node id="7499938213" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8080908" lon="-59.4974759"/>
+ <node id="7499938214" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8080287" lon="-59.4974716"/>
+ <node id="7499938215" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8080113" lon="-59.4974855"/>
+ <node id="7499938216" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079985" lon="-59.4975053"/>
+ <node id="7499938217" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079914" lon="-59.4975289"/>
+ <node id="7499938218" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079907" lon="-59.4975540"/>
+ <node id="7499938219" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079965" lon="-59.4975781"/>
+ <node id="7499938220" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8080083" lon="-59.4975988"/>
+ <node id="7499938221" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8080248" lon="-59.4976140"/>
+ <node id="7499938222" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8078553" lon="-59.4974613"/>
+ <node id="7499938223" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8078763" lon="-59.4974612"/>
+ <node id="7499938224" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8066189" lon="-59.4962960"/>
+ <node id="7499938225" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8065998" lon="-59.4962954"/>
+ <node id="7499938226" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8078961" lon="-59.4974525"/>
+ <node id="7499938227" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079122" lon="-59.4974362"/>
+ <node id="7499938228" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079227" lon="-59.4974143"/>
+ <node id="7499938229" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079263" lon="-59.4973894"/>
+ <node id="7499938230" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079227" lon="-59.4973644"/>
+ <node id="7499938231" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8079123" lon="-59.4973424"/>
+ <node id="7499938232" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8066386" lon="-59.4963048"/>
+ <node id="7499938233" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8065815" lon="-59.4963020"/>
+ <node id="7499938234" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8065658" lon="-59.4963151"/>
+ <node id="7499938235" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8064911" lon="-59.4964483"/>
+ <node id="7499938236" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8064848" lon="-59.4964700"/>
+ <node id="7499938237" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8064845" lon="-59.4964929"/>
+ <node id="7499938238" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8064901" lon="-59.4965149"/>
+ <node id="7499938239" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8065010" lon="-59.4965337"/>
+ <node id="7499938240" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8065163" lon="-59.4965475"/>
+ <node id="7499938241" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8072847" lon="-59.4970436"/>
+ <node id="7499938242" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8068430" lon="-59.4968012"/>
+ <node id="7499938243" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8068798" lon="-59.4964310"/>
+ <node id="7499938246" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8068645" lon="-59.4964070"/>
+ <node id="7499938248" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105849" lon="-59.4992065"/>
+ <node id="7499938249" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105750" lon="-59.4992119"/>
+ <node id="7499938250" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109280" lon="-59.4984539"/>
+ <node id="7499938251" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109390" lon="-59.4984485"/>
+ <node id="7499938252" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105642" lon="-59.4992135"/>
+ <node id="7499938253" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105535" lon="-59.4992108"/>
+ <node id="7499938254" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105441" lon="-59.4992043"/>
+ <node id="7499938255" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105368" lon="-59.4991946"/>
+ <node id="7499938256" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105324" lon="-59.4991826"/>
+ <node id="7499938257" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105313" lon="-59.4991696"/>
+ <node id="7499938258" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8105336" lon="-59.4991568"/>
+ <node id="7499938259" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109198" lon="-59.4984625"/>
+ <node id="7499938260" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109508" lon="-59.4984479"/>
+ <node id="7499938261" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109621" lon="-59.4984521"/>
+ <node id="7499938262" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109716" lon="-59.4984607"/>
+ <node id="7499938263" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109780" lon="-59.4984727"/>
+ <node id="7499938264" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109807" lon="-59.4984866"/>
+ <node id="7499938265" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109794" lon="-59.4985008"/>
+ <node id="7499938266" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216" lat="-33.8109741" lon="-59.4985135"/>
+ <node id="7499947386" visible="true" version="1" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8040843" lon="-59.5062561"/>
+ <node id="7499947387" visible="true" version="1" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8029070" lon="-59.5053109"/>
+ <node id="7499947388" visible="true" version="1" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8034340" lon="-59.5044348"/>
+ <node id="7499947389" visible="true" version="1" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216" lat="-33.8045809" lon="-59.5053922"/>
+ <node id="7530037406" visible="true" version="1" changeset="85348123" timestamp="2020-05-17T20:37:46Z" user="Juan Manuel Dócile" uid="8648323" lat="-33.8091205" lon="-59.4981139"/>
+ <node id="7530037407" visible="true" version="1" changeset="85348123" timestamp="2020-05-17T20:37:46Z" user="Juan Manuel Dócile" uid="8648323" lat="-33.8093360" lon="-59.4977187"/>
+ <node id="7530037408" visible="true" version="1" changeset="85348123" timestamp="2020-05-17T20:37:46Z" user="Juan Manuel Dócile" uid="8648323" lat="-33.8091178" lon="-59.4975464"/>
+ <node id="7530037409" visible="true" version="1" changeset="85348123" timestamp="2020-05-17T20:37:46Z" user="Juan Manuel Dócile" uid="8648323" lat="-33.8089024" lon="-59.4979417"/>
+ <node id="7530074816" visible="true" version="1" changeset="85349205" timestamp="2020-05-17T21:24:42Z" user="Hora" uid="9105" lat="-33.8093907" lon="-59.5018405">
+  <tag k="addr:full" v="Laprida"/>
+  <tag k="addr:postcode" v="2942"/>
+  <tag k="amenity" v="hospital"/>
+  <tag k="healthcare" v="hospital"/>
+  <tag k="name" v="Clinica Privada Moderna"/>
+  <tag k="operator" v="Privado"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="ref:sisa_codigo" v="10060702305010"/>
+  <tag k="ref:sisa_tipologia" v="ESCIG"/>
+ </node>
+ <node id="7530164854" visible="true" version="1" changeset="85349565" timestamp="2020-05-17T21:43:38Z" user="Juan Manuel Dócile" uid="8648323" lat="-33.8101563" lon="-59.5017754"/>
+ <node id="7530164855" visible="true" version="1" changeset="85349565" timestamp="2020-05-17T21:43:38Z" user="Juan Manuel Dócile" uid="8648323" lat="-33.8100706" lon="-59.5017117"/>
+ <node id="7530164856" visible="true" version="1" changeset="85349565" timestamp="2020-05-17T21:43:38Z" user="Juan Manuel Dócile" uid="8648323" lat="-33.8099608" lon="-59.5019257"/>
+ <node id="7530164857" visible="true" version="1" changeset="85349565" timestamp="2020-05-17T21:43:38Z" user="Juan Manuel Dócile" uid="8648323" lat="-33.8100466" lon="-59.5019894"/>
+ <node id="11063421188" visible="true" version="1" changeset="138900273" timestamp="2023-07-23T15:55:38Z" user="es_Abii" uid="17072755" lat="-33.8101409" lon="-59.5026792">
+  <tag k="amenity" v="cafe"/>
+  <tag k="check_date" v="2023-07-23"/>
+  <tag k="cuisine" v="coffee_shop"/>
+  <tag k="name" v="Almacen de los Pasteles"/>
+ </node>
+ <node id="11063421189" visible="true" version="1" changeset="138900273" timestamp="2023-07-23T15:55:38Z" user="es_Abii" uid="17072755" lat="-33.8085307" lon="-59.5054035">
+  <tag k="amenity" v="veterinary"/>
+  <tag k="check_date" v="2023-07-23"/>
+  <tag k="name" v="El Negro"/>
+ </node>
+ <node id="12431159302" visible="true" version="1" changeset="160357865" timestamp="2024-12-18T16:07:43Z" user="patodiez" uid="1856060" lat="-33.8030565" lon="-59.4954773"/>
+ <node id="12431159305" visible="true" version="1" changeset="160357865" timestamp="2024-12-18T16:07:43Z" user="patodiez" uid="1856060" lat="-33.8030403" lon="-59.4954333"/>
+ <node id="12434841730" visible="true" version="1" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8067178" lon="-59.4967487"/>
+ <node id="12434841731" visible="true" version="1" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8065773" lon="-59.4966420"/>
+ <node id="12434841732" visible="true" version="1" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060" lat="-33.8072144" lon="-59.4970334"/>
+ <node id="12766600768" visible="true" version="1" changeset="165125530" timestamp="2025-04-18T18:18:45Z" user="MetoLogica" uid="280539" lat="-33.8069711" lon="-59.5029907">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Capri"/>
+ </node>
+ <node id="12766615038" visible="true" version="1" changeset="165125530" timestamp="2025-04-18T18:15:45Z" user="MetoLogica" uid="280539" lat="-33.8086456" lon="-59.5049661">
+  <tag k="name" v="Hotel Bariloche"/>
+  <tag k="tourism" v="hotel"/>
+ </node>
+ <node id="12766616336" visible="true" version="1" changeset="165125530" timestamp="2025-04-18T18:19:09Z" user="MetoLogica" uid="280539" lat="-33.8062852" lon="-59.5024377">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Sportivo"/>
+ </node>
+ <way id="228161261" visible="true" version="13" changeset="138896876" timestamp="2023-07-23T14:59:55Z" user="es_Abii" uid="17072755">
+  <nd ref="2367940099"/>
+  <nd ref="3830191441"/>
+  <nd ref="2367938814"/>
+  <nd ref="2367940093"/>
+  <nd ref="2367940100"/>
+  <nd ref="2367938809"/>
+  <nd ref="2367938796"/>
+  <nd ref="2367938804"/>
+  <nd ref="2367961121"/>
+  <nd ref="2367961060"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="1"/>
+  <tag k="name" v="René Simón"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161262" visible="true" version="5" changeset="138896876" timestamp="2023-07-23T14:59:29Z" user="es_Abii" uid="17072755">
+  <nd ref="2367938811"/>
+  <nd ref="2367938816"/>
+  <nd ref="2367938796"/>
+  <nd ref="2367938807"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="1"/>
+  <tag k="name" v="Malabia"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161263" visible="true" version="10" changeset="138895360" timestamp="2023-07-23T15:00:05Z" user="es_Abii" uid="17072755">
+  <nd ref="2367938802"/>
+  <nd ref="2367938823"/>
+  <nd ref="2367938808"/>
+  <nd ref="2477224937"/>
+  <nd ref="2367938814"/>
+  <nd ref="2367938822"/>
+  <nd ref="2367941976"/>
+  <nd ref="2367941996"/>
+  <nd ref="2367938805"/>
+  <nd ref="2367942977"/>
+  <nd ref="2367942959"/>
+  <nd ref="2367944769"/>
+  <nd ref="2367944792"/>
+  <nd ref="2367953326"/>
+  <nd ref="2367953419"/>
+  <nd ref="2367953442"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Gascón"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161264" visible="true" version="8" changeset="160417579" timestamp="2024-12-20T03:51:50Z" user="patodiez" uid="1856060">
+  <nd ref="2477226970"/>
+  <nd ref="2477226956"/>
+  <nd ref="2477226968"/>
+  <nd ref="12434841731"/>
+  <nd ref="12434841730"/>
+  <nd ref="2477226958"/>
+  <nd ref="12434841732"/>
+  <nd ref="2367938801"/>
+  <nd ref="2367938797"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="René Simón"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161265" visible="true" version="5" changeset="138896876" timestamp="2023-07-23T14:59:10Z" user="es_Abii" uid="17072755">
+  <nd ref="2367938810"/>
+  <nd ref="2367938809"/>
+  <nd ref="2367938818"/>
+  <nd ref="2367938821"/>
+  <nd ref="2367938800"/>
+  <nd ref="2367938798"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="1"/>
+  <tag k="name" v="Malabia"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161407" visible="true" version="10" changeset="138895360" timestamp="2023-07-23T15:00:53Z" user="es_Abii" uid="17072755">
+  <nd ref="2367953307"/>
+  <nd ref="2367953395"/>
+  <nd ref="2367953495"/>
+  <nd ref="2367944793"/>
+  <nd ref="2367944791"/>
+  <nd ref="2367942995"/>
+  <nd ref="2367942962"/>
+  <nd ref="2367942948"/>
+  <nd ref="2367941984"/>
+  <nd ref="2367941991"/>
+  <nd ref="2367938810"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Malabia"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161408" visible="true" version="7" changeset="138895360" timestamp="2023-07-23T15:00:52Z" user="es_Abii" uid="17072755">
+  <nd ref="2367940111"/>
+  <nd ref="2367940113"/>
+  <nd ref="2367940124"/>
+  <nd ref="2367940119"/>
+  <nd ref="2367940100"/>
+  <nd ref="2367940122"/>
+  <nd ref="2367941988"/>
+  <nd ref="2367941973"/>
+  <nd ref="2367942997"/>
+  <nd ref="2367943001"/>
+  <nd ref="2367942953"/>
+  <nd ref="2367944787"/>
+  <nd ref="2367944781"/>
+  <nd ref="2367953317"/>
+  <nd ref="2367953289"/>
+  <nd ref="2367940104"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Darragueira"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161596" visible="true" version="9" changeset="138895360" timestamp="2023-07-23T15:00:55Z" user="es_Abii" uid="17072755">
+  <nd ref="2367941986"/>
+  <nd ref="7499901264"/>
+  <nd ref="7499901261"/>
+  <nd ref="2367941999"/>
+  <nd ref="2367941972"/>
+  <nd ref="2367941992"/>
+  <nd ref="2367941975"/>
+  <nd ref="2367941985"/>
+  <nd ref="2367941977"/>
+  <nd ref="2367941976"/>
+  <nd ref="2367941995"/>
+  <nd ref="2367941988"/>
+  <nd ref="2367941991"/>
+  <nd ref="2367942001"/>
+  <nd ref="2367961082"/>
+  <nd ref="2367941997"/>
+  <nd ref="2367941971"/>
+  <nd ref="7499901272"/>
+  <nd ref="2477226945"/>
+  <nd ref="2477226950"/>
+  <nd ref="5993356332"/>
+  <nd ref="2477226960"/>
+  <nd ref="2477226974"/>
+  <nd ref="2477226946"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Cabrera"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161597" visible="true" version="8" changeset="160357865" timestamp="2024-12-18T16:07:43Z" user="patodiez" uid="1856060">
+  <nd ref="12431159305"/>
+  <nd ref="12431159302"/>
+  <nd ref="7499870999"/>
+  <nd ref="2367941981"/>
+  <nd ref="5993356330"/>
+  <nd ref="7499870998"/>
+  <nd ref="2367941989"/>
+  <nd ref="2367961098"/>
+  <nd ref="2367961195"/>
+  <nd ref="2367941993"/>
+  <nd ref="2367941984"/>
+  <nd ref="2367941973"/>
+  <nd ref="2367941994"/>
+  <nd ref="2367941996"/>
+  <nd ref="2367942000"/>
+  <nd ref="2367941980"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Boedo"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161668" visible="true" version="17" changeset="174180408" timestamp="2025-11-04T08:25:58Z" user="JudaeanDesert" uid="22435578">
+  <nd ref="2367961171"/>
+  <nd ref="2367942991"/>
+  <nd ref="2367942944"/>
+  <nd ref="2367941837"/>
+  <nd ref="2367942957"/>
+  <nd ref="2367942969"/>
+  <nd ref="2367943009"/>
+  <nd ref="2367942961"/>
+  <nd ref="2367941843"/>
+  <nd ref="2367942973"/>
+  <nd ref="2367942999"/>
+  <nd ref="2367942946"/>
+  <nd ref="2367942959"/>
+  <nd ref="2367942993"/>
+  <nd ref="2367942953"/>
+  <nd ref="2367942995"/>
+  <nd ref="2367942960"/>
+  <nd ref="2367953448"/>
+  <nd ref="2367961136"/>
+  <nd ref="2367942941"/>
+  <nd ref="2385614985"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lane_markings" v="no"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="name" v="Avenida San Martín"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161671" visible="true" version="8" changeset="138895360" timestamp="2023-07-23T14:44:25Z" user="es_Abii" uid="17072755">
+  <nd ref="2367943005"/>
+  <nd ref="2367942956"/>
+  <nd ref="2367938805"/>
+  <nd ref="2367943014"/>
+  <nd ref="2367942997"/>
+  <nd ref="2367942948"/>
+  <nd ref="2367942958"/>
+  <nd ref="2367961044"/>
+  <nd ref="2367961152"/>
+  <nd ref="2367988965"/>
+  <nd ref="2367988936"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Laprida"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228161673" visible="true" version="7" changeset="24683922" timestamp="2014-08-11T17:36:59Z" user="marcoas" uid="101378">
+  <nd ref="2367988955"/>
+  <nd ref="2367988953"/>
+  <nd ref="2367961094"/>
+  <nd ref="2367953297"/>
+  <nd ref="2367942964"/>
+  <nd ref="2367942962"/>
+  <nd ref="2367943001"/>
+  <nd ref="2367942989"/>
+  <nd ref="2367942977"/>
+  <nd ref="2367942967"/>
+  <nd ref="2367942971"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Anchorena"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="228161712" visible="true" version="11" changeset="120101246" timestamp="2022-04-23T18:32:29Z" user="Camello_AR" uid="657643">
+  <nd ref="2367944782"/>
+  <nd ref="2367944772"/>
+  <nd ref="2367944792"/>
+  <nd ref="2367944768"/>
+  <nd ref="2367944781"/>
+  <nd ref="2367944793"/>
+  <nd ref="2367944775"/>
+  <nd ref="2367953300"/>
+  <nd ref="2367961199"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Sáenz"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="228162442" visible="true" version="7" changeset="138895360" timestamp="2023-07-23T15:00:18Z" user="es_Abii" uid="17072755">
+  <nd ref="2367953356"/>
+  <nd ref="2367953371"/>
+  <nd ref="2367953500"/>
+  <nd ref="2367953300"/>
+  <nd ref="2367953359"/>
+  <nd ref="2367953448"/>
+  <nd ref="6424351941"/>
+  <nd ref="2367953297"/>
+  <nd ref="2367961044"/>
+  <nd ref="2367961195"/>
+  <nd ref="2367961082"/>
+  <nd ref="2367961111"/>
+  <nd ref="2367961121"/>
+  <nd ref="2367941828"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rodríguez"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="228162453" visible="true" version="6" changeset="31831696" timestamp="2015-06-08T23:48:01Z" user="carlina sabatella" uid="2974255">
+  <nd ref="2367953305"/>
+  <nd ref="2367961032"/>
+  <nd ref="2367988967"/>
+  <nd ref="2367988939"/>
+  <nd ref="2367988949"/>
+  <nd ref="2367988940"/>
+  <nd ref="2367988935"/>
+  <nd ref="2367961034"/>
+  <nd ref="2367961068"/>
+  <nd ref="2367953500"/>
+  <nd ref="2367953414"/>
+  <nd ref="2367953495"/>
+  <nd ref="2367953317"/>
+  <nd ref="2367953444"/>
+  <nd ref="2367953326"/>
+  <nd ref="2367953339"/>
+  <nd ref="2367953357"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Thames"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="228162456" visible="true" version="3" changeset="24683357" timestamp="2014-08-11T17:09:57Z" user="marcoas" uid="101378">
+  <nd ref="2367953281"/>
+  <nd ref="2367953293"/>
+  <nd ref="2367953419"/>
+  <nd ref="2367940114"/>
+  <nd ref="2367953310"/>
+  <nd ref="2367953289"/>
+  <nd ref="2367953395"/>
+  <nd ref="2367953502"/>
+  <nd ref="2367953371"/>
+  <nd ref="2367961105"/>
+  <nd ref="2367953375"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Gorriti"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="228162645" visible="true" version="3" changeset="69506362" timestamp="2019-04-23T22:32:03Z" user="MatiasJ" uid="3837224">
+  <nd ref="2367941829"/>
+  <nd ref="2367941857"/>
+  <nd ref="2367941832"/>
+  <nd ref="2367941871"/>
+  <nd ref="2367961060"/>
+  <nd ref="2367938797"/>
+  <nd ref="2367941997"/>
+  <nd ref="2367961098"/>
+  <nd ref="2367961152"/>
+  <nd ref="2367961094"/>
+  <nd ref="6424351940"/>
+  <nd ref="2367961136"/>
+  <nd ref="2367961123"/>
+  <nd ref="2367961199"/>
+  <nd ref="2367961068"/>
+  <nd ref="2367961105"/>
+  <nd ref="2367953460"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Bulnes"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="228162649" visible="true" version="6" changeset="174853225" timestamp="2025-11-19T10:50:34Z" user="AndresDuhour" uid="2985830">
+  <nd ref="2367953302"/>
+  <nd ref="2367953375"/>
+  <nd ref="2367961034"/>
+  <nd ref="2367988942"/>
+  <nd ref="2367944783"/>
+  <nd ref="2367942941"/>
+  <nd ref="2367988953"/>
+  <nd ref="2367988965"/>
+  <nd ref="2367941989"/>
+  <nd ref="7499901265"/>
+  <nd ref="2367941971"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Paso"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="228163421" visible="true" version="4" changeset="54350190" timestamp="2017-12-05T01:14:45Z" user="pocho35" uid="869129">
+  <nd ref="2367988935"/>
+  <nd ref="2367988930"/>
+  <nd ref="2367944765"/>
+  <nd ref="2367988966"/>
+  <nd ref="2385614985"/>
+  <nd ref="2367988955"/>
+  <nd ref="2367988936"/>
+  <nd ref="2367988941"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Acevedo"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="239949279" visible="true" version="4" changeset="34558847" timestamp="2015-10-10T21:50:42Z" user="FvGordon" uid="161619">
+  <nd ref="2477226534"/>
+  <nd ref="3781367761"/>
+  <nd ref="2477226538"/>
+  <nd ref="2477226539"/>
+  <nd ref="2477226534"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Plaza Mitre"/>
+ </way>
+ <way id="239949320" visible="true" version="8" changeset="138896876" timestamp="2023-07-23T14:59:59Z" user="es_Abii" uid="17072755">
+  <nd ref="2367938797"/>
+  <nd ref="2367961111"/>
+  <nd ref="2367938799"/>
+  <nd ref="2367938807"/>
+  <nd ref="2367938810"/>
+  <nd ref="2367940122"/>
+  <nd ref="2367940092"/>
+  <nd ref="2367938822"/>
+  <nd ref="2367940107"/>
+  <nd ref="2367938819"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="1"/>
+  <tag k="name" v="René Simón"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="301191091" visible="true" version="5" changeset="138895360" timestamp="2023-07-23T14:43:54Z" user="es_Abii" uid="17072755">
+  <nd ref="2367944783"/>
+  <nd ref="2367961123"/>
+  <nd ref="2367953359"/>
+  <nd ref="2367944778"/>
+  <nd ref="2367944791"/>
+  <nd ref="2367944787"/>
+  <nd ref="2367944789"/>
+  <nd ref="2367944769"/>
+  <nd ref="2367944767"/>
+  <nd ref="2367944774"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Aráoz"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="301191122" visible="true" version="5" changeset="138895360" timestamp="2023-07-23T14:58:37Z" user="es_Abii" uid="17072755">
+  <nd ref="2367940114"/>
+  <nd ref="2367953444"/>
+  <nd ref="2367944768"/>
+  <nd ref="2367944789"/>
+  <nd ref="2367942993"/>
+  <nd ref="2367942989"/>
+  <nd ref="2367943014"/>
+  <nd ref="2367941994"/>
+  <nd ref="2367941995"/>
+  <nd ref="2367940092"/>
+  <nd ref="2367940093"/>
+  <nd ref="2367938806"/>
+  <nd ref="2477224940"/>
+  <nd ref="2367940115"/>
+  <nd ref="2367940117"/>
+  <nd ref="2366201343"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Colombres"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="311603187" visible="true" version="3" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216">
+  <nd ref="2367961060"/>
+  <nd ref="2477226959"/>
+  <nd ref="7499938243"/>
+  <nd ref="7499938246"/>
+  <nd ref="2367938803"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Rene Simon"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="360897430" visible="true" version="1" changeset="32677008" timestamp="2015-07-16T15:20:18Z" user="calfarome" uid="2511706">
+  <nd ref="2367988936"/>
+  <nd ref="2367942943"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Laprida"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="379691341" visible="true" version="2" changeset="36070346" timestamp="2015-12-20T18:10:37Z" user="mweper" uid="1311281">
+  <nd ref="3830193486"/>
+  <nd ref="3901902702"/>
+  <nd ref="3830193487"/>
+  <nd ref="3830193488"/>
+  <nd ref="3830193489"/>
+  <nd ref="3901902696"/>
+  <nd ref="3830193486"/>
+  <tag k="addr:city" v="Baradero"/>
+  <tag k="addr:postcode" v="2942"/>
+  <tag k="addr:street" v="San Martín y Rodríguez"/>
+  <tag k="amenity" v="townhall"/>
+  <tag k="name" v="Municipalidad de Baradero"/>
+ </way>
+ <way id="379861396" visible="true" version="5" changeset="120101378" timestamp="2022-04-23T18:37:46Z" user="Camello_AR" uid="657643">
+  <nd ref="3832068457"/>
+  <nd ref="7499901221"/>
+  <nd ref="3832068458"/>
+  <nd ref="3832068459"/>
+  <nd ref="3832068460"/>
+  <nd ref="3832068457"/>
+  <tag k="addr:city" v="Baradero"/>
+  <tag k="addr:housenumber" v="900"/>
+  <tag k="addr:postcode" v="2942"/>
+  <tag k="addr:street" v="Anchorena"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Escuela de Educación Primaria N° 1 &quot;Gral. José de San Martín&quot;"/>
+ </way>
+ <way id="386834199" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216">
+  <nd ref="3830193486"/>
+  <nd ref="3901902702"/>
+  <nd ref="3901902701"/>
+  <nd ref="3901902700"/>
+  <nd ref="3901902698"/>
+  <nd ref="3901902699"/>
+  <nd ref="3901902697"/>
+  <nd ref="3901902696"/>
+  <nd ref="3830193486"/>
+  <tag k="addr:city" v="Baradero"/>
+  <tag k="addr:housenumber" v="905"/>
+  <tag k="addr:postcode" v="2942"/>
+  <tag k="addr:street" v="Avenida San Martín"/>
+  <tag k="amenity" v="townhall"/>
+  <tag k="building" v="townhall"/>
+  <tag k="townhall:type" v="city"/>
+ </way>
+ <way id="448060697" visible="true" version="1" changeset="42948100" timestamp="2016-10-17T00:29:24Z" user="Aguilas" uid="4548031">
+  <nd ref="4451146586"/>
+  <nd ref="4451146587"/>
+  <nd ref="4451146588"/>
+  <nd ref="4451146889"/>
+  <nd ref="4451146586"/>
+  <tag k="addr:city" v="Baradero"/>
+  <tag k="addr:housenumber" v="924"/>
+  <tag k="addr:postcode" v="2942"/>
+  <tag k="addr:street" v="Anchorena"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="building" v="yes"/>
+  <tag k="denomination" v="roman_catholic"/>
+  <tag k="name" v="Parroquia Santiago Apóstol"/>
+  <tag k="religion" v="christian"/>
+ </way>
+ <way id="601167979" visible="true" version="3" changeset="138895360" timestamp="2023-07-23T15:01:03Z" user="es_Abii" uid="17072755">
+  <nd ref="2366209410"/>
+  <nd ref="2366209406"/>
+  <nd ref="2366209404"/>
+  <nd ref="2367938824"/>
+  <nd ref="2367938804"/>
+  <nd ref="2367938799"/>
+  <nd ref="2367942001"/>
+  <nd ref="2367941993"/>
+  <nd ref="2367942958"/>
+  <nd ref="2367942964"/>
+  <nd ref="2367942960"/>
+  <nd ref="2367944778"/>
+  <nd ref="2367944775"/>
+  <nd ref="2367953414"/>
+  <nd ref="2367953502"/>
+  <nd ref="2367953455"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Santa María de Oro"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="601167985" visible="true" version="2" changeset="138895360" timestamp="2023-07-23T14:59:17Z" user="es_Abii" uid="17072755">
+  <nd ref="2367941828"/>
+  <nd ref="2367938824"/>
+  <nd ref="2367938816"/>
+  <nd ref="2367938818"/>
+  <nd ref="2367940119"/>
+  <nd ref="2367938806"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Castro Barros"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="635329950" visible="true" version="2" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216">
+  <nd ref="5993356330"/>
+  <nd ref="5993356331"/>
+  <nd ref="7499871005"/>
+  <nd ref="5993356332"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+ </way>
+ <way id="685524802" visible="true" version="3" changeset="84923749" timestamp="2020-05-09T03:09:13Z" user="CorazonDelator" uid="8127216">
+  <nd ref="6424351941"/>
+  <nd ref="6424351940"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="name" v="Avenida San Martín"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="801819092" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499861701"/>
+  <nd ref="7499861693"/>
+  <nd ref="7499861694"/>
+  <nd ref="7499861702"/>
+  <nd ref="7499861703"/>
+  <nd ref="7499861704"/>
+  <nd ref="7499861705"/>
+  <nd ref="7499861706"/>
+  <nd ref="7499861707"/>
+  <nd ref="7499861708"/>
+  <nd ref="7499861709"/>
+  <nd ref="7499861691"/>
+  <nd ref="7499861692"/>
+  <nd ref="7499861695"/>
+  <nd ref="7499861696"/>
+  <nd ref="7499861697"/>
+  <nd ref="7499861698"/>
+  <nd ref="7499861699"/>
+  <nd ref="7499861700"/>
+  <nd ref="7499861701"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="801819093" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499861722"/>
+  <nd ref="7499861723"/>
+  <nd ref="7499861724"/>
+  <nd ref="7499861725"/>
+  <nd ref="7499861726"/>
+  <nd ref="7499861727"/>
+  <nd ref="7499861728"/>
+  <nd ref="7499861710"/>
+  <nd ref="7499861711"/>
+  <nd ref="7499861714"/>
+  <nd ref="7499861715"/>
+  <nd ref="7499861716"/>
+  <nd ref="7499861717"/>
+  <nd ref="7499861718"/>
+  <nd ref="7499861719"/>
+  <nd ref="7499861720"/>
+  <nd ref="7499861721"/>
+  <nd ref="7499861712"/>
+  <nd ref="7499861713"/>
+  <nd ref="7499861722"/>
+  <tag k="historic" v="memorial"/>
+ </way>
+ <way id="801819095" visible="true" version="1" changeset="84923325" timestamp="2020-05-09T02:28:52Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499861754"/>
+  <nd ref="7499861755"/>
+  <nd ref="7499861756"/>
+  <nd ref="7499861757"/>
+  <nd ref="7499861758"/>
+  <nd ref="7499861759"/>
+  <nd ref="7499861760"/>
+  <nd ref="7499861761"/>
+  <nd ref="7499861762"/>
+  <nd ref="7499861763"/>
+  <nd ref="7499861764"/>
+  <nd ref="7499861765"/>
+  <nd ref="7499861766"/>
+  <nd ref="7499861767"/>
+  <nd ref="7499861754"/>
+  <tag k="amenity" v="school"/>
+  <tag k="building" v="school"/>
+  <tag k="name" v="Escuela de Educación Secundaria Nº4"/>
+ </way>
+ <way id="801826479" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499938129"/>
+  <nd ref="7499938130"/>
+  <nd ref="7499938138"/>
+  <nd ref="7499938139"/>
+  <nd ref="7499938140"/>
+  <nd ref="7499938141"/>
+  <nd ref="7499938142"/>
+  <nd ref="7499938143"/>
+  <nd ref="7499938144"/>
+  <nd ref="7499938145"/>
+  <nd ref="7499938127"/>
+  <nd ref="7499938128"/>
+  <nd ref="7499938131"/>
+  <nd ref="7499938132"/>
+  <nd ref="7499938133"/>
+  <nd ref="7499938134"/>
+  <nd ref="7499938135"/>
+  <nd ref="7499938136"/>
+  <nd ref="7499938137"/>
+  <nd ref="7499938129"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="801826480" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499938157"/>
+  <nd ref="7499938158"/>
+  <nd ref="7499938159"/>
+  <nd ref="7499938160"/>
+  <nd ref="7499938161"/>
+  <nd ref="7499938162"/>
+  <nd ref="7499938163"/>
+  <nd ref="7499938164"/>
+  <nd ref="7499938146"/>
+  <nd ref="7499938147"/>
+  <nd ref="7499938150"/>
+  <nd ref="7499938151"/>
+  <nd ref="7499938152"/>
+  <nd ref="7499938153"/>
+  <nd ref="7499938154"/>
+  <nd ref="7499938155"/>
+  <nd ref="7499938156"/>
+  <nd ref="7499938148"/>
+  <nd ref="7499938149"/>
+  <nd ref="7499938157"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="801826481" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499938167"/>
+  <nd ref="7499938168"/>
+  <nd ref="7499938177"/>
+  <nd ref="7499938178"/>
+  <nd ref="7499938179"/>
+  <nd ref="7499938180"/>
+  <nd ref="7499938181"/>
+  <nd ref="7499938182"/>
+  <nd ref="7499938183"/>
+  <nd ref="7499938165"/>
+  <nd ref="7499938166"/>
+  <nd ref="7499938169"/>
+  <nd ref="7499938170"/>
+  <nd ref="7499938171"/>
+  <nd ref="7499938172"/>
+  <nd ref="7499938173"/>
+  <nd ref="7499938174"/>
+  <nd ref="7499938175"/>
+  <nd ref="7499938176"/>
+  <nd ref="7499938167"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="801826482" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499938186"/>
+  <nd ref="7499938187"/>
+  <nd ref="7499938196"/>
+  <nd ref="7499938197"/>
+  <nd ref="7499938198"/>
+  <nd ref="7499938199"/>
+  <nd ref="7499938200"/>
+  <nd ref="7499938201"/>
+  <nd ref="7499938202"/>
+  <nd ref="7499938184"/>
+  <nd ref="7499938185"/>
+  <nd ref="7499938188"/>
+  <nd ref="7499938189"/>
+  <nd ref="7499938190"/>
+  <nd ref="7499938191"/>
+  <nd ref="7499938192"/>
+  <nd ref="7499938193"/>
+  <nd ref="7499938194"/>
+  <nd ref="7499938195"/>
+  <nd ref="7499938186"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="801826483" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499938213"/>
+  <nd ref="7499938205"/>
+  <nd ref="7499938206"/>
+  <nd ref="7499938214"/>
+  <nd ref="7499938215"/>
+  <nd ref="7499938216"/>
+  <nd ref="7499938217"/>
+  <nd ref="7499938218"/>
+  <nd ref="7499938219"/>
+  <nd ref="7499938220"/>
+  <nd ref="7499938221"/>
+  <nd ref="7499938203"/>
+  <nd ref="7499938204"/>
+  <nd ref="7499938207"/>
+  <nd ref="7499938208"/>
+  <nd ref="7499938209"/>
+  <nd ref="7499938210"/>
+  <nd ref="7499938211"/>
+  <nd ref="7499938212"/>
+  <nd ref="7499938213"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="801826484" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499938232"/>
+  <nd ref="7499938224"/>
+  <nd ref="7499938225"/>
+  <nd ref="7499938233"/>
+  <nd ref="7499938234"/>
+  <nd ref="7499938235"/>
+  <nd ref="7499938236"/>
+  <nd ref="7499938237"/>
+  <nd ref="7499938238"/>
+  <nd ref="7499938239"/>
+  <nd ref="7499938240"/>
+  <nd ref="7499938242"/>
+  <nd ref="7499938241"/>
+  <nd ref="7499938222"/>
+  <nd ref="7499938223"/>
+  <nd ref="7499938226"/>
+  <nd ref="7499938227"/>
+  <nd ref="7499938228"/>
+  <nd ref="7499938229"/>
+  <nd ref="7499938230"/>
+  <nd ref="7499938231"/>
+  <nd ref="7499938232"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="801826485" visible="true" version="1" changeset="84924401" timestamp="2020-05-09T03:52:58Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499938259"/>
+  <nd ref="7499938250"/>
+  <nd ref="7499938251"/>
+  <nd ref="7499938260"/>
+  <nd ref="7499938261"/>
+  <nd ref="7499938262"/>
+  <nd ref="7499938263"/>
+  <nd ref="7499938264"/>
+  <nd ref="7499938265"/>
+  <nd ref="7499938266"/>
+  <nd ref="7499938248"/>
+  <nd ref="7499938249"/>
+  <nd ref="7499938252"/>
+  <nd ref="7499938253"/>
+  <nd ref="7499938254"/>
+  <nd ref="7499938255"/>
+  <nd ref="7499938256"/>
+  <nd ref="7499938257"/>
+  <nd ref="7499938258"/>
+  <nd ref="7499938259"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="801827866" visible="true" version="1" changeset="84924682" timestamp="2020-05-09T04:16:25Z" user="CorazonDelator" uid="8127216">
+  <nd ref="7499947386"/>
+  <nd ref="7499947387"/>
+  <nd ref="7499947388"/>
+  <nd ref="7499947389"/>
+  <nd ref="7499947386"/>
+  <tag k="addr:city" v="Baradero"/>
+  <tag k="addr:postcode" v="2942"/>
+  <tag k="addr:street" v="Gorriti y Rodriguez"/>
+  <tag k="building" v="yes"/>
+  <tag k="club" v="sport"/>
+  <tag k="name" v="Club Atlético Baradero"/>
+ </way>
+ <way id="805118281" visible="true" version="2" changeset="184747737" timestamp="2026-06-28T15:45:39Z" user="confusedbuffalo" uid="242345">
+  <nd ref="7530037406"/>
+  <nd ref="7530037407"/>
+  <nd ref="7530037408"/>
+  <nd ref="7530037409"/>
+  <nd ref="7530037406"/>
+  <tag k="addr:city" v="Baradero"/>
+  <tag k="addr:housenumber" v="910"/>
+  <tag k="addr:postcode" v="B2942EEQ"/>
+  <tag k="addr:street" v="René Simón"/>
+  <tag k="amenity" v="hospital"/>
+  <tag k="healthcare" v="hospital"/>
+  <tag k="name" v="Sanatorio O.S.P.R.E.M."/>
+  <tag k="operator" v="SAMI Baradero S. A."/>
+  <tag k="operator:type" v="private"/>
+  <tag k="phone" v="+54 3329 48 0108; +54 3329 48 2511"/>
+  <tag k="ref:sisa_codigo" v="10060702705006"/>
+  <tag k="ref:sisa_tipologia" v="ESCIG"/>
+ </way>
+ <way id="805136982" visible="true" version="1" changeset="85349565" timestamp="2020-05-17T21:43:38Z" user="Juan Manuel Dócile" uid="8648323">
+  <nd ref="7530164854"/>
+  <nd ref="7530164855"/>
+  <nd ref="7530164856"/>
+  <nd ref="7530164857"/>
+  <nd ref="7530164854"/>
+  <tag k="addr:city" v="Baradero"/>
+  <tag k="addr:housenumber" v="1167"/>
+  <tag k="addr:postcode" v="B2942EBQ"/>
+  <tag k="addr:street" v="Boedo"/>
+  <tag k="amenity" v="hospital"/>
+  <tag k="healthcare" v="hospital"/>
+  <tag k="name" v="Clínica Privada Moderna"/>
+  <tag k="operator" v="Clínica Privada Moderna S.A."/>
+  <tag k="operator:type" v="private"/>
+  <tag k="phone" v="+543329480202"/>
+  <tag k="ref:sisa_codigo" v="10060702300135"/>
+  <tag k="ref:sisa_tipologia" v="ESCIG"/>
+ </way>
+</osm>
