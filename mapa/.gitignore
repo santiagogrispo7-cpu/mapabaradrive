@@ -1,0 +1,4 @@
+.deps/
+logs/
+blender/*_trabajo_*.blend*
+*.blend1

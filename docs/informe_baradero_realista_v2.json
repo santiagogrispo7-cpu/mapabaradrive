@@ -1,0 +1,95 @@
+{
+  "phase": "realista_v2",
+  "blender_version": "4.2.23 LTS",
+  "root_collection": "BARA_LUGARES_REALES",
+  "plaza": {
+    "center": [
+      -0.17,
+      60.5
+    ],
+    "angle": 2.5736169294605764,
+    "radius": 24.0,
+    "objects": {
+      "base": "PLAZA_MITRE_CESPED",
+      "curb": "PLAZA_MITRE_CORDON",
+      "paths": "PLAZA_MITRE_SENDEROS",
+      "ring": "PLAZA_MITRE_PERIMETRO",
+      "accent": "PLAZA_MITRE_ANILLO",
+      "lawn": "PLAZA_MITRE_CESPED_INTERIOR",
+      "monument": "PLAZA_MONUMENTO_CONDOR",
+      "condor": "PLAZA_CONDOR"
+    },
+    "trees": 54,
+    "jacarandas": 31,
+    "palms": 12,
+    "green_trees": 8,
+    "shrubs": 22,
+    "benches": 16,
+    "lamps": 16,
+    "bins": 4
+  },
+  "delegation": {
+    "object": "DELEGACION_MUNICIPAL",
+    "center": [
+      -59.98,
+      109.91
+    ],
+    "theta": 0.986109636516305,
+    "width": 32.0,
+    "depth": 13.0,
+    "height": 8.8,
+    "front_distance_plaza": 17.712948300364456,
+    "osm_town_bounds": [
+      -93.62,
+      87.78,
+      -42.29,
+      152.34
+    ],
+    "ramp": "DELEGACION_RAMPA",
+    "logo": "DELEGACION_ESCUDO",
+    "panel": "DELEGACION_PANEL_BARADERO",
+    "planters": "DELEGACION_MACETAS"
+  },
+  "cameras": {
+    "plaza": "CAMARA_PLAZA",
+    "delegacion": "CAMARA_DELEGACION",
+    "monumento": "CAMARA_MONUMENTO",
+    "aerea": "CAMARA_PLAZA_AEREA"
+  },
+  "source_photos": {
+    "plaza": [
+      "referencias/plaza-mitre/desdearriba.jpg",
+      "referencias/plaza-mitre/condor.jpg",
+      "referencias/plaza-mitre/iglesia.jpg",
+      "referencias/plaza-mitre/vereda.jpg",
+      "referencias/plaza-mitre/vereda2.jpg",
+      "referencias/plaza-mitre/vereda3.jpg"
+    ],
+    "delegacion": [
+      "referencias/delegacion/delegacion.jpg"
+    ]
+  },
+  "osm": {
+    "plaza_way": "239949279",
+    "townhall_way": "386834199",
+    "church_way": "448060697",
+    "townhall_address": "Av. San Martin 905, Baradero",
+    "verified": "La huella OSM de la Municipalidad esta a 17.7 m del borde de Plaza Mitre y su frente mira a la plaza."
+  },
+  "limitations": [
+    "Modelo aproximado: las fotos no tienen escala ni mediciones.",
+    "La Delegacion fotografiada es la Municipalidad de Baradero (Av. San Martin 905).",
+    "Senderos, cantidad de arboles y detalles menores son estimaciones.",
+    "No se modelaron personas, vehiculos, cables ni carteles transitorios.",
+    "La iglesia de la foto queda como referencia visual; no se reconstruyo en esta etapa.",
+    "No se modifico ni borro ninguna calle, vereda o edificio existente."
+  ],
+  "output_blend": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_Realista_v2.blend",
+  "source_blend": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_3D.blend",
+  "generated_at": "2026-11-14T16:06:31",
+  "source_sha256": "61b9619a6b37029d01322193bbd45e7de050c16c77727e21d3d77d89c217565b",
+  "osm_alignment": {
+    "matched_ways": 28,
+    "max_error_m": 9.335160258969694e-05
+  }
+}

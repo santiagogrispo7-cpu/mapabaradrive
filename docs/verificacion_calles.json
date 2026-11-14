@@ -1,0 +1,145 @@
+{
+  "verified_file": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_mapa_3d.blend",
+  "blender_version": "5.2.4 LTS",
+  "scene": "Scene",
+  "unit_system": "METRIC",
+  "scale_length": 1.0,
+  "generated_objects": 145,
+  "objects_by_layer": {
+    "CALZADA": 48,
+    "CORDON": 48,
+    "VEREDA": 49
+  },
+  "areas_by_layer_m2": {
+    "CALZADA": 187742.191,
+    "CORDON": 8645.824,
+    "VEREDA": 100315.035
+  },
+  "source_objects": 28,
+  "renders": [
+    "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_superior.png",
+    "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_oblicua.png",
+    "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_detalle_superior.png",
+    "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_detalle_oblicua.png",
+    "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_esquina_superior.png",
+    "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_esquina_oblicua.png"
+  ],
+  "checks": [
+    {
+      "name": "coleccion_raiz",
+      "passed": true,
+      "detail": "BARA_MAPA_3D"
+    },
+    {
+      "name": "coleccion_calles",
+      "passed": true,
+      "detail": "CALLES"
+    },
+    {
+      "name": "coleccion_cordones",
+      "passed": true,
+      "detail": "CORDONES"
+    },
+    {
+      "name": "coleccion_veredas",
+      "passed": true,
+      "detail": "VEREDAS"
+    },
+    {
+      "name": "objetos_generados",
+      "passed": true,
+      "detail": "145 objetos"
+    },
+    {
+      "name": "coleccion_fuente",
+      "passed": true,
+      "detail": "BARA_DRIVE_CALLES"
+    },
+    {
+      "name": "fuente_separada",
+      "passed": true,
+      "detail": "ningun objeto generado dentro de la coleccion fuente"
+    },
+    {
+      "name": "cantidad_calzada",
+      "passed": true,
+      "detail": "esperados 48, encontrados 48"
+    },
+    {
+      "name": "cantidad_cordon",
+      "passed": true,
+      "detail": "esperados 48, encontrados 48"
+    },
+    {
+      "name": "cantidad_vereda",
+      "passed": true,
+      "detail": "esperados 49, encontrados 49"
+    },
+    {
+      "name": "transformaciones_identidad",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "mallas_con_caras",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "materiales_asignados",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "metadatos",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "cotas_esperadas",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "sin_bordes_abiertos",
+      "passed": true,
+      "detail": "0 bordes con una sola cara de 53794"
+    },
+    {
+      "name": "solidos_cerrados",
+      "passed": true,
+      "detail": "0 aristas no manifold"
+    },
+    {
+      "name": "area_calzada",
+      "passed": true,
+      "detail": "informe 187742.2 m2, malla 187742.2 m2, diferencia 0.000%"
+    },
+    {
+      "name": "area_cordon",
+      "passed": true,
+      "detail": "informe 8645.8 m2, malla 8645.8 m2, diferencia 0.000%"
+    },
+    {
+      "name": "area_vereda",
+      "passed": true,
+      "detail": "informe 100315.1 m2, malla 100315.0 m2, diferencia 0.000%"
+    },
+    {
+      "name": "originales_intactos",
+      "passed": true,
+      "detail": "modificados [], faltantes []"
+    },
+    {
+      "name": "calles_originales",
+      "passed": true,
+      "detail": "54 objetos en el diagnostico"
+    },
+    {
+      "name": "vistas_generadas",
+      "passed": true,
+      "detail": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_superior.png, C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_oblicua.png, C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_detalle_superior.png, C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_detalle_oblicua.png, C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_esquina_superior.png, C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_esquina_oblicua.png"
+    }
+  ],
+  "passed": true
+}

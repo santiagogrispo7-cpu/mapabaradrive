@@ -1,0 +1,3349 @@
+{
+  "blender_version": "5.2.4 LTS",
+  "compatibility": "APIs comunes de 4.2 y 5.2. Probado solo en la versión registrada en este informe.",
+  "source_blend": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_mapa.blend",
+  "scene": "Scene",
+  "units": {
+    "system": "METRIC",
+    "scale_length": 1.0
+  },
+  "crs": "EPSG:32721",
+  "origin": {
+    "lat": -33.80752,
+    "lon": -59.50218,
+    "easting_m": 268380.96613998304,
+    "northing_m": 6256370.369211186
+  },
+  "axes": "X este UTM; Y norte de cuadrícula UTM; Z arriba",
+  "objects": [
+    {
+      "name": "Cube",
+      "type": "MESH",
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "signature": "2b00b55ba7bed77dd4633c33c0d4e3286cba66dc4e7dac9a4c618f8d0779c100",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "Light",
+      "type": "LIGHT",
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        4.076245307922363,
+        1.0054539442062378,
+        5.903861999511719
+      ],
+      "rotation_euler": [
+        0.6503279805183411,
+        0.055217113345861435,
+        1.8663908243179321
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          -0.29086464643478394,
+          -0.7711008191108704,
+          0.5663931965827942,
+          4.076245307922363
+        ],
+        [
+          0.9551711678504944,
+          -0.1998833566904068,
+          0.21839119493961334,
+          1.0054539442062378
+        ],
+        [
+          -0.05518905818462372,
+          0.6045247316360474,
+          0.7946722507476807,
+          5.903861999511719
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signature": "520e9842e8b8ffb3430d4ddd43bb572305e9c691a2fafa518b0eaab22819029e",
+      "osm_way_id": null
+    },
+    {
+      "name": "Camera",
+      "type": "CAMERA",
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        7.358891487121582,
+        -6.925790786743164,
+        4.958309173583984
+      ],
+      "rotation_euler": [
+        1.1093189716339111,
+        0.0,
+        0.8149281740188599
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          0.6859206557273865,
+          -0.32401347160339355,
+          0.6515582203865051,
+          7.358891487121582
+        ],
+        [
+          0.7276763319969177,
+          0.305420845746994,
+          -0.6141703724861145,
+          -6.925790786743164
+        ],
+        [
+          0.0,
+          0.8953956365585327,
+          0.44527140259742737,
+          4.958309173583984
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signature": "20fc3bf6ea4f219ed250d31a7975db043cfc36a65ec4882c12ca0b4488960398",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Calle_Asfalto",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        0.0,
+        0.0,
+        -0.10000000149011612
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -0.10000000149011612
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        100.0,
+        8.0,
+        0.20000000298023224
+      ],
+      "signature": "22cfeb3a38fd2158c118e555196673c9dbc9c84c0c5c6ebd5150d6b3b7344a5b",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Vereda_Norte",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        0.0,
+        5.0,
+        0.05000000074505806
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.05000000074505806
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        100.0,
+        2.0,
+        0.20000000298023224
+      ],
+      "signature": "a1b43669eab6310184e81f2a51ec61d9fbf6578b4da29fe4df94959e202b3606",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Vereda_Sur",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        0.0,
+        -5.0,
+        0.05000000074505806
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -5.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.05000000074505806
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        100.0,
+        2.0,
+        0.20000000298023224
+      ],
+      "signature": "953dd3677792ffc4fd9c7e20ab088fa907be3d9f4b5f278e44aac61ccefd560a",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_01",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -47.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -47.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "4e9d96958242ffe679526ac75d7e83d98c598fb47e7d141583d117440f4afeed",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_02",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -42.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -42.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "67da29db96171abed5127f4ca507e50f0701b4c4ada7831719b36d35ccbb36af",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_03",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -37.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -37.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "c517b5de043525ce6d0a3e1fabada74644929e5c6e8c608253ff1d66e1dfd280",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_04",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -32.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -32.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "b4cfa0964d81fdf7b435d1440aee713b08bc76e9bb4382b85364d9971b6754bd",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_05",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -27.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -27.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "3decf1d6f21c815f6a95ea4117182b02e9e4c7c3f26cfa3552cb2a2b8b5611c7",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_06",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -22.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -22.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "9c2d75023f52b3a77ff594c3343606e8bc0f6a1141b85934b5b5410097a7b2b7",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_07",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -17.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -17.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "ef4c5fa6663ef02c46ae428745e71044775998313889f35abaa687f009365fe2",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_08",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -12.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -12.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "d48a2414ddbc17b91abf3158974af1abd02f5393df78244b789d400af47cfca3",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_09",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -7.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -7.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "c347ba1bd43d564094d76fb512606f1809df81b26a620cfd38b8d4bf845f4617",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_10",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        -2.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "ba89c5096935198ab9952a9ffb438f333bda0eb9c0b1578d36bac959ca1b85a7",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_11",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        2.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "09629ff14a1f56b9a7e8a363bf511e59a4c86eaeb29823e241fa33db29a67f6e",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_12",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        7.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          7.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "a3b255ab7e3c2762f7a4c6b3a307b05cb034d571b1a02cb71f53cf738456ed51",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_13",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        12.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          12.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "a1cc2bce82d4b67a25a262df69be1004cc0708b9dbf809cf911f8eb6273f7a5d",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_14",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        17.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          17.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "44e7e3e89c8bb30396d821adaec89b37dccbc5d1c1df3b17f2af421b825243f4",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_15",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        22.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          22.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "da213e56784171bacb2c8ebda0d37d9236270fab910719efb53dfd920e7dd280",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_16",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        27.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          27.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "8d7c00958c40f6af6d74be863e50d6cd81f76d9789107b1ca35b84f8eb248d04",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_17",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        32.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          32.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "0b0fddeb551995a3089d3bdbc4480a2ed1573eb9a76de524ebcf4efdb068872f",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_18",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        37.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          37.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "44aff1e91d81b3fa84319795c0d6bd56a2bb6124315f0000e712534ca421476e",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_19",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        42.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          42.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "b1f86ad012ec52268651001db41425850e7071fbc4421486a9ff969109e959ec",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "PB_Linea_Central_20",
+      "type": "MESH",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "location": [
+        47.5,
+        0.0,
+        0.004999999888241291
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          47.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.004999999888241291
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        3.0,
+        0.15000000596046448,
+        0.009999999776482582
+      ],
+      "signature": "4ce6ced3805b27cfd98f9392f8730ac7c1495f18b3b9cc4282b7baa0afee5222",
+      "vertices": 8,
+      "edges": 12,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": null
+    },
+    {
+      "name": "Calle_228161261_René Simón",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        217.69577026367188,
+        -414.04632568359375,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          217.69577026367188
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -414.04632568359375
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        474.68316650390625,
+        764.471923828125,
+        0.0
+      ],
+      "signature": "c38d9619069a72ebdd285b25c858f96f47f8ed92b05ba2fdf63a2372894893e0",
+      "vertices": 20,
+      "edges": 37,
+      "faces": 18,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161261",
+      "alignment_error_m": 4.713173123391992e-05
+    },
+    {
+      "name": "Calle_228161262_Malabia",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        335.7233581542969,
+        -354.2747802734375,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          335.7233581542969
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -354.2747802734375
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        188.47442626953125,
+        121.67041015625,
+        0.0
+      ],
+      "signature": "bc3be65b354caa5fcd8db2e50f80cd5da93efa968259e5a5531be5085b240c84",
+      "vertices": 8,
+      "edges": 13,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161262",
+      "alignment_error_m": 2.0498550623773674e-05
+    },
+    {
+      "name": "Calle_228161263_Gascón",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -157.27320861816406,
+        -471.61865234375,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -157.27320861816406
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -471.61865234375
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        1255.495849609375,
+        750.443603515625,
+        0.0
+      ],
+      "signature": "1322ac28bfc0adfacc062d92ceef3a5dc70de7e4c96cfe7a0873306b944c59cf",
+      "vertices": 32,
+      "edges": 61,
+      "faces": 30,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161263",
+      "alignment_error_m": 3.075795465189866e-05
+    },
+    {
+      "name": "Calle_228161264_René Simón",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        503.2402648925781,
+        95.0409927368164,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          503.2402648925781
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          95.0409927368164
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        167.08938598632812,
+        253.0364990234375,
+        0.0
+      ],
+      "signature": "37a1ed5a90ac7fc7d6776490116ca34e593c8a8f187414aaee8ba214502b93ca",
+      "vertices": 18,
+      "edges": 33,
+      "faces": 16,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161264",
+      "alignment_error_m": 3.8286059322082564e-05
+    },
+    {
+      "name": "Calle_228161265_Malabia",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        408.03509521484375,
+        -419.42889404296875,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          408.03509521484375
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -419.42889404296875
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        371.906982421875,
+        232.08779907226562,
+        0.0
+      ],
+      "signature": "030304d19e813ea65342e3d32f2f3d332053320e78419528646ae06ae5108081",
+      "vertices": 12,
+      "edges": 21,
+      "faces": 10,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161265",
+      "alignment_error_m": 5.149330165942138e-05
+    },
+    {
+      "name": "Calle_228161407_Malabia",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -162.1640625,
+        -55.59228515625,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -162.1640625
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -55.59228515625
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        851.6756591796875,
+        566.0770874023438,
+        0.0
+      ],
+      "signature": "0834deb5b6466d08590e9cc9d4415468ea8b65237bd4494d8d145248f71d6aad",
+      "vertices": 22,
+      "edges": 41,
+      "faces": 20,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161407",
+      "alignment_error_m": 3.720827706920839e-05
+    },
+    {
+      "name": "Calle_228161408_Darragueira",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -36.13943862915039,
+        -275.99957275390625,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -36.13943862915039
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -275.99957275390625
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        1229.133544921875,
+        791.0382690429688,
+        0.0
+      ],
+      "signature": "74413c9b2c2623f5eba598c48797680f3dd3f02acf13469eef05997514c041c5",
+      "vertices": 32,
+      "edges": 61,
+      "faces": 30,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161408",
+      "alignment_error_m": 4.441949939589706e-05
+    },
+    {
+      "name": "Calle_228161596_Cabrera",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        120.92700958251953,
+        -376.76373291015625,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          120.92700958251953
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -376.76373291015625
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        909.8240966796875,
+        1431.049560546875,
+        0.0
+      ],
+      "signature": "fe9799cb6f0bbbc058da3abf729b1726473eac74595db8f52c8174078d8d1b5c",
+      "vertices": 48,
+      "edges": 93,
+      "faces": 46,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161596",
+      "alignment_error_m": 9.335160258969694e-05
+    },
+    {
+      "name": "Calle_228161597_Boedo",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        225.2685546875,
+        -26.803321838378906,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          225.2685546875
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -26.803321838378906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        800.0463256835938,
+        1221.6234130859375,
+        0.0
+      ],
+      "signature": "11ee2c5d53cd0741bb9cec51559c4dda01da1e7374bc1655479f57e0bd1e802f",
+      "vertices": 32,
+      "edges": 61,
+      "faces": 30,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161597",
+      "alignment_error_m": 5.07100070753515e-05
+    },
+    {
+      "name": "Calle_228161668_Avenida San Martín",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -437.4483642578125,
+        -505.3938293457031,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -437.4483642578125
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -505.3938293457031
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        1165.546142578125,
+        1775.531005859375,
+        0.0
+      ],
+      "signature": "bac2c227e68984e4124d61fb1fead4ec0ee694fbe2f103a95e49e52a0aa282f4",
+      "vertices": 42,
+      "edges": 81,
+      "faces": 40,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161668",
+      "alignment_error_m": 4.464569957116466e-05
+    },
+    {
+      "name": "Calle_228161671_Laprida",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        40.85039138793945,
+        -181.65414428710938,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          40.85039138793945
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -181.65414428710938
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        579.2913818359375,
+        971.5609130859375,
+        0.0
+      ],
+      "signature": "2e5467c701f18ec70d29269f0df987e990c337d648bff8065197f84add2f408a",
+      "vertices": 22,
+      "edges": 41,
+      "faces": 20,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161671",
+      "alignment_error_m": 4.365298959744981e-05
+    },
+    {
+      "name": "Calle_228161673_Anchorena",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -48.43581771850586,
+        -125.13286590576172,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -48.43581771850586
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -125.13286590576172
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        617.381103515625,
+        944.521484375,
+        0.0
+      ],
+      "signature": "82cce1881d0ceeb691982af3030222e153f21c9a0523ede8b6ac63a3a39ab1c8",
+      "vertices": 22,
+      "edges": 41,
+      "faces": 20,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161673",
+      "alignment_error_m": 2.353986862405447e-05
+    },
+    {
+      "name": "Calle_228161712_Sáenz",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -404.5609436035156,
+        -33.60206985473633,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -404.5609436035156
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -33.60206985473633
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        519.1834106445312,
+        800.6148681640625,
+        0.0
+      ],
+      "signature": "38fed1863386748f17d4864aa1b1e4176c0d5b4d8472b889d0c12c238775b72a",
+      "vertices": 18,
+      "edges": 33,
+      "faces": 16,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228161712",
+      "alignment_error_m": 4.899343825233283e-05
+    },
+    {
+      "name": "Calle_228162442_Rodríguez",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        31.494741439819336,
+        96.72264862060547,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          31.494741439819336
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          96.72264862060547
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        957.857666015625,
+        615.6426391601562,
+        0.0
+      ],
+      "signature": "ba677170ef3bffaaaceab5ad813d7f1df9f6546aa6c959e24cb79e86ed1cdc3c",
+      "vertices": 28,
+      "edges": 53,
+      "faces": 26,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228162442",
+      "alignment_error_m": 2.080008432718815e-05
+    },
+    {
+      "name": "Calle_228162453_Thames",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -259.92584228515625,
+        376.3142395019531,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -259.92584228515625
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          376.3142395019531
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        902.8052978515625,
+        1365.528564453125,
+        0.0
+      ],
+      "signature": "8f56a2c2d0a4b442b9b84e92bf9e2dda95dd7a52914715b825a15c654bd9274e",
+      "vertices": 34,
+      "edges": 65,
+      "faces": 32,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228162453",
+      "alignment_error_m": 6.493842423020798e-05
+    },
+    {
+      "name": "Calle_228162456_Gorriti",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -555.4258422851562,
+        113.27374267578125,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -555.4258422851562
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          113.27374267578125
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        562.2459716796875,
+        885.550537109375,
+        0.0
+      ],
+      "signature": "35fb5a41d5bf557c05a9df7a134aa4724d89c708505ea04dcad0aa2b8ed45d73",
+      "vertices": 22,
+      "edges": 41,
+      "faces": 20,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228162456",
+      "alignment_error_m": 3.76697956588988e-05
+    },
+    {
+      "name": "Calle_228162645_Bulnes",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        207.88143920898438,
+        133.14382934570312,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          207.88143920898438
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          133.14382934570312
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        1161.803466796875,
+        862.749267578125,
+        0.0
+      ],
+      "signature": "949f118039c4d31baba7ca4745d4f123a38f26b4d9e44018a866dad8134a53b2",
+      "vertices": 34,
+      "edges": 65,
+      "faces": 32,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228162645",
+      "alignment_error_m": 6.176590301237647e-05
+    },
+    {
+      "name": "Calle_228162649_Paso",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        78.87468719482422,
+        356.8051452636719,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          78.87468719482422
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          356.8051452636719
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        774.8458251953125,
+        534.701904296875,
+        0.0
+      ],
+      "signature": "8c037ab43e22076a4a6627acb9b6f155b2770d1d3a7b5a7b9125814d94737546",
+      "vertices": 22,
+      "edges": 41,
+      "faces": 20,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228162649",
+      "alignment_error_m": 4.934805527613727e-05
+    },
+    {
+      "name": "Calle_228163421_Acevedo",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        132.45187377929688,
+        422.96331787109375,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          132.45187377929688
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          422.96331787109375
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        498.9100341796875,
+        311.793701171875,
+        0.0
+      ],
+      "signature": "07d526a1a4c9063b966620576de0603d5f622d8432dbaf1bf879f2d6cdb9fd20",
+      "vertices": 16,
+      "edges": 29,
+      "faces": 14,
+      "geometry": "surface_mesh",
+      "osm_way_id": "228163421",
+      "alignment_error_m": 3.130920378953265e-05
+    },
+    {
+      "name": "Calle_239949320_René Simón",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        199.21766662597656,
+        -402.6780700683594,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          199.21766662597656
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -402.6780700683594
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        477.236328125,
+        765.0401611328125,
+        0.0
+      ],
+      "signature": "23dce9b4b16dfe33cd88ac14dbc06adb6f0a0fb7e8d1befc3d4a5a8240fa082a",
+      "vertices": 20,
+      "edges": 37,
+      "faces": 18,
+      "geometry": "surface_mesh",
+      "osm_way_id": "239949320",
+      "alignment_error_m": 3.075795465189866e-05
+    },
+    {
+      "name": "Calle_301191091_Aráoz",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -270.778564453125,
+        -49.2210578918457,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -270.778564453125
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -49.2210578918457
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        560.7808837890625,
+        875.90087890625,
+        0.0
+      ],
+      "signature": "6024dbf2970f97075f1fd34dc079dda8f106ff4649d4561cf9292b2bb03e5d6a",
+      "vertices": 20,
+      "edges": 37,
+      "faces": 18,
+      "geometry": "surface_mesh",
+      "osm_way_id": "301191091",
+      "alignment_error_m": 3.7484807454853965e-05
+    },
+    {
+      "name": "Calle_301191122_Colombres",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        -41.22175598144531,
+        -419.7760009765625,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -41.22175598144531
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -419.7760009765625
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        1168.654541015625,
+        697.5216064453125,
+        0.0
+      ],
+      "signature": "6415c2b585c589807653d10b8fcb6da9a6bead427de6d66d7f7d4edc88d28b8d",
+      "vertices": 32,
+      "edges": 61,
+      "faces": 30,
+      "geometry": "surface_mesh",
+      "osm_way_id": "301191122",
+      "alignment_error_m": 4.7793011271472506e-05
+    },
+    {
+      "name": "Calle_311603187_Rene Simon",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        506.3754577636719,
+        45.97455978393555,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          506.3754577636719
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          45.97455978393555
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        93.39729309082031,
+        137.49424743652344,
+        0.0
+      ],
+      "signature": "5c0f69b80b016d61a84ef95b2101aadcc4e557b04249b33578b88266d9fced85",
+      "vertices": 10,
+      "edges": 17,
+      "faces": 8,
+      "geometry": "surface_mesh",
+      "osm_way_id": "311603187",
+      "alignment_error_m": 2.79825655278037e-05
+    },
+    {
+      "name": "Calle_360897430_Laprida",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        343.2396545410156,
+        329.6054382324219,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          343.2396545410156
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          329.6054382324219
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        36.443687438964844,
+        58.404911041259766,
+        0.0
+      ],
+      "signature": "15321fe3c1c2e683b79478c74762b5e12e11ef52fb0a52aac197a7ad60ed11e6",
+      "vertices": 4,
+      "edges": 5,
+      "faces": 2,
+      "geometry": "surface_mesh",
+      "osm_way_id": "360897430",
+      "alignment_error_m": 2.699993449655703e-05
+    },
+    {
+      "name": "Calle_601167979_Santa María de Oro",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        100.64715576171875,
+        -56.691646575927734,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          100.64715576171875
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -56.691646575927734
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        1229.552978515625,
+        773.6818237304688,
+        0.0
+      ],
+      "signature": "babddd5ade4559eedbfc1b102c3fcb6c8fc682603708e23be33fa1ad1239bc44",
+      "vertices": 32,
+      "edges": 61,
+      "faces": 30,
+      "geometry": "surface_mesh",
+      "osm_way_id": "601167979",
+      "alignment_error_m": 3.429399881483508e-05
+    },
+    {
+      "name": "Calle_601167985_Castro Barros",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        357.7192077636719,
+        -378.1186828613281,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          357.7192077636719
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -378.1186828613281
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        251.62991333007812,
+        399.2197265625,
+        0.0
+      ],
+      "signature": "2029d71efcdab57babc9c06c97efd6ae357337dc7b9bba04afb0d08d2a1de4c5",
+      "vertices": 12,
+      "edges": 21,
+      "faces": 10,
+      "geometry": "surface_mesh",
+      "osm_way_id": "601167985",
+      "alignment_error_m": 3.618229542586359e-05
+    },
+    {
+      "name": "Calle_635329950_Servicio",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        453.60247802734375,
+        234.17181396484375,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          453.60247802734375
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          234.17181396484375
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        97.58319091796875,
+        47.208709716796875,
+        0.0
+      ],
+      "signature": "bc2cfbd9fb93f36189bec2b984c3b9752b53c053cde781c7dc7e9956313a8856",
+      "vertices": 8,
+      "edges": 13,
+      "faces": 6,
+      "geometry": "surface_mesh",
+      "osm_way_id": "635329950",
+      "alignment_error_m": 2.337090967971503e-05
+    },
+    {
+      "name": "Calle_685524802_Avenida San Martín",
+      "type": "MESH",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "location": [
+        25.450849533081055,
+        179.8191680908203,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          25.450849533081055
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          179.8191680908203
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensions_m": [
+        84.0381088256836,
+        119.00714874267578,
+        0.0
+      ],
+      "signature": "9e9740c18f5a56497c61914052397ad2001f43b52fe7d7c0bbac6b4e984863df",
+      "vertices": 4,
+      "edges": 5,
+      "faces": 2,
+      "geometry": "surface_mesh",
+      "osm_way_id": "685524802",
+      "alignment_error_m": 6.081461875000584e-06
+    }
+  ],
+  "collections": [
+    {
+      "name": "BARA_DRIVE_CALLES",
+      "objects": [
+        "Calle_228161261_René Simón",
+        "Calle_228161262_Malabia",
+        "Calle_228161263_Gascón",
+        "Calle_228161264_René Simón",
+        "Calle_228161265_Malabia",
+        "Calle_228161407_Malabia",
+        "Calle_228161408_Darragueira",
+        "Calle_228161596_Cabrera",
+        "Calle_228161597_Boedo",
+        "Calle_228161668_Avenida San Martín",
+        "Calle_228161671_Laprida",
+        "Calle_228161673_Anchorena",
+        "Calle_228161712_Sáenz",
+        "Calle_228162442_Rodríguez",
+        "Calle_228162453_Thames",
+        "Calle_228162456_Gorriti",
+        "Calle_228162645_Bulnes",
+        "Calle_228162649_Paso",
+        "Calle_228163421_Acevedo",
+        "Calle_239949320_René Simón",
+        "Calle_301191091_Aráoz",
+        "Calle_301191122_Colombres",
+        "Calle_311603187_Rene Simon",
+        "Calle_360897430_Laprida",
+        "Calle_601167979_Santa María de Oro",
+        "Calle_601167985_Castro Barros",
+        "Calle_635329950_Servicio",
+        "Calle_685524802_Avenida San Martín"
+      ],
+      "children": []
+    },
+    {
+      "name": "Collection",
+      "objects": [
+        "Cube",
+        "Light",
+        "Camera"
+      ],
+      "children": []
+    },
+    {
+      "name": "Prueba_Baradero",
+      "objects": [
+        "PB_Calle_Asfalto",
+        "PB_Vereda_Norte",
+        "PB_Vereda_Sur",
+        "PB_Linea_Central_01",
+        "PB_Linea_Central_02",
+        "PB_Linea_Central_03",
+        "PB_Linea_Central_04",
+        "PB_Linea_Central_05",
+        "PB_Linea_Central_06",
+        "PB_Linea_Central_07",
+        "PB_Linea_Central_08",
+        "PB_Linea_Central_09",
+        "PB_Linea_Central_10",
+        "PB_Linea_Central_11",
+        "PB_Linea_Central_12",
+        "PB_Linea_Central_13",
+        "PB_Linea_Central_14",
+        "PB_Linea_Central_15",
+        "PB_Linea_Central_16",
+        "PB_Linea_Central_17",
+        "PB_Linea_Central_18",
+        "PB_Linea_Central_19",
+        "PB_Linea_Central_20"
+      ],
+      "children": []
+    }
+  ],
+  "osm": {
+    "path": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\datos_osm\\baradero_centro.osm",
+    "sha256": "61b9619a6b37029d01322193bbd45e7de050c16c77727e21d3d77d89c217565b",
+    "bounds": {
+      "minlat": "-33.8107300",
+      "minlon": "-59.5070000",
+      "maxlat": "-33.8043100",
+      "maxlon": "-59.4973600"
+    },
+    "nodes": 446,
+    "ways": 46,
+    "relations": 0,
+    "roads": 28,
+    "highway_classes": {
+      "secondary": 9,
+      "residential": 18,
+      "service": 1
+    },
+    "buildings": 5,
+    "plaza": {
+      "id": "239949279",
+      "tags": {
+        "leisure": "park",
+        "name": "Plaza Mitre"
+      },
+      "refs": [
+        "2477226534",
+        "3781367761",
+        "2477226538",
+        "2477226539",
+        "2477226534"
+      ]
+    },
+    "traffic_signals": 4,
+    "trees": 0,
+    "benches": 0,
+    "street_lamps": 0
+  },
+  "alignment": {
+    "matched_ways": 28,
+    "max_error_m": 9.335160258969694e-05
+  },
+  "limitations": [
+    "OSM del centro, no toda la ciudad",
+    "Sin modelo digital de elevación: cota relativa Z=0",
+    "Anchos de calzada/vereda y altura de cordón estimados configurables",
+    "No inferir superficies, mobiliario o monumentos de Plaza Mitre de sus nombres o polígonos"
+  ],
+  "generated_at": "2026-11-14T14:41:06"
+}

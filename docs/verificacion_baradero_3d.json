@@ -1,0 +1,231 @@
+{
+  "file": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_3D.blend",
+  "blender_version": "4.2.23 LTS",
+  "verified_at": "2026-11-14T15:06:03",
+  "passed": true,
+  "checks_total": 37,
+  "checks_passed": 37,
+  "checks": [
+    {
+      "check": "Coleccion raiz BARA_MAPA_3D",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Escala de escena 1.0",
+      "passed": true,
+      "detail": "1.0"
+    },
+    {
+      "check": "Calles OSM de origen intactas",
+      "passed": true,
+      "detail": "28 vias con osm_way_id"
+    },
+    {
+      "check": "Coleccion CALLES",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Coleccion CORDONES",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Coleccion VEREDAS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Coleccion TERRENO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Coleccion EDIFICIOS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Coleccion VEGETACION",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Coleccion ILUMINACION",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Coleccion SEÑALES",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Coleccion CAMARAS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Calzadas 3D presentes",
+      "passed": true,
+      "detail": "48 objetos"
+    },
+    {
+      "check": "Cordones presentes",
+      "passed": true,
+      "detail": "48 objetos"
+    },
+    {
+      "check": "Veredas presentes",
+      "passed": true,
+      "detail": "49 objetos"
+    },
+    {
+      "check": "Superficie de asfalto > 10000 m2",
+      "passed": true,
+      "detail": "187742 m2"
+    },
+    {
+      "check": "Superficie de vereda > 10000 m2",
+      "passed": true,
+      "detail": "100315 m2"
+    },
+    {
+      "check": "Terreno base",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Al menos 15 edificios provisionales",
+      "passed": true,
+      "detail": "21 edificios"
+    },
+    {
+      "check": "Todos los edificios se nombran PROVISIONAL",
+      "passed": true,
+      "detail": "sin prefijo: []"
+    },
+    {
+      "check": "Aviso de edificio no real en cada objeto",
+      "passed": true,
+      "detail": "0 sin aviso"
+    },
+    {
+      "check": "Edificios con ventanas, puertas y techo",
+      "passed": true,
+      "detail": "ventanas=189, puertas=21, techos=108; fallas=[]"
+    },
+    {
+      "check": "Edificios con base a nivel de terreno",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Edificios repartidos en al menos 5 manzanas",
+      "passed": true,
+      "detail": "7 manzanas: [1, 2, 3, 4, 5, 6, 7]"
+    },
+    {
+      "check": "Al menos 5 manzanas detectadas",
+      "passed": true,
+      "detail": "70 manzanas"
+    },
+    {
+      "check": "Cada edificio dentro de una manzana",
+      "passed": true,
+      "detail": "fuera: []"
+    },
+    {
+      "check": "Edificios no invaden calzada ni vereda",
+      "passed": true,
+      "detail": "invaden: []"
+    },
+    {
+      "check": "Edificios sin superposicion entre si",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Arboles generados",
+      "passed": true,
+      "detail": "14 arboles"
+    },
+    {
+      "check": "Postes de luz generados",
+      "passed": true,
+      "detail": "14 postes"
+    },
+    {
+      "check": "Senales de transito generadas",
+      "passed": true,
+      "detail": "6 senales"
+    },
+    {
+      "check": "Camara principal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Camara asignada a la escena",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Camara en perspectiva",
+      "passed": true,
+      "detail": "PERSP"
+    },
+    {
+      "check": "Luz solar",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Vista 3D guardada en perspectiva/camara",
+      "passed": true,
+      "detail": "10 areas"
+    },
+    {
+      "check": "Sombreado material guardado",
+      "passed": true,
+      "detail": "10 areas"
+    }
+  ],
+  "counts": {
+    "source_ways": 28,
+    "calzadas": 48,
+    "cordones": 48,
+    "veredas": 49,
+    "blocks_found": 70,
+    "blocks_with_buildings": 7,
+    "buildings_provisional": 21,
+    "windows": 189,
+    "doors": 21,
+    "roof_faces": 108,
+    "trees": 14,
+    "lamps": 14,
+    "signs": 6,
+    "asphalt_m2": 187742.2,
+    "sidewalk_m2": 100315.1
+  },
+  "renders": [
+    {
+      "file": "docs\\renders\\baradero3d_camara.png",
+      "bytes": 1169348
+    },
+    {
+      "file": "docs\\renders\\baradero3d_planta.png",
+      "bytes": 1110271
+    },
+    {
+      "file": "docs\\renders\\baradero3d_calle.png",
+      "bytes": 798688
+    },
+    {
+      "file": "docs\\renders\\baradero3d_camara_eevee.png",
+      "bytes": 1149633
+    }
+  ],
+  "notice": "Los edificios PROVISIONAL_* son volumetricos de prueba, no edificios reales de Baradero."
+}
