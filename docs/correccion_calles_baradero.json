@@ -1,0 +1,4519 @@
+{
+  "source": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_Realista_v2.blend",
+  "alignment": {
+    "matched_ways": 28,
+    "max_error_m": 9.335160258969694e-05
+  },
+  "nearby_osm_ways": [
+    {
+      "id": "228161668",
+      "name": "Avenida San Martín",
+      "distance_plaza_m": 4.7364488595610945,
+      "points": [
+        [
+          -996.7521995894494,
+          -1367.055818369612
+        ],
+        [
+          -906.7856716284296,
+          -1231.7356935385615
+        ],
+        [
+          -898.7606182947638,
+          -1219.7201702352613
+        ],
+        [
+          -839.3678252140526,
+          -1127.742289500311
+        ],
+        [
+          -785.9913531682687,
+          -1042.3708418365568
+        ],
+        [
+          -732.0963881376665,
+          -956.1880618939176
+        ],
+        [
+          -678.0547493718332,
+          -873.6977806417271
+        ],
+        [
+          -626.3287338028895,
+          -793.8391292542219
+        ],
+        [
+          -571.1477459758753,
+          -711.2663447055966
+        ],
+        [
+          -509.7180679119192,
+          -616.688862205483
+        ],
+        [
+          -455.90443560120184,
+          -531.5199988400564
+        ],
+        [
+          -407.92732477304526,
+          -452.3868073169142
+        ],
+        [
+          -345.29952960973606,
+          -360.45613902807236
+        ],
+        [
+          -288.11192343680887,
+          -272.95340595953166
+        ],
+        [
+          -217.55387187871384,
+          -161.13160244747996
+        ],
+        [
+          -151.88592164369766,
+          -59.961532421410084
+        ],
+        [
+          -74.29460602032486,
+          52.695925501175225
+        ],
+        [
+          -25.00506225018762,
+          130.31592561863363
+        ],
+        [
+          50.88137820974225,
+          246.1601734869182
+        ],
+        [
+          111.49077042384306,
+          332.3224751967937
+        ],
+        [
+          162.1982735140482,
+          403.9494570894167
+        ]
+      ]
+    },
+    {
+      "id": "228161673",
+      "name": "Anchorena",
+      "distance_plaza_m": 6.785200180462866,
+      "points": [
+        [
+          255.17173835396534,
+          346.289398977533
+        ],
+        [
+          211.23464721173514,
+          270.92087862454355
+        ],
+        [
+          148.83427962346468,
+          176.09253789950162
+        ],
+        [
+          76.18714278750122,
+          64.5562009382993
+        ],
+        [
+          24.63704868417699,
+          -10.410277336835861
+        ],
+        [
+          -53.68957900814712,
+          -131.7079817103222
+        ],
+        [
+          -112.89031103847083,
+          -227.21535735204816
+        ],
+        [
+          -183.16140106704552,
+          -335.24490871839225
+        ],
+        [
+          -240.15061558934394,
+          -421.0219412557781
+        ],
+        [
+          -302.6931109591387,
+          -514.1927918680012
+        ],
+        [
+          -356.2738546245964,
+          -594.5273224972188
+        ]
+      ]
+    },
+    {
+      "id": "228162442",
+      "name": "Rodríguez",
+      "distance_plaza_m": 4.826870450717758,
+      "points": [
+        [
+          -476.2427707167808,
+          424.1757485549897
+        ],
+        [
+          -393.1969620618038,
+          370.7190665025264
+        ],
+        [
+          -303.1596063527395,
+          312.7929311376065
+        ],
+        [
+          -218.32196703390218,
+          256.8148341961205
+        ],
+        [
+          -117.64759006665554,
+          190.36738222651184
+        ],
+        [
+          -25.00506225018762,
+          130.31592561863363
+        ],
+        [
+          -13.254211741907056,
+          122.55555281229317
+        ],
+        [
+          76.18714278750122,
+          64.5562009382993
+        ],
+        [
+          155.50809675100027,
+          13.52392584271729
+        ],
+        [
+          210.67146125767613,
+          -20.16131796874106
+        ],
+        [
+          302.3166152113117,
+          -75.1791689246893
+        ],
+        [
+          372.8890435413341,
+          -119.70011565834284
+        ],
+        [
+          392.342600052536,
+          -131.09167445078492
+        ],
+        [
+          477.8395969099947,
+          -185.57222391664982
+        ]
+      ]
+    },
+    {
+      "id": "601167979",
+      "name": "Santa María de Oro",
+      "distance_plaza_m": 5.0914546555524085,
+      "points": [
+        [
+          694.7060069529107,
+          -427.4982586335391
+        ],
+        [
+          597.079478648142,
+          -367.4060584092513
+        ],
+        [
+          514.1351880159928,
+          -314.9490983877331
+        ],
+        [
+          429.9866008932586,
+          -262.5331199625507
+        ],
+        [
+          343.69580716692144,
+          -209.30418068356812
+        ],
+        [
+          324.5357532821363,
+          -197.4061885792762
+        ],
+        [
+          253.1723724179319,
+          -153.49302892386913
+        ],
+        [
+          165.39581747166812,
+          -98.68132666684687
+        ],
+        [
+          111.02106199471746,
+          -63.88958708103746
+        ],
+        [
+          24.63704868417699,
+          -10.410277336835861
+        ],
+        [
+          -74.29460602032486,
+          52.695925501175225
+        ],
+        [
+          -168.64482896006666,
+          111.36245873570442
+        ],
+        [
+          -270.2553984897677,
+          176.3216081932187
+        ],
+        [
+          -358.3853565942263,
+          231.30900709331036
+        ],
+        [
+          -445.27257671492407,
+          286.5811959486455
+        ],
+        [
+          -531.1578639470972,
+          340.2345625702292
+        ]
+      ]
+    },
+    {
+      "id": "685524802",
+      "name": "Avenida San Martín",
+      "distance_plaza_m": 5.543199404514708,
+      "points": [
+        [
+          -13.254211741907056,
+          122.55555281229317
+        ],
+        [
+          64.15590963431168,
+          237.08277361653745
+        ]
+      ]
+    }
+  ],
+  "nearby_road_objects": [
+    {
+      "name": "PB_Calle_Asfalto",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -50.0,
+        -4.0,
+        50.0,
+        4.0
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "PB_Vereda_Norte",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -50.0,
+        4.0,
+        50.0,
+        6.0
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "PB_Vereda_Sur",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -50.0,
+        -6.0,
+        50.0,
+        -4.0
+      ],
+      "distance_plaza_m": 3.3861881494522095
+    },
+    {
+      "name": "PB_Linea_Central_01",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -49.0,
+        -0.07500000298023224,
+        -46.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 35.255711261774664
+    },
+    {
+      "name": "PB_Linea_Central_02",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -44.0,
+        -0.07500000298023224,
+        -41.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 32.663486519353505
+    },
+    {
+      "name": "PB_Linea_Central_03",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -39.0,
+        -0.07500000298023224,
+        -36.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 30.071261776932356
+    },
+    {
+      "name": "PB_Linea_Central_04",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -34.0,
+        -0.07500000298023224,
+        -31.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 27.479037034511208
+    },
+    {
+      "name": "PB_Linea_Central_05",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -29.0,
+        -0.07500000298023224,
+        -26.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 24.886812292090056
+    },
+    {
+      "name": "PB_Linea_Central_06",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -24.0,
+        -0.07500000298023224,
+        -21.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 22.294587549668904
+    },
+    {
+      "name": "PB_Linea_Central_07",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -19.0,
+        -0.07500000298023224,
+        -16.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 19.702362807247752
+    },
+    {
+      "name": "PB_Linea_Central_08",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -14.0,
+        -0.07500000298023224,
+        -11.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 17.1101380648266
+    },
+    {
+      "name": "PB_Linea_Central_09",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -9.0,
+        -0.07500000298023224,
+        -6.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 14.51791332240545
+    },
+    {
+      "name": "PB_Linea_Central_10",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -4.0,
+        -0.07500000298023224,
+        -1.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 11.9256885799843
+    },
+    {
+      "name": "PB_Linea_Central_11",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        1.0,
+        -0.07500000298023224,
+        4.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 9.333463837563148
+    },
+    {
+      "name": "PB_Linea_Central_12",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        6.0,
+        -0.07500000298023224,
+        9.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 6.741239095141997
+    },
+    {
+      "name": "PB_Linea_Central_13",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        11.0,
+        -0.07500000298023224,
+        14.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 4.149014352720845
+    },
+    {
+      "name": "PB_Linea_Central_14",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        16.0,
+        -0.07500000298023224,
+        19.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 1.5567896102996934
+    },
+    {
+      "name": "PB_Linea_Central_15",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        21.0,
+        -0.07500000298023224,
+        24.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "PB_Linea_Central_16",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        26.0,
+        -0.07500000298023224,
+        29.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 2.0160434981040805
+    },
+    {
+      "name": "PB_Linea_Central_17",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        31.0,
+        -0.07500000298023224,
+        34.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 6.198790172201724
+    },
+    {
+      "name": "PB_Linea_Central_18",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        36.0,
+        -0.07500000298023224,
+        39.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 10.381536846299369
+    },
+    {
+      "name": "PB_Linea_Central_19",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        41.0,
+        -0.07500000298023224,
+        44.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 14.564283520397014
+    },
+    {
+      "name": "PB_Linea_Central_20",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        46.0,
+        -0.07500000298023224,
+        49.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 18.74703019449466
+    },
+    {
+      "name": "Calle_228161668_Avenida San Martín",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "228161668",
+      "layer": null,
+      "bounds": [
+        -1000.0831909179688,
+        -1369.2703857421875,
+        165.46295166015625,
+        406.2606506347656
+      ],
+      "distance_plaza_m": 0.736452172417122
+    },
+    {
+      "name": "Calle_228161673_Anchorena",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "228161673",
+      "layer": null,
+      "bounds": [
+        -359.1856384277344,
+        -596.4693603515625,
+        258.1954345703125,
+        348.0521240234375
+      ],
+      "distance_plaza_m": 3.2852011770440965
+    },
+    {
+      "name": "Calle_228162442_Rodríguez",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "228162442",
+      "layer": null,
+      "bounds": [
+        -478.1371765136719,
+        -188.52389526367188,
+        479.720458984375,
+        427.1187438964844
+      ],
+      "distance_plaza_m": 1.3268697634254043
+    },
+    {
+      "name": "Calle_601167979_Santa María de Oro",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "601167979",
+      "layer": null,
+      "bounds": [
+        -533.0122680664062,
+        -430.4788818359375,
+        696.5406494140625,
+        343.20294189453125
+      ],
+      "distance_plaza_m": 1.5914555492915765
+    },
+    {
+      "name": "Calle_685524802_Avenida San Martín",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "685524802",
+      "layer": null,
+      "bounds": [
+        -16.568204879760742,
+        120.31559753417969,
+        67.46990203857422,
+        239.32273864746094
+      ],
+      "distance_plaza_m": 5.4376236894999215
+    },
+    {
+      "name": "CALZADA_+000_+000",
+      "collections": [
+        "CALLES"
+      ],
+      "osm_way_id": null,
+      "layer": "CALZADA",
+      "bounds": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "distance_plaza_m": 1.3268689718669568
+    },
+    {
+      "name": "CALZADA_+000_-001",
+      "collections": [
+        "CALLES"
+      ],
+      "osm_way_id": null,
+      "layer": "CALZADA",
+      "bounds": [
+        0.0,
+        -256.0,
+        256.0,
+        0.0
+      ],
+      "distance_plaza_m": 3.285199414781003
+    },
+    {
+      "name": "CALZADA_-001_+000",
+      "collections": [
+        "CALLES"
+      ],
+      "osm_way_id": null,
+      "layer": "CALZADA",
+      "bounds": [
+        -256.0,
+        0.0,
+        0.0,
+        256.0
+      ],
+      "distance_plaza_m": 0.7364495281634086
+    },
+    {
+      "name": "CORDON_+000_+000",
+      "collections": [
+        "CORDONES"
+      ],
+      "osm_way_id": null,
+      "layer": "CORDON",
+      "bounds": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "distance_plaza_m": 1.176867700116141
+    },
+    {
+      "name": "CORDON_+000_-001",
+      "collections": [
+        "CORDONES"
+      ],
+      "osm_way_id": null,
+      "layer": "CORDON",
+      "bounds": [
+        0.0,
+        -256.0,
+        256.0,
+        0.0
+      ],
+      "distance_plaza_m": 3.135199569315681
+    },
+    {
+      "name": "CORDON_-001_+000",
+      "collections": [
+        "CORDONES"
+      ],
+      "osm_way_id": null,
+      "layer": "CORDON",
+      "bounds": [
+        -256.0,
+        0.0,
+        0.0,
+        256.0
+      ],
+      "distance_plaza_m": 0.5864468516156736
+    },
+    {
+      "name": "VEREDA_+000_+000",
+      "collections": [
+        "VEREDAS"
+      ],
+      "osm_way_id": null,
+      "layer": "VEREDA",
+      "bounds": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "VEREDA_+000_-001",
+      "collections": [
+        "VEREDAS"
+      ],
+      "osm_way_id": null,
+      "layer": "VEREDA",
+      "bounds": [
+        0.0,
+        -256.0,
+        256.0,
+        0.0
+      ],
+      "distance_plaza_m": 1.135200110162616
+    },
+    {
+      "name": "VEREDA_-001_+000",
+      "collections": [
+        "VEREDAS"
+      ],
+      "osm_way_id": null,
+      "layer": "VEREDA",
+      "bounds": [
+        -256.0,
+        0.0,
+        0.0,
+        256.0
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "VEREDA_-001_-001",
+      "collections": [
+        "VEREDAS"
+      ],
+      "osm_way_id": null,
+      "layer": "VEREDA",
+      "bounds": [
+        -256.0,
+        -256.0,
+        0.0,
+        0.0
+      ],
+      "distance_plaza_m": 11.471376959621672
+    }
+  ],
+  "identified_objects": [
+    "PB_Calle_Asfalto",
+    "PB_Vereda_Norte",
+    "PB_Vereda_Sur",
+    "PB_Linea_Central_01",
+    "PB_Linea_Central_02",
+    "PB_Linea_Central_03",
+    "PB_Linea_Central_04",
+    "PB_Linea_Central_05",
+    "PB_Linea_Central_06",
+    "PB_Linea_Central_07",
+    "PB_Linea_Central_08",
+    "PB_Linea_Central_09",
+    "PB_Linea_Central_10",
+    "PB_Linea_Central_11",
+    "PB_Linea_Central_12",
+    "PB_Linea_Central_13",
+    "PB_Linea_Central_14",
+    "PB_Linea_Central_15",
+    "PB_Linea_Central_16",
+    "PB_Linea_Central_17",
+    "PB_Linea_Central_18",
+    "PB_Linea_Central_19",
+    "PB_Linea_Central_20"
+  ],
+  "identification": "Tramo de prueba de 100 m sobre Y=0 en Prueba_Baradero, sin correspondencia OSM",
+  "axis_length_m": 100.0,
+  "axis_within_0_5m_of_osm_m": 3.0730963977114616,
+  "existing_surface_coverage": {
+    "CALZADA": {
+      "expected_m2": 257.99494899200795,
+      "existing_m2": 257.99494723752537,
+      "difference_m2": 2.2132216867365426e-05
+    },
+    "CORDON": {
+      "expected_m2": 12.304451339340375,
+      "existing_m2": 12.30445263127207,
+      "difference_m2": 5.215655507979828e-05
+    },
+    "VEREDA": {
+      "expected_m2": 135.67263160874603,
+      "existing_m2": 135.67264150128838,
+      "difference_m2": 3.525146582730844e-05
+    }
+  },
+  "terrain": "TERRENO_BASE continuo, sin huecos; se recupera al retirar la superposicion",
+  "plaza_center": [
+    -0.17391843153568573,
+    60.498783790564445
+  ],
+  "source_sha256": "cf94d3e895f952212de6d988bbba8ee9c92e57ef0c471e9f060d05c88517fd3f",
+  "backup": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\backups\\Baradero_antes_corregir_calles_20261114_211148.blend",
+  "preserved": {
+    "Cube": {
+      "signature": "2b00b55ba7bed77dd4633c33c0d4e3286cba66dc4e7dac9a4c618f8d0779c100",
+      "collections": [
+        "Collection"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Light": {
+      "signature": "520e9842e8b8ffb3430d4ddd43bb572305e9c691a2fafa518b0eaab22819029e",
+      "collections": [
+        "Collection"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Camera": {
+      "signature": "20fc3bf6ea4f219ed250d31a7975db043cfc36a65ec4882c12ca0b4488960398",
+      "collections": [
+        "Collection"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161261_René Simón": {
+      "signature": "c38d9619069a72ebdd285b25c858f96f47f8ed92b05ba2fdf63a2372894893e0",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161262_Malabia": {
+      "signature": "bc3be65b354caa5fcd8db2e50f80cd5da93efa968259e5a5531be5085b240c84",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161263_Gascón": {
+      "signature": "1322ac28bfc0adfacc062d92ceef3a5dc70de7e4c96cfe7a0873306b944c59cf",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161264_René Simón": {
+      "signature": "37a1ed5a90ac7fc7d6776490116ca34e593c8a8f187414aaee8ba214502b93ca",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161265_Malabia": {
+      "signature": "030304d19e813ea65342e3d32f2f3d332053320e78419528646ae06ae5108081",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161407_Malabia": {
+      "signature": "0834deb5b6466d08590e9cc9d4415468ea8b65237bd4494d8d145248f71d6aad",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161408_Darragueira": {
+      "signature": "74413c9b2c2623f5eba598c48797680f3dd3f02acf13469eef05997514c041c5",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161596_Cabrera": {
+      "signature": "fe9799cb6f0bbbc058da3abf729b1726473eac74595db8f52c8174078d8d1b5c",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161597_Boedo": {
+      "signature": "11ee2c5d53cd0741bb9cec51559c4dda01da1e7374bc1655479f57e0bd1e802f",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161668_Avenida San Martín": {
+      "signature": "bac2c227e68984e4124d61fb1fead4ec0ee694fbe2f103a95e49e52a0aa282f4",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161671_Laprida": {
+      "signature": "2e5467c701f18ec70d29269f0df987e990c337d648bff8065197f84add2f408a",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161673_Anchorena": {
+      "signature": "82cce1881d0ceeb691982af3030222e153f21c9a0523ede8b6ac63a3a39ab1c8",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228161712_Sáenz": {
+      "signature": "38fed1863386748f17d4864aa1b1e4176c0d5b4d8472b889d0c12c238775b72a",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228162442_Rodríguez": {
+      "signature": "ba677170ef3bffaaaceab5ad813d7f1df9f6546aa6c959e24cb79e86ed1cdc3c",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228162453_Thames": {
+      "signature": "8f56a2c2d0a4b442b9b84e92bf9e2dda95dd7a52914715b825a15c654bd9274e",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228162456_Gorriti": {
+      "signature": "35fb5a41d5bf557c05a9df7a134aa4724d89c708505ea04dcad0aa2b8ed45d73",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228162645_Bulnes": {
+      "signature": "949f118039c4d31baba7ca4745d4f123a38f26b4d9e44018a866dad8134a53b2",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228162649_Paso": {
+      "signature": "8c037ab43e22076a4a6627acb9b6f155b2770d1d3a7b5a7b9125814d94737546",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_228163421_Acevedo": {
+      "signature": "07d526a1a4c9063b966620576de0603d5f622d8432dbaf1bf879f2d6cdb9fd20",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_239949320_René Simón": {
+      "signature": "23dce9b4b16dfe33cd88ac14dbc06adb6f0a0fb7e8d1befc3d4a5a8240fa082a",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_301191091_Aráoz": {
+      "signature": "6024dbf2970f97075f1fd34dc079dda8f106ff4649d4561cf9292b2bb03e5d6a",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_301191122_Colombres": {
+      "signature": "6415c2b585c589807653d10b8fcb6da9a6bead427de6d66d7f7d4edc88d28b8d",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_311603187_Rene Simon": {
+      "signature": "5c0f69b80b016d61a84ef95b2101aadcc4e557b04249b33578b88266d9fced85",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_360897430_Laprida": {
+      "signature": "15321fe3c1c2e683b79478c74762b5e12e11ef52fb0a52aac197a7ad60ed11e6",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_601167979_Santa María de Oro": {
+      "signature": "babddd5ade4559eedbfc1b102c3fcb6c8fc682603708e23be33fa1ad1239bc44",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_601167985_Castro Barros": {
+      "signature": "2029d71efcdab57babc9c06c97efd6ae357337dc7b9bba04afb0d08d2a1de4c5",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_635329950_Servicio": {
+      "signature": "bc2cfbd9fb93f36189bec2b984c3b9752b53c053cde781c7dc7e9956313a8856",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "Calle_685524802_Avenida San Martín": {
+      "signature": "9e9740c18f5a56497c61914052397ad2001f43b52fe7d7c0bbac6b4e984863df",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+000_+000": {
+      "signature": "b7ef25783022b9cc67ba4fcfc65188208e5c797a80f6858819a8dbd08bacf047",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+000_+001": {
+      "signature": "ae6d6a3d04966083d381a1712a10fc689d8c3ad0c633bdd217b21f891a1eab4f",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+000_+002": {
+      "signature": "db0f7a4dab934a8315c777dfa8d0a8c69fe5f0f17305704359a83befdcb886a8",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+000_+003": {
+      "signature": "322c82347827019fae5d05a327247d1faf75b2d7e1f9b4cfcc69dda65cdab82d",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+000_-001": {
+      "signature": "912c3c9609f5299be4fe394c13489fa2a9907c3f9c28457a774ed34ea28f9a23",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+000_-002": {
+      "signature": "3150bc937308c9bff799f95cf7469a06d5c5916578dc95d4813e8aa69687e304",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+000_-003": {
+      "signature": "3e1b84a077647d116aa88a15bdda6cd40d80da65c411855d35948d1df835f3da",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+000_-004": {
+      "signature": "66e3f5a4e67dfc897ee92a86d70dbb42ffd6a41bab2ba518731ab103f57dd527",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+001_+000": {
+      "signature": "5dcfe65811a618fb3877d5c9c669cdbeb4acca0ef859b1d230feaeda331175a8",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+001_+001": {
+      "signature": "c0a4d565298b821140ccdeb5280d31c43633bc6587a2309790d0d39d4b0a29de",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+001_-001": {
+      "signature": "2f5233b8db5adfd7ea80f85ea55ac27268d7d789b2b8707877c8748ee24b973e",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+001_-002": {
+      "signature": "f8987fa942101ff33b9da446bcf905a44e3cae2a9aa46e8bc6fe6ade922cb0bc",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+001_-003": {
+      "signature": "3ceff2453f2d66438d694ebbf74ed2bdcefed04dae98dd65d5a917814955e144",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+001_-004": {
+      "signature": "f3fe6053a9eedcce247aa9ae69fc2e374c644415533f0b7546021f0d9cd59bf1",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+002_+000": {
+      "signature": "b74dddaba37e6df4bc02ea3910c46dafe26f6e7396250e40dd93cffc02930ec2",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+002_+001": {
+      "signature": "87c52b68e4a9f11c93aaf5f372ffa42a1109394d88a419ab4babdf55538317a6",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+002_+002": {
+      "signature": "7b76b0c0f4e0417cfbc5ed9d86c7312566a41c51f1c6f28957a766fb0556e5cf",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+002_-001": {
+      "signature": "b4a310f66c1c3de0401af617ad3f7bd1991af843cfc2412f006eeca3ab2584af",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+002_-002": {
+      "signature": "566dbd0480b096ef9c5094f9da653dee129b80533bdd1c9b141261a644b2cc13",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+002_-003": {
+      "signature": "39dd104408d39f93c4d1f3854872c48017ed3505471a9841c35ae57ec8f2cbe5",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_+003_-002": {
+      "signature": "4046537d01a07a0e331fc593f69c543d061bbf99d51e8acb65dd988bbbf36ad1",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-001_+000": {
+      "signature": "225fbb1eb2bd0faf973a2c6c6f4d11f557ebf6e40335cdaa815896c60439b388",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-001_+001": {
+      "signature": "8875a892e8b892dc6eb5c4ba6a2b446d34a0341f29982c6e6e6bc75152195093",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-001_+002": {
+      "signature": "bfb6218a315d79286fd63bb70690e71fbd18bb9adafb16d4572e617aeeda25e0",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-001_+003": {
+      "signature": "1447985e8d70e1c8ce4c86fca692d6bfacada63c377fec3c2d9ab8fb6e899aa0",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-001_-001": {
+      "signature": "d571905641492472376195a25ce3accb1e77af138715f48a475dd4349336fc93",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-001_-002": {
+      "signature": "af2c43fe48da96276314991fb89f26c0e868c39b5fac036bffa4013432ff1750",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-001_-003": {
+      "signature": "f43aad8dcfec6eae2391bf667043cf26e41155739c42d715e53c950035e6b1b6",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-001_-004": {
+      "signature": "1bd3b4d7a13ccb8dcdd270a66381ea4583688d4fb543fe19a775c8798094de0d",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-002_+000": {
+      "signature": "80519b5789bbe33ab2c38b1fc44c3eac1bc4a69bb3b3ffc48538e381f2be421e",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-002_+001": {
+      "signature": "476361dbdabf3f8e45b92b9a86ee5ab8da352616b8fa4bd72d0fb049331a8b76",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-002_+002": {
+      "signature": "f42dae8fe2208f522ae717704b468035a6d5020d8128a7426da3dbfc851b511d",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-002_-001": {
+      "signature": "5da12ffd21b41034ceceb6d433a82919653c09f5f0767c8be833890e7c757703",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-002_-002": {
+      "signature": "7152c8b1ac133b60db3cdaa8a2a88507b84e6f84e0b1016250c8623eed5624e4",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-002_-003": {
+      "signature": "dcf0de95fcf4c9de79f6b5003f9fc9b781d19cf67250ea34a7c34627899ceb1d",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-002_-004": {
+      "signature": "2eab9051cc14b8255896595b184bd8fe9d1aa99bdc33c0db3d45bc07893eb4b8",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-002_-005": {
+      "signature": "27ac0c6f522af084ce22909dc21625f9387039a1aab6ea94404473846f2eabe9",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-003_+000": {
+      "signature": "e00d59946cf48bdec135b471656ffb997e065f3ce47fc6a53bf43a460bae9724",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-003_+001": {
+      "signature": "3ea66d469d72c06bb33294cd3528ba9f1485c7591935cac9c09225cc6a10b644",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-003_-001": {
+      "signature": "cb0632d982a617b762ed74c7a7611c1f4b9814a893e82dc68dd93513b60cfdb4",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-003_-002": {
+      "signature": "2b5345772c3ef619eade7a2cbea9210029b3f550788d4447791632eae711e814",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-003_-003": {
+      "signature": "bec6a200617ccd43113f3bfb40f34e5e3dd24ee33fa27c00a9bb76c8999700c8",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-003_-004": {
+      "signature": "53b9e0ab5431abad28704dbcdd716a71d7b8f2b3bcc107dc8bf8151a642c53a9",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-004_-001": {
+      "signature": "5a094918e0d63de65b048e8914ac564b25bc618162312569cfeff17041d092a9",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-004_-002": {
+      "signature": "7c6b07bbff90fc6f1761f97726a92e7543435b68872a4b45a011f2350a111c9b",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-004_-004": {
+      "signature": "d441b12aa78b372928b62c7581b22c0296f4435def4ef634552ecb317ed8e249",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-004_-005": {
+      "signature": "f1371b9f51dd3b1ca102a88f17d7d60faf607fc5241f924ef0af4d7643a64787",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CALZADA_-004_-006": {
+      "signature": "a63839e97ec32787552551c0323a31d889dd78998dcfb8cc0082410eb36b8d39",
+      "collections": [
+        "CALLES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+000_+000": {
+      "signature": "d4344d73aacd02f5c1b8810bde79d3f2c3947e81effeb20aafc488b474c7ae99",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+000_+001": {
+      "signature": "a6fc3e74c17dd33565f970352b10c9961bc175cab9d7431ed7d6da7748b13c45",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+000_+002": {
+      "signature": "73ba65b7e01d58c489ee27f30d3bacef460bd7a35d094c35376dbde7428a0bdd",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+000_+003": {
+      "signature": "f6c797a3500b89bf96e335294866ea0b4b119e97265382051f41895160e0b162",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+000_-001": {
+      "signature": "bafa9b9997ba0ae923e9561461fd559f69afe7911acb252c40ed4a5d443dbdce",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+000_-002": {
+      "signature": "ca77d01b72377c8a521749ff9450dd32e8d1cf98afc25c33fa2943682838337c",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+000_-003": {
+      "signature": "e83359fd2062bb831b9593fa1fe0d80d12671b2671ca14a629e8ed424aab1568",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+000_-004": {
+      "signature": "527f4d4dec375155468ac65c5c4933462abf9fd00b1c1b74d88ca103fe6b55ce",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+001_+000": {
+      "signature": "e45978f0708b80e11fd2dc22af2709ad379f10141ed4204ad8624aa79b8e2004",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+001_+001": {
+      "signature": "4c16b778f072addb83e667d08a5275951b9920ef6df4dfd76c4e9efbcfc810b7",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+001_-001": {
+      "signature": "b2e8da572d5c750276c6412945db966b8c6976d4af7868e8ca7cbf9af2bd7a6c",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+001_-002": {
+      "signature": "781f53a314d5566297a917d4f15bf6f72268eaaff36be1bb3c06ff115ebb950e",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+001_-003": {
+      "signature": "8458ad78f6425aeb0ca8230f72fd8d26e10a609cf19461e3ae49e057540c8292",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+001_-004": {
+      "signature": "66e14dcc6e0f394064ebc9ec77cc46464e1952e80161bc60a5f75533c4412d09",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+002_+000": {
+      "signature": "633baea756e30c4a04cc9d9b4640ab26e2f014ce87a4011df18a7b85e656c04f",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+002_+001": {
+      "signature": "e385611b7b4e8330ed3bc0068f35711ff42641b0c9b20ebc82c79d4b8d001d5f",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+002_+002": {
+      "signature": "4ed028745c9cc654730799f89df825725b4876ae9c148f653787b7bf1d9936e1",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+002_-001": {
+      "signature": "e19700fab71a8cff29729724370dd1757533b855b4d743c3e842f5b750387ae8",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+002_-002": {
+      "signature": "dab36f54e14c459b4ac3fccec15911286153e6e26797f78027da942d78ed01a1",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+002_-003": {
+      "signature": "456490cceffc234abac625c5c8fb6e534ef09113ac703ddfb9d1b3e885dce5be",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_+003_-002": {
+      "signature": "6375916d7c51331724fcc28bf7965792fd727bd6d1bcbc8288170566d4bb2318",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-001_+000": {
+      "signature": "f8cc1792ececbf2f5376eaeb388a5db3473e75f6d299ff11e52e8af15fca9c3d",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-001_+001": {
+      "signature": "904822cd68c0b27eef071d5be6a468b59b7abfdc5e6db8cfeb80615832b2fe28",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-001_+002": {
+      "signature": "5632dcc1a08d604df6e1b79f130f7325a66198d2751bc77e318adc8b8bc70109",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-001_+003": {
+      "signature": "fad77a423f992cd8ce8e9c0482d581b8ee3f04c4cc7b2a6f6e6ae7df9caeaa42",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-001_-001": {
+      "signature": "26d1ed3f07580627b76f56088542937974b380ad8be1dec98ce31620ce88faf7",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-001_-002": {
+      "signature": "ae634ae12f09754f0cfc77efc2a8e32b41a5916636b5dbd8a27c53ac911b4c9e",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-001_-003": {
+      "signature": "2e833f74cda5dbc15aa7bc346de2edb37e1c351f6724c85349680b214a567dc6",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-001_-004": {
+      "signature": "e9dd36ad28823e96812f5059e524a2ad50944e2cad9aacc69be5acb380ba8329",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-002_+000": {
+      "signature": "0eb7cf7407bab663d1485e1b0c00be283d35d41620653200dda363b2d5033d17",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-002_+001": {
+      "signature": "7ed19e3baba568594231123d032a9a841bd5d9d9ed2d5e61ab64d3df75d588d2",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-002_+002": {
+      "signature": "f79b4ec6314760474bc7931763229347024c7f860000c3e08ca68eb3b27c9329",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-002_-001": {
+      "signature": "a589e9e07206feb68367094ed45ec8df7b9ccb70d45d025c1c8f65834360c7e7",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-002_-002": {
+      "signature": "c5e470da6ca83e1ac71875fa391215953a71835ca7e686df1f2081e08a13aa17",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-002_-003": {
+      "signature": "ce0c6b547a229ae166e6d5fb96633f535598e49681fdae194fd66778fcfd0ded",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-002_-004": {
+      "signature": "d957b7fe73789fdf0d18f3889e76090f04330e31bf87a9fe8a1fc68c395b70e4",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-002_-005": {
+      "signature": "3fb0a21229945a6382d5b5d40def441579de9051a7b48fcffa188fc39c3a6eb9",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-003_+000": {
+      "signature": "9bd12e60b0614f875cc11aa28f9584d6fc5b832a1fe7904e5b7b37b877d8cb8d",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-003_+001": {
+      "signature": "4306499d47af167b688c79c6d6d7ba170e9867ed7eeb73ce23062f1798f48517",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-003_-001": {
+      "signature": "f18fd9786a46b1f804810dc0dcdc29dbe512f056d2c211aa27ae9129c61e4176",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-003_-002": {
+      "signature": "11d320090329d4005165823b5c2e8885ba3345f9acbaad05b4a356318853b128",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-003_-003": {
+      "signature": "87fca886266b7bfada9d0ccf2c54b4e92fba038205e5dfc559e191aa5f5ebb75",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-003_-004": {
+      "signature": "c33809b01619809e0f011bce3afcabd001228f7a0b155f09c6c99790af8298e3",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-004_-001": {
+      "signature": "13662a597b8b9a5413ef960417dc2674417f05e3fd33219a3023eddeaa696955",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-004_-002": {
+      "signature": "f3940d66f3a60989baa5aae0a201d1d6dcf4db224e1c833ad984a04cf9c37446",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-004_-004": {
+      "signature": "92e5693aeb334b9046d0f37a22229276ea5285b4afdfbdc25937270664471896",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-004_-005": {
+      "signature": "c6a71ba7246febcdbc5666fcf718b02ae0c62e33f861ae37246d3cf257b3cf44",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CORDON_-004_-006": {
+      "signature": "fbf9645c74b62a60d2d4f3a95606a0dd2c6031372fdbe5a62bc2ecf1908e542d",
+      "collections": [
+        "CORDONES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+000_+000": {
+      "signature": "d7b93cdeb7d3a93fa0f65d7c639a4a8cd8b8d586add4afc57aeff1349bccbcd3",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+000_+001": {
+      "signature": "b01120476752d3fac78dff031f0796fdfcc24f9ceb376f844d344b1d1789d0b1",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+000_+002": {
+      "signature": "0bd489f8efc544ada9647d8d5974fadca74678b52fb4da024a2e91faaf6c331c",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+000_+003": {
+      "signature": "c3cdc52df18d0dbf21c6dfcc732811e4c9fb893af850f153b1438051d96b87d9",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+000_-001": {
+      "signature": "38713df70b9fcdca6eb4c5ca77771a56182e508b324ace98cc1de2c33d0e865c",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+000_-002": {
+      "signature": "f7323e1f48e86e72bb22c44916099baeb423ecbbb2eba0a4c73ebbe233d0f61b",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+000_-003": {
+      "signature": "497da4ea60191098d1595d7e9efabfab40c0657e52d1a019550d1c6afab4a06c",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+000_-004": {
+      "signature": "831601157a713c0848785e1f34531ee4c70eb8421a040baa253fa428b49cd9b5",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+001_+000": {
+      "signature": "53ba732cfa4c722084b422efd841164fa01dd208a2c0cec7b6b65794d9c5c0a0",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+001_+001": {
+      "signature": "1f326a3d7f40020038f6bf9fb0332d91866bb23c6165e8ed75c0a5e78deccf29",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+001_-001": {
+      "signature": "a87baedb49530a1d21a2b986cbda1cd55c57e7321d6b9c74c1b0cfed1e316b63",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+001_-002": {
+      "signature": "d189b58b9508c30eb11c861f390b8da729bb0e55b9ec1fe4452d4ce44b579618",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+001_-003": {
+      "signature": "258080a59ea2861ea1e06ccb2e8cb13f9f9828f8f04cf114e5cc98cbc258fd62",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+001_-004": {
+      "signature": "337c72203cd00d728274de225ac3cb0c9c77440442c185bdb7791f04ea0fb50f",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+002_+000": {
+      "signature": "e6f7643c19adbbe71b55dade6a2a27fe994a5de6bc4dd22a0188fe513f60fd41",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+002_+001": {
+      "signature": "d62b9e6156d8a68a72f061949171584fde270eb1e13eaf9eb7b7422c5d193905",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+002_+002": {
+      "signature": "0e27305a12bf6bca6e07aa770d31ca9f50dd43bb8912d00562376746d23029ba",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+002_-001": {
+      "signature": "d563b304b099e62ec6c8d4d4d589699189f63c639afdd8b531bef70f08373e5d",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+002_-002": {
+      "signature": "74a11b888697e3e68827409d10f11aeada6c86765e208f7ea11f3828b817c0e2",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+002_-003": {
+      "signature": "8d5b1d83674cb5a93378ca4a48235cdc33e61cde38029b41704990834fb977fb",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_+003_-002": {
+      "signature": "e13163e6f1a4630d5359b491390cc48ae9efbd692f8398e19737bd37f99b727d",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-001_+000": {
+      "signature": "8c7a45957f3c7301285cfee32870a9d034be487149e36a45338928158671718b",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-001_+001": {
+      "signature": "849658609116f7361d5c42b9b4341d7ad912b0a809782390a69505869e49fc12",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-001_+002": {
+      "signature": "3add6f87363d6e26094fad31c952ce9d4d0fb87554b8ab58b0fa0b5f5a536951",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-001_+003": {
+      "signature": "3d65372ba5d85c2f3941c65d1e0da0b282c820a7d49a789a0ec0aaca9ccf90a3",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-001_-001": {
+      "signature": "64ed314b5bb5eabeb0346cb7004d87dfc591f3acdaed863252002879cb63c2e7",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-001_-002": {
+      "signature": "5cb5a9d6cc08235d92d96eaace3e9b181153d777ee7be5d502558ecd2c4f74c2",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-001_-003": {
+      "signature": "c952b5d6a926199b159e2a4d5ceaed6d52fb8ab5b57a5054c4c81ce0323c9e1e",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-001_-004": {
+      "signature": "437cbae805775034d59d0d62b73dd520c308013aead84a5843f240ff3b011c6f",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-002_+000": {
+      "signature": "cc4ed5e45558340b1fb3cdbbeab073c8d84c5ebafa422dc476a88c5946e965a9",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-002_+001": {
+      "signature": "e32c0010d3cca7d626882e736ab47049696abe691fbdd5c73314a7da877d404b",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-002_+002": {
+      "signature": "43e1c0210f2f2e8500095d7dc72133dd85e979563c67b0ed0c6a1aa48c493546",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-002_-001": {
+      "signature": "7ddcb377535b7b0928e0b3d2cccb67f352b7f0d67d23f20af4b360f64cee973e",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-002_-002": {
+      "signature": "5b097fe0964e82cd610a9d54b9082eb3a18d81949abccd4e66eb744b0cb85ee2",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-002_-003": {
+      "signature": "8205fefdc85d2086ea9257c1c4867247fa4fffbef98124f056f62c8e58d19955",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-002_-004": {
+      "signature": "585af6d4c4e1b7cd9e909e60a5ea54e3cd939d4edd2294e91b54cb77d51d8bc4",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-002_-005": {
+      "signature": "623dc83b60eb7be8e6af197b9fefd1ac1078eb3ca9e69150137c89ef06c6d13e",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-003_+000": {
+      "signature": "07d485de0507e820662e66737eabee2571194c5b9bdf705b0a8497847227c6eb",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-003_+001": {
+      "signature": "4a56814bc6d5f22e921d29f063d7fd385e5a5abf4a97851cd73fdaf4cc45aa4f",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-003_-001": {
+      "signature": "1c0850c8ffb342eecab96c009937e46bf8d3a287abd736bc35e0684f1c05e790",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-003_-002": {
+      "signature": "c1793429f666a52f78ce8a252266ce1929b06a1e2b9ff9d3350cd05fe08f5cfb",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-003_-003": {
+      "signature": "838bbae8b5ac63663fca9ab3ec97f845d87b1e14f1cf898afee278b19d71bb92",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-003_-004": {
+      "signature": "445aba98b24795c3c06314c165950f1265c095616430ccde56d7a3a4c824f995",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-003_-005": {
+      "signature": "aef79b135c3fda208639d7691b74ce243c0417c8a916756bc056d15c42a0214c",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-004_-001": {
+      "signature": "bf3f0663604814f68b3e0a1041eb93ab0370b02ffa1539eff9352e2f814c4312",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-004_-002": {
+      "signature": "6fe60ba0cb4cfdab11a230633f81ecedb071841fad3126306e987b82f952085e",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-004_-004": {
+      "signature": "442df7bef7eb0b75f6eecd87d26fea9189c606456ddb9175e5633e847b3b1d70",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-004_-005": {
+      "signature": "bedcbdf97f22e61a55d25389a77a6ce62fb1280d600d02c9e09e4ab4e1330024",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "VEREDA_-004_-006": {
+      "signature": "85731786e7582b2200af3bdbd5e80f8a6c0e529a5982106445e8a3435328db64",
+      "collections": [
+        "VEREDAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "TERRENO_BASE": {
+      "signature": "cb55bf266f679bec596171bc7fa6a53926c11c0a2a43817dc77d2bfae308de8d",
+      "collections": [
+        "TERRENO"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_01_casa_1p": {
+      "signature": "6cd9fa436d72f6970e82cc13c9b91796b54c5fffb1f1db4c117e3e16b4711b02",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_02_casa_2p": {
+      "signature": "8cbb5012defbfa043430550e7bfcf0335064ea681e5b98baf4cc66c159a66f24",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_03_casa_1p": {
+      "signature": "dc171ec9b8f3386da773c80d6e442417ae6871e15bba1b3cee29bb2a70e20968",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_04_casa_2p": {
+      "signature": "f1e674e78b7f1dff23499d82a5ef578df9c061f042b7e7103e98f35f2ca56457",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_05_casa_1p": {
+      "signature": "8e3a089b1259ef6df98171ea3979853ace397b5de50b19fc4178b595566eb6db",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_06_casa_2p": {
+      "signature": "8d366a0ae4c15223052ae8cf5bba66035e0fec7ba743f69851ee96d5b0e13036",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_07_comercio": {
+      "signature": "ca1010b21e9b23f76b54f866e2672cdd28611abe20e542e9fe8db4bf6ab30dcb",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_08_casa_2p": {
+      "signature": "2e659b7e060217857eac0b652cfc2a6221d7b9919e0287ca9b724c51b665a43d",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_09_casa_1p": {
+      "signature": "0ff4837da31f7ae5691e6456df36fadabab17f68dccfab49908a75c96d7159c2",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_10_casa_2p": {
+      "signature": "c4cdfc8fea18bb8e47fb895b7edc8870705001e67c168085f0eee17891660a65",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_11_casa_1p": {
+      "signature": "9ea5f292ca5adb7d811266e36c9901f545d23fb1c3f2a81807100c3983acbfc2",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_12_casa_2p": {
+      "signature": "87e766ed310daa9db51d96e16fa81dad88ee0e80d46be7d27af0b8b532c91346",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_13_casa_1p": {
+      "signature": "5701d1e101e714d7679f6016046408c6b34135bf245534da0549802ccd52ee98",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_14_comercio": {
+      "signature": "f3c562e2248aeb5bdb11ac6d1ee600560b78c58441482f67d87e0724c1da87b9",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_15_casa_1p": {
+      "signature": "e4bfd618bf4ccbac0ae527edfc3c3e079d7d3d88fde3a59b986f99db8818c1e7",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_16_casa_2p": {
+      "signature": "ac0e562282abbc59570470c78d44824157fedf4455033357d4477bb3dd75e564",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_17_casa_1p": {
+      "signature": "5c506c1e99d5db1648cf56994b6a0656845e5055c0934947b20a7057af3ff558",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_18_casa_2p": {
+      "signature": "77e5355605bc13cac0a5f807d500bb927364dffafcf03284ea8736bda1265b19",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_19_casa_1p": {
+      "signature": "fe711224c54d30e4e8b1ad130a0f2fe663e9f95029f785d9fb108704560994d4",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_20_casa_2p": {
+      "signature": "6fdfd46ecf8afb77233a6b17a2c1aaac9778d1b4d2b31ebd977097cb437838db",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PROVISIONAL_EDIF_21_comercio": {
+      "signature": "dc2f0658d55af3cf8372d3a1871d00e21e45eb3570192d92059521b2174b62e7",
+      "collections": [
+        "EDIFICIOS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_01": {
+      "signature": "56bede1a7ff8061b453fa0e296c6b7ffd40624014d641806524d4f6600be2344",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_02": {
+      "signature": "c18a809b5f893fbe296fbbe0a9da9376ed4b4d5c64a4a7fc997e4a1036866059",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_03": {
+      "signature": "b3f23d76482341efebb4f4b82dd0b1a79cd4c07178ec2d657d090032ec32d790",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_04": {
+      "signature": "3b02039e1aca02d8cf2765d93084739d66b89a0174600c5a87fe6abcd5448a12",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_05": {
+      "signature": "7250f94fa69579961e9915a63e79b6b0b9523d7fe3a9f2169855d5babf541847",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_06": {
+      "signature": "4db43a7a031f4b98cdc2faea717009424626f24dda7d4c27b7290f0951ee2dc0",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_07": {
+      "signature": "7a05e13ae2ae1e354bdab26f7df5653c623f49abeb38ce90b34341af91db33de",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_08": {
+      "signature": "43b085e42f3ac78e33e7221b49a6b88123ff35b993d936f281cc6b9b9c3631f5",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_09": {
+      "signature": "2814a067533e7ede72e34fb29fa3148037b3d3c229f749d80d0f5663cdc67f09",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_10": {
+      "signature": "621440084c189d3c10254dc5aa5239c0142d4a1cd8975b82fa10779b3fc609ae",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_11": {
+      "signature": "7e9316cdef76a5822e310c86f68e90c9ca159d2bb359cbc82fe6fdee36ff1d03",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_12": {
+      "signature": "fbb6d6ac42b9b1f5730b63c803fdd3ed4ffc7fa5789cf26a0f135a2b0c39ba4a",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_13": {
+      "signature": "276e7c5cd25a73166d3d41eac94c8a70166aeb69faf6e29b9dadad969d73cf19",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "ARBOL_14": {
+      "signature": "3b76e47cd4d8f5f83459ba55a09d93045282fb0b0f3b5bcb3c7fedbac3832baa",
+      "collections": [
+        "VEGETACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_01": {
+      "signature": "3ff0981a3180a4459bf3a39caf1c9f30098e8ca9f619b6a8d8f97606b8bab00f",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_02": {
+      "signature": "c6c67ed8095929aa65bc859cca38a16a3b77ef750781b0f2134e4641f01edd74",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_03": {
+      "signature": "f1b9494e332c14f45bbce514bd79aa7659aa3404050b1ae807a0760dd659435c",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_04": {
+      "signature": "22294d8ac60582ee26de2a800aa6eeb19db18dcde26a0aa1aaa83e49cdd4d573",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_05": {
+      "signature": "76e198d8f750ccda61607a76d89e70dc6d24eff32cc7086c88d8479b015e8772",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_06": {
+      "signature": "a622930527c2828852ee6c8b72480a7c394fac45795c312ea8d136dde2af316e",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_07": {
+      "signature": "ad9d3b8b70a4c0283a21ad861fa259ef3f8ce94fe13ebfd1f475a6d148d2f87e",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_08": {
+      "signature": "4454ceec7c5b4945a316f85a5f3d49b9d649c2542b9daa7612cb599f757b730d",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_09": {
+      "signature": "0bff02423b0e3af428c4f0c88f759fd0b46d435e7b0c9458fdf748fe72f9b9d1",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_10": {
+      "signature": "1f7c6c34bbc17871f95f1e01714c3dbe1d840bda303d7f3ddb0187eac427ce91",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_11": {
+      "signature": "62265aed7cf404643c5a0428ffcfc0b8ddc7772d4e36be8a988c50931fa2b5a0",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_12": {
+      "signature": "65edb0d38549cb4dccb03594a3cadf9097459faa3b06fc5d9a7251debda9a3ea",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_13": {
+      "signature": "b00678308e39d3820fe391156ec3f62e6aeb9bd148ed3b91b2bb69c884bcc48f",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "POSTE_14": {
+      "signature": "3aad28a4c6ec4a0f18c06b14ede0e2186e921ba2eeda17994cbadc513acef249",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "SOL": {
+      "signature": "74e92d41a2514f92af0a81dea2176f55a65b30b2b1b8caa0eb38c52e3083d5f7",
+      "collections": [
+        "ILUMINACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "SENAL_01": {
+      "signature": "796637513c0cce0e8ccd4adc70124efb93688e34aff556255a7ca5eddd343c03",
+      "collections": [
+        "SEÑALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "SENAL_02": {
+      "signature": "35ea66b2fe5f8e24ee5abc17c171f765a483fb7be4f23797d30820836a94dfe7",
+      "collections": [
+        "SEÑALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "SENAL_03": {
+      "signature": "791128ef2c6f47dedfc55f8e1018c7e368cea60dfda8e9bde29726a1c830611e",
+      "collections": [
+        "SEÑALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "SENAL_04": {
+      "signature": "b11188295f55db9b7dcfe814cbaf46e83abd6869a6ad696e0ddf33c90ed1eb81",
+      "collections": [
+        "SEÑALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "SENAL_05": {
+      "signature": "84eeb626178930a1852c4765a502befb985368cdbabab62baeac2cca06ebf2ac",
+      "collections": [
+        "SEÑALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "SENAL_06": {
+      "signature": "62a1433e23709385ff0e8228057df3c8eacc1c8ccbac2551f57239426a5edc8e",
+      "collections": [
+        "SEÑALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CAMARA_PRINCIPAL": {
+      "signature": "571e5cafe55fd920778ea11708e1fd8b2ef2f52d9679209cf522cdab1177710f",
+      "collections": [
+        "CAMARAS"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_MITRE_CESPED": {
+      "signature": "705f78fa85619cbf9946e81fc8c9e7f577fd835aaa7e45b1db5d0db698ab415c",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_MITRE_CORDON": {
+      "signature": "7dab3f643a752b164e9183de9e6e9781a0e587422f2850fca5ceece17b34fc02",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_MITRE_SENDEROS": {
+      "signature": "5e02df1bafb524931eb70d6cd30e1ccefc4c80ebfc19b0f6254606a605f8b391",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_MITRE_PERIMETRO": {
+      "signature": "4b914833c588dfdaf73c06b9e93770ef17fa7ce231486c93c6a5112fe2f11000",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_MITRE_ANILLO": {
+      "signature": "0b0b27af955b9c03678a09f9abe8d45ae6bfa88958c381131febef7dcfcf3314",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_01": {
+      "signature": "c8b824df83e6c615397852c05262a7dab850ab4af5278533c0182ac56e354885",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_02": {
+      "signature": "7cf3473f80d58f1edd9703345fa102238f071c346daa04ab3b1dec20f227281e",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_03": {
+      "signature": "e74edc74869a5ae65288fadcb5b7f19fa9375f84101d2a9929d91f338d853f22",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_04": {
+      "signature": "57856ec3a10ba32a16ab60bc210c5ffe05e6b82cf1ae11039684feb029eb6b25",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_05": {
+      "signature": "0dbb6d1f1c236d8c17d73d82389de2b7925704c07fcb3a4651da2b9643814106",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_06": {
+      "signature": "4c866b16fb6bc238186fd515c88078280aaa98b347359efca088e092b1479293",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_07": {
+      "signature": "7bf6d656ddd691b09d171ab3753c17a1cb581381b4c64a3d0f545200c54da2a2",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_08": {
+      "signature": "ecd8d958e203d4a4d6fa96932f19070d707fb025613429581e894adbb2d56fc4",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_09": {
+      "signature": "adcc1eb1c49419991ff85cd1e2f17f2f7a8b896fee6fb949fa8c3f7de00c16f7",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_10": {
+      "signature": "5e6c9438c9803671d5e63948c747472f9be6b0567c846ed5753907b3d7a6bcaf",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_11": {
+      "signature": "fc15a1f9a1e0328524695c32f3ebf74deae3ea172f1753f48e7568a3544cfc1e",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_12": {
+      "signature": "f7457fad7573c716ad2e32ed3febd79944886d01619917cb36358d4f44632a5f",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_13": {
+      "signature": "e0e3c7a5432b5af503331e8f420946ae141be759b4b19303f1eb57435363556e",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_14": {
+      "signature": "50845c8547046031364532cafca5d99f9dcae2025bf2c1e72e46745933d6ed0f",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_15": {
+      "signature": "31a684591f5d75e6ce2b29397052abf4b056b440b81c59403d661e5e2e98b07e",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_16": {
+      "signature": "b9aab3140cac4c56ab82e8f5b12dc23cea1a4bb4125c331df6628e41da168883",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_17": {
+      "signature": "73fad8b6a4aef97faf134f2bcfd39d2b5e51bff7eb8864097a9c581a642ca8f4",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_18": {
+      "signature": "c67406c485e353b6c8b8e130d01d3277c39edc2ccf3ef01b25e11f8113a8a85e",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_19": {
+      "signature": "2f7ee12afbc16c38b6476ef588b11fab835a928274e543d9681a9ad9ccb8c7b7",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_20": {
+      "signature": "1c65c3935381539046be86de177faa4b83f10d5ed64f28a5e7994233cdca9003",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_21": {
+      "signature": "384ea0a82e5993ca917f01a4452c79254f8280b1ef688cb9d05c3eabd4e8ca97",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_22": {
+      "signature": "9aa47d515e7dca9c9838e7728e7033c9216128d56a6937b33a6a2715225f4ccc",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_23": {
+      "signature": "158b345068921d2ece1539ad15e571a4412a1d4c19f275ff92ef3aa03cb9f23d",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_24": {
+      "signature": "5fab13b65c8c2d76705beefcd4d2894283d1510e144e8355793f2f8d8b3c7bd9",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_25": {
+      "signature": "db778f86507028b8f2b6a9e3492b9ea9ac85779012dccd49c6692e5fc7ea9695",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_26": {
+      "signature": "77ce055c7c58d82ff4f8ec2cb9e432b0c313f58df76eb7e1f9f376ced5d1d985",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_27": {
+      "signature": "6b68bca031a9fd6cda3c0caec98b603f11ea1ca97a1831cd8278fb77e44a6d45",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_28": {
+      "signature": "75baaa07b9fe899b7b11379e96f339511d497673921750d751fe43bd7493a6c5",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_29": {
+      "signature": "18547e78dddc50fb1487b08e75e47fa7fbf5c7b60f3ea42b84af31f40e7b3309",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_30": {
+      "signature": "dd82ac6285ecbfa30fd305006028835815b9f61dc856b489cce4ce6099d1da01",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_JACARANDA_31": {
+      "signature": "3aaffa2ba84d05b6089a74201987b43063dfeab2e44963dba014c32f6a9d54a5",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_MITRE_CESPED_INTERIOR": {
+      "signature": "7a9c7a517890469d362ada1d0bc90e5d5882ee0d967c45fff6abe3ebfb5b963e",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_01": {
+      "signature": "cb04636ad2085e8b64173f78bc67157ba515fc4fcb5f7e0da0cb2ba539ad43de",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_02": {
+      "signature": "fa843abad61a4e7dca4ea55b05a5f61472eee4135363662ece3d1dcb2cbc58aa",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_03": {
+      "signature": "28e0fec1f24ae1567ed6b25e5d6e94421a559dd07e87f9d99103ccb1da86866f",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_04": {
+      "signature": "7d82c2ee063e2da8d99857973a8ae8f394a0176af2854cd7c0e304ec1cc7d4e0",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_05": {
+      "signature": "973b9a8103b75314a507c1a43fb08de232eae86e5d139b336e25df9262efdd99",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_06": {
+      "signature": "1b15c2ed8968054561ed7230d084e8bcc0f2d7a3d6c6175306c91772ee5b4d7a",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_07": {
+      "signature": "082d2ca76c8a51dcf0d1065e58be6913afee61601c46f8afa605d5ff9f7a109c",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_08": {
+      "signature": "5140b24fd4d91429fc59b9c5dd8b74c9fb432ca4d54a0644d75304155a65fbf1",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_09": {
+      "signature": "1c085dae2a063a4d8cc73ae4afc04f2b63d25d0a1de905c9c7d3a7654bc87607",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_10": {
+      "signature": "9754b1f5593bef36418c95f378131440355c9c0536df1c2f6a9808e934d9e07d",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_11": {
+      "signature": "0b3809eff68736f80765b9485c25d7d99768805fda1b14a6288f66df9acb2cc4",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_PALMERA_12": {
+      "signature": "e5c86a7565339c0784637bb09b723cedd78dfde3ceef0f6d4dd5b1fd2115248c",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBOL_01": {
+      "signature": "9316f0bdb813f0f4bbc36f507e1476056e451d256ed5b988c55567a0a37a04b3",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBOL_02": {
+      "signature": "dfa585c6a7ba7b400cae5a6a8a7495f47f573dca0fc43efb9cb5582e25611ffc",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBOL_03": {
+      "signature": "f3aaaf0e42252a8dd4753ebd2135bba9925c26558f7e539308c415d68820fbb3",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBOL_04": {
+      "signature": "54b03716a42f96f11ce98e91f8417f721a5cf43d89680697d9d8d45375ea751f",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBOL_05": {
+      "signature": "e5b867f04672c07b3b5e5acdd39d27e9c65bf0602fca367e5a455631cdebccf9",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBOL_06": {
+      "signature": "955e12debab68f64d096dc7c4846aa6d71da49a21a8d27fc3fb5e9c79c804722",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBOL_07": {
+      "signature": "f2c9b69406e1bc4046e9bd7791c647db04f74804c3835e70d03e4fbecb689d52",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBOL_08": {
+      "signature": "87417df65e83dbba4af30f23ad510df953ec274d108b5c6fc8788b5ee90822e9",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_CIPRES_01": {
+      "signature": "ba13b3e2307cf4bdeb84ebdb9e4529ceaccb9816c9359c8d9b5d941fc7cdb0d0",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_CIPRES_02": {
+      "signature": "843aa5d9797da85a98a9f90fd3d76505af1bfc45d570269a3b684bb4d531e12b",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_CIPRES_03": {
+      "signature": "68afcf8d1e2eb6ac879f2e44f67f665dc7bdf48ef83e6726fe9d984a7792faa5",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_01": {
+      "signature": "5de4488ec121b87a53ddd1dff2f75b631102d8c27be9d3c861070fc24f110df3",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_02": {
+      "signature": "7eb4736f16139ec651babcf4764d5ead2116bee35ecf0c46f74833b0019ed1ab",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_03": {
+      "signature": "ab9d471748fb88fcc4b3e5e0c8cae6a9f33f490622eaed8473806f453dcff97c",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_04": {
+      "signature": "e70626431d463bc5451a1f72dab87cbe4d9e8934343bce24e853db7a7be3327d",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_05": {
+      "signature": "0196ee4cb1899faec21c57f2c21ff810677933faae01dc4d6539527e655cb0e4",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_06": {
+      "signature": "8723ebb1344957116a18d3144000d6064096b94b73856fd5514d38d68867d05f",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_07": {
+      "signature": "5bbbe830cd96d5b62b71ae3e89dba627b98d5c0075b25ca700e6533eb18e64f0",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_08": {
+      "signature": "0667be71b3143c93b06ea12b54a9b61a030b729a8f2a46f067e7bf6c9da9ac28",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_09": {
+      "signature": "ccec5b7c564b786725048dc18adf4c4e38f8be0d47562857876e9701edad9158",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_10": {
+      "signature": "6f719d1cdb993e9f7de2dd10e75f11bd96f2ff29a5a2b9b1da658061ce9a69af",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_11": {
+      "signature": "f6a28abcae2ee0b0c9934ac8293de23f764eaddad336298d58f9faf9f903471d",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_12": {
+      "signature": "76babb8b753978932e6bc696fd611afb176e89dbc9428b1c7d7d00d6b225d49e",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_13": {
+      "signature": "1086e684058ed98787eb383abd3b5bddbf72f779cdf845fd63b5168e46cf4411",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_14": {
+      "signature": "51981d83939dfe44602f8f63ce7ce745e525aa7f959d311b6685b3cd1d665156",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_15": {
+      "signature": "a2dc74954a44ec49440c49c17c71d8f0483c8096901bf84f66c7fc37fc8f8ac7",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_16": {
+      "signature": "d395665e074870cf932c30582e2d7aa683a74bdad75cc2f09bb54e0a6b28c79d",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_17": {
+      "signature": "aaa00b4ae503687608b738a93c77da89ef1d5b2bb441cfa722c29661d5cc75c2",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_18": {
+      "signature": "674c61857d26bd4019fb5f50310c10b79c2158b9e5e1ccd87e308ebed762af9c",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_19": {
+      "signature": "c07455b897d08e270ae175bee2486901336742f38d66200294605965d58005e8",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_20": {
+      "signature": "b176b87972f9e13bb90d62b50cb873218f52403fcd9c30673411a81440dc7fa2",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_21": {
+      "signature": "2bdf5c310277b33a052c93cd912a9781935ffb22f2628262273ebdd8f3949a68",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_ARBUSTO_22": {
+      "signature": "329053c28c7e0c78ca9dd6f3dad78a46f36cbeb762e8ccbaf27b72dac11f3906",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_01": {
+      "signature": "6291aaeebb340f363b892765960252d04b726916037d19066b3651cb13252ad1",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_02": {
+      "signature": "45509839bcf51f20c2d11a926adfbcc27243512f0174d531c5684708fc3d868a",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_03": {
+      "signature": "10abbd8e38a01700741446f96e7a23275bf86c4bdc5470f5247392761abed2fd",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_04": {
+      "signature": "c4b35ec04e295c86b2c7b576eb1994478671b3e7833b26f2df1c54d6f462fb76",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_05": {
+      "signature": "1dc96d4d012bd36e1a92e6fa48d7b820164a2d91f89847a351dc2b497a8a51bb",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_06": {
+      "signature": "98f46cf3f517ecb29341ccbb2599b288e36c413053e2ec3bceb912968f9164d2",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_07": {
+      "signature": "ea90f12e1714b3edec3f0ace77acf0e0d146cc9958b3d065a725a6e025d717a7",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_08": {
+      "signature": "bc52292e86b0b9a061225d9de2190246499e8dc87b30f33f5f70892eb5bd5b65",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_09": {
+      "signature": "3b0939781665d2477f8987e83f39c1f8d0e6a7b389e3512e95bc8015dec6c34d",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_10": {
+      "signature": "5eb82129a517a6d27eeef9670a1cde76018123ded93d7f12efc7981500bbb609",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_11": {
+      "signature": "3256311c881a236322941c5a6c262b97aa08b8041fb4ba098d47014a1490b829",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_12": {
+      "signature": "daf3426b8f172597e73bb2dc93a7bc0642ff6924e24e92093b22050b22a6ad3c",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_13": {
+      "signature": "c62c7505d5e993a06b1bc63bd3cf633c5d839fb6efed3d9fe417fa2382e06209",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_14": {
+      "signature": "71a94ffe58bd7fd4a1c432bfec111e725d918ef00326cf7cd94121e3189e0f06",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_15": {
+      "signature": "a9401b662e4aff269d3c47dbd0f17a5db88f9422cc8ef4a06f0b6a3e2b3c58f9",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_BANCO_16": {
+      "signature": "69d42ca0f6250bc95bb6c394eb0dd386b0ebf70246b21ee5ae19acc9fd4d2a13",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_01": {
+      "signature": "041ed26a1a7a3a6506058ab09bf887b9384a07d46939c1d74cdbf9a23e393045",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_02": {
+      "signature": "70fe89089a67215bbd94541d93519e72fb76fa86e73b292319f68468cdc917fc",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_03": {
+      "signature": "88ee84deacc390360767f073a944f5bd41be31b3bd379b934012205bbe5a28ed",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_04": {
+      "signature": "8b7bfa68c48107ed7aad82a2e4dc1c7a1708e6a1fc90456f2d96b1298b81093f",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_05": {
+      "signature": "e78a2dad1d391b9a5fab975de42e6ac3bc291909b573e53ac1663419881b8a9a",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_06": {
+      "signature": "fb96be749e995255cf0b64325b4e2188313c0b3e8762c1206b5bd03d0007d24e",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_07": {
+      "signature": "09659288fead39c60eade442771cd6b04558d73d589331647716d2ace99dc3e3",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_08": {
+      "signature": "4f9e936ffadcf56af46c6f952d63d57c4205d18c1d47fd8a1aa48477bdb09574",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_09": {
+      "signature": "24e3457825d994b96526943100d8af3d5a5bdb9293867eab7134a90a957b28bd",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_10": {
+      "signature": "f03fdea3afc9b8488cea196e9ad666a469be5c6b59f296ec2d05cfc802656b73",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_11": {
+      "signature": "8d87e451945de9e145e547e4488f0ce5287878b7f8a79052eb5652b7dd9371e2",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_12": {
+      "signature": "4c996c14fc824072aa30c786541fdbb303b5a9e4dc82a305aa14e45a2a468c33",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_13": {
+      "signature": "096f49f81dedb3018c2aa1f5cc3add74e8042da957a6786c686987f17d235941",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_14": {
+      "signature": "16d26cd82ba03985e351257b7277513be31c84b2c262270f33302327650e71a2",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_15": {
+      "signature": "af72d724da6181d6784e33984403a7c68ce12afac5f8559869928e0680c5aca6",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_FAROL_16": {
+      "signature": "9ac8f34c2475674128cc6b7b36e3bb5b786f544174c8be0d1ec09a5a23607093",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_CESTO_01": {
+      "signature": "1aa2cb6259d5163cedc206312bb73e4ebbb4fc17379c9de59e7b81e2e461d614",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_CESTO_02": {
+      "signature": "2ebdf5672f4ddd8394d856d549b2b77ac0a9c6c659b2d32ce93b7d5c1c87c4eb",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_CESTO_03": {
+      "signature": "3412795251a2dde2df0d86c9f30850f3477e866ddf006b39b2b9a0c136c2e991",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_CESTO_04": {
+      "signature": "1fb4c24372c36bfc078e59a40728d05fd3e571020d18cce457f02f3552fd7364",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_MONUMENTO_CONDOR": {
+      "signature": "9887772ae29dae2065c54ff887c570e0a41cf576509c029f26988ad7cd04a2fb",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PLAZA_CONDOR": {
+      "signature": "3e4595eb331781a87c9ad5bd7fdc7e26fd64328434f6e2b3140c90f6f1fc9dff",
+      "collections": [
+        "PLAZA_MITRE"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_RAMPA": {
+      "signature": "af09c4092b7958276724af0be5e65a1ca8a6a3523fe82040a48e4408bb7a24fc",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_MUNICIPAL": {
+      "signature": "324eb87f16eda1a1ae448076680240ee2dc7d4129bd2498e282355c4f6fbd9f1",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_LETRERO_MUNICIPIO": {
+      "signature": "d9b8b24ab295fc472c424fb26f55dcd06d47eff8d425de21ebaca4fc9021b0ec",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_ESCUDO": {
+      "signature": "0f191ad761c3011ef512239ed81e15f3a78490bf6111bf3311172fdbc53c6467",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_PANEL_BARADERO": {
+      "signature": "a7a27caceb39844ecf25aee392652f3776349accef5e619f32be6897d0b80b53",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_LETRERO_BARADERO": {
+      "signature": "02083f4381c3292ab8feaaba21b0ff29d5d3b4a311a4131a992abda3b6702c8f",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_ONDA_1": {
+      "signature": "d309930a443fd5fd7ccde47888b997b43bf29b66cecb6347d88bb4f10b79dc73",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_ONDA_2": {
+      "signature": "a52482ca68c3c663b4daaf6ec3da1375bb6941c00541a098a48fabe525682950",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_MACETAS": {
+      "signature": "75f7deb8f4d06aadf4661a85ffd095117476e8c311867d0f96c27e1887a8155c",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_EXPLANADA": {
+      "signature": "a198a91e42c1dcdd4ebe8a7a350095084164763adb2ecfea182a5831f547faf2",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_ARBOL_01": {
+      "signature": "e3d596b9860d8e8fb6160e618e358127843e4c1de3e156f3bdf624a9226e351b",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_ARBOL_02": {
+      "signature": "2587b309bd360c9971de5d46d0e8cfd7bafd220b69a46c6a27a596904a7cf134",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_CESTO_01": {
+      "signature": "a5bc01ac2abd5cc71f6be4026c4c93151b7a20e1417c4894cbb645f95f51c7ac",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "DELEGACION_CESTO_02": {
+      "signature": "de53e187088c52764c96cee142dd8c7b050b9d6544c05162500093307ab0fac1",
+      "collections": [
+        "DELEGACION"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CAMARA_PLAZA": {
+      "signature": "44ffd8601aab39742b6f23f2f4906db20945a88883f34fa24cd0ad678dbd0c75",
+      "collections": [
+        "CAMARAS_REALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CAMARA_DELEGACION": {
+      "signature": "06ccda59bb185489e2ed8616f466b4b7b7b33d4234901607f66c19c2ca472be1",
+      "collections": [
+        "CAMARAS_REALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CAMARA_MONUMENTO": {
+      "signature": "7fbcc6354c23d10f51aca9790f2844ce41bb1b1fc6154d4f5356da560a1673d3",
+      "collections": [
+        "CAMARAS_REALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "CAMARA_PLAZA_AEREA": {
+      "signature": "8b63f1e977325eac84d2465ba4376b7a7ca45ec079c5bbb7414f81b5a732e33f",
+      "collections": [
+        "CAMARAS_REALES"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "LUZ_REALISTA_RELLENO": {
+      "signature": "130ebde9fef588819835b80cbd75f93699c8689e22bc95b64913e17b4066e8e1",
+      "collections": [
+        "ILUMINACION_REAL"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    }
+  },
+  "removed": {
+    "PB_Calle_Asfalto": {
+      "signature": "22cfeb3a38fd2158c118e555196673c9dbc9c84c0c5c6ebd5150d6b3b7344a5b",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Vereda_Norte": {
+      "signature": "a1b43669eab6310184e81f2a51ec61d9fbf6578b4da29fe4df94959e202b3606",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Vereda_Sur": {
+      "signature": "953dd3677792ffc4fd9c7e20ab088fa907be3d9f4b5f278e44aac61ccefd560a",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_01": {
+      "signature": "4e9d96958242ffe679526ac75d7e83d98c598fb47e7d141583d117440f4afeed",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_02": {
+      "signature": "67da29db96171abed5127f4ca507e50f0701b4c4ada7831719b36d35ccbb36af",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_03": {
+      "signature": "c517b5de043525ce6d0a3e1fabada74644929e5c6e8c608253ff1d66e1dfd280",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_04": {
+      "signature": "b4cfa0964d81fdf7b435d1440aee713b08bc76e9bb4382b85364d9971b6754bd",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_05": {
+      "signature": "3decf1d6f21c815f6a95ea4117182b02e9e4c7c3f26cfa3552cb2a2b8b5611c7",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_06": {
+      "signature": "9c2d75023f52b3a77ff594c3343606e8bc0f6a1141b85934b5b5410097a7b2b7",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_07": {
+      "signature": "ef4c5fa6663ef02c46ae428745e71044775998313889f35abaa687f009365fe2",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_08": {
+      "signature": "d48a2414ddbc17b91abf3158974af1abd02f5393df78244b789d400af47cfca3",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_09": {
+      "signature": "c347ba1bd43d564094d76fb512606f1809df81b26a620cfd38b8d4bf845f4617",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_10": {
+      "signature": "ba89c5096935198ab9952a9ffb438f333bda0eb9c0b1578d36bac959ca1b85a7",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_11": {
+      "signature": "09629ff14a1f56b9a7e8a363bf511e59a4c86eaeb29823e241fa33db29a67f6e",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_12": {
+      "signature": "a3b255ab7e3c2762f7a4c6b3a307b05cb034d571b1a02cb71f53cf738456ed51",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_13": {
+      "signature": "a1cc2bce82d4b67a25a262df69be1004cc0708b9dbf809cf911f8eb6273f7a5d",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_14": {
+      "signature": "44e7e3e89c8bb30396d821adaec89b37dccbc5d1c1df3b17f2af421b825243f4",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_15": {
+      "signature": "da213e56784171bacb2c8ebda0d37d9236270fab910719efb53dfd920e7dd280",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_16": {
+      "signature": "8d7c00958c40f6af6d74be863e50d6cd81f76d9789107b1ca35b84f8eb248d04",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_17": {
+      "signature": "0b0fddeb551995a3089d3bdbc4480a2ed1573eb9a76de524ebcf4efdb068872f",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_18": {
+      "signature": "44aff1e91d81b3fa84319795c0d6bd56a2bb6124315f0000e712534ca421476e",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_19": {
+      "signature": "b1f86ad012ec52268651001db41425850e7071fbc4421486a9ff969109e959ec",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    },
+    "PB_Linea_Central_20": {
+      "signature": "4ce6ced3805b27cfd98f9392f8730ac7c1495f18b3b9cc4282b7baa0afee5222",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false
+    }
+  },
+  "in_memory_verification": {
+    "preserved_objects": 373,
+    "changed": [],
+    "removed_objects": 23,
+    "remaining_incorrect_objects": []
+  },
+  "top_camera": "CAMARA_CALLES_CORREGIDAS_SUPERIOR",
+  "output": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_Calles_Corregidas.blend",
+  "verification": {
+    "preserved_objects": 373,
+    "changed": [],
+    "removed_objects": 23,
+    "remaining_incorrect_objects": [],
+    "alignment": {
+      "matched_ways": 28,
+      "max_error_m": 9.335160258969694e-05
+    },
+    "source_unchanged": true,
+    "backup_exists": true,
+    "camera_top": true,
+    "realistic_objects_preserved": 139,
+    "opened_with": "4.2.23 LTS",
+    "renders": [
+      "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_corregidas_superior.png",
+      "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\calles_corregidas_perspectiva.png"
+    ]
+  }
+}
