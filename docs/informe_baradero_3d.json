@@ -1,0 +1,326 @@
+{
+  "phase": "urban_test",
+  "notice": "Edificios PROVISIONALES de prueba; no son edificios reales de Baradero.",
+  "blender_version": "4.2.23 LTS",
+  "source_ways": 28,
+  "seed": 20261114,
+  "setback_from_centerline_m": 8.0,
+  "centreline_blocks_found": 65,
+  "blocks_used": 7,
+  "block_details": [
+    {
+      "block_id": 1,
+      "area_m2": 14277.16,
+      "centroid": [
+        -134.71,
+        -144.76
+      ],
+      "wkt": "POLYGON ((-151.886 -59.962, -151.886 -59.962, -53.690 -131.708, -53.690 -131.708, -112.890 -227.215, -112.890 -227.215, -217.554 -161.132, -217.554 -161.132, -217.554 -161.132, -151.886 -59.962))",
+      "buildings": 3
+    },
+    {
+      "block_id": 2,
+      "area_m2": 12037.6,
+      "centroid": [
+        -38.8,
+        -209.57
+      ],
+      "wkt": "POLYGON ((-53.690 -131.708, 34.292 -191.096, 34.292 -191.096, -22.218 -287.559, -112.890 -227.215, -112.890 -227.215, -112.890 -227.215, -53.690 -131.708))",
+      "buildings": 3
+    },
+    {
+      "block_id": 3,
+      "area_m2": 16040.73,
+      "centroid": [
+        -200.57,
+        -248.86
+      ],
+      "wkt": "POLYGON ((-217.554 -161.132, -217.554 -161.132, -112.890 -227.215, -183.161 -335.245, -288.112 -272.953, -217.554 -161.132))",
+      "buildings": 3
+    },
+    {
+      "block_id": 4,
+      "area_m2": 14081.78,
+      "centroid": [
+        -101.49,
+        -311.24
+      ],
+      "wkt": "POLYGON ((-112.890 -227.215, -112.890 -227.215, -22.218 -287.559, -85.402 -394.061, -183.161 -335.245, -112.890 -227.215))",
+      "buildings": 3
+    },
+    {
+      "block_id": 5,
+      "area_m2": 16786.27,
+      "centroid": [
+        -63.59,
+        -37.99
+      ],
+      "wkt": "POLYGON ((-53.690 -131.708, -53.690 -131.708, -151.886 -59.962, -151.886 -59.962, -151.886 -59.962, -74.295 52.696, -74.295 52.696, 24.637 -10.410, -53.690 -131.708, -53.690 -131.708))",
+      "buildings": 3
+    },
+    {
+      "block_id": 6,
+      "area_m2": 12688.69,
+      "centroid": [
+        -228.84,
+        -81.42
+      ],
+      "wkt": "POLYGON ((-241.759 -2.130, -151.886 -59.962, -217.554 -161.132, -217.554 -161.132, -304.987 -102.687, -304.987 -102.687, -304.987 -102.687, -241.759 -2.130))",
+      "buildings": 3
+    },
+    {
+      "block_id": 7,
+      "area_m2": 15207.85,
+      "centroid": [
+        28.99,
+        -99.85
+      ],
+      "wkt": "POLYGON ((34.292 -191.096, 34.292 -191.096, -53.690 -131.708, -53.690 -131.708, 24.637 -10.410, 24.637 -10.410, 111.021 -63.890, 111.021 -63.890, 34.292 -191.096, 34.292 -191.096))",
+      "buildings": 3
+    }
+  ],
+  "buildings": 21,
+  "building_types": {
+    "casa_1p": 9,
+    "casa_2p": 9,
+    "comercio": 3
+  },
+  "buildings_detail": [
+    {
+      "name": "PROVISIONAL_EDIF_01_casa_1p",
+      "type": "casa_1p",
+      "floors": 1,
+      "height_m": 4.4,
+      "block_id": 1,
+      "footprint_m2": 93.61,
+      "footprint_wkt": "POLYGON ((-120.727 -138.759, -111.679 -144.631, -106.955 -137.352, -116.003 -131.480, -120.727 -138.759))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_02_casa_2p",
+      "type": "casa_2p",
+      "floors": 2,
+      "height_m": 7.6,
+      "block_id": 1,
+      "footprint_m2": 131.28,
+      "footprint_wkt": "POLYGON ((-82.146 -135.141, -71.256 -142.209, -65.751 -133.727, -76.640 -126.659, -82.146 -135.141))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_03_casa_1p",
+      "type": "casa_1p",
+      "floors": 1,
+      "height_m": 4.4,
+      "block_id": 1,
+      "footprint_m2": 118.11,
+      "footprint_wkt": "POLYGON ((-145.856 -104.980, -135.537 -111.678, -130.310 -103.625, -140.629 -96.927, -145.856 -104.980))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_04_casa_2p",
+      "type": "casa_2p",
+      "floors": 2,
+      "height_m": 7.6,
+      "block_id": 2,
+      "footprint_m2": 93.2,
+      "footprint_wkt": "POLYGON ((-39.458 -262.006, -33.548 -252.471, -40.609 -248.094, -46.519 -257.628, -39.458 -262.006))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_05_casa_1p",
+      "type": "casa_1p",
+      "floors": 1,
+      "height_m": 4.4,
+      "block_id": 2,
+      "footprint_m2": 113.15,
+      "footprint_wkt": "POLYGON ((-14.495 -199.474, -7.980 -188.965, -15.758 -184.144, -22.273 -194.653, -14.495 -199.474))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_06_casa_2p",
+      "type": "casa_2p",
+      "floors": 2,
+      "height_m": 7.6,
+      "block_id": 2,
+      "footprint_m2": 96.56,
+      "footprint_wkt": "POLYGON ((-4.803 -213.991, 0.542 -205.368, -7.549 -200.353, -12.893 -208.976, -4.803 -213.991))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_07_comercio",
+      "type": "comercio",
+      "floors": 1,
+      "height_m": 4.5,
+      "block_id": 3,
+      "footprint_m2": 127.82,
+      "footprint_wkt": "POLYGON ((-200.703 -241.709, -193.640 -230.515, -201.807 -225.362, -208.870 -236.556, -200.703 -241.709))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_08_casa_2p",
+      "type": "casa_2p",
+      "floors": 2,
+      "height_m": 7.6,
+      "block_id": 3,
+      "footprint_m2": 108.62,
+      "footprint_wkt": "POLYGON ((-214.172 -199.430, -207.789 -189.315, -215.470 -184.468, -221.852 -194.584, -214.172 -199.430))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_09_casa_1p",
+      "type": "casa_1p",
+      "floors": 1,
+      "height_m": 4.4,
+      "block_id": 3,
+      "footprint_m2": 114.31,
+      "footprint_wkt": "POLYGON ((-144.232 -253.180, -137.651 -242.752, -145.491 -237.805, -152.071 -248.234, -144.232 -253.180))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_10_casa_2p",
+      "type": "casa_2p",
+      "floors": 2,
+      "height_m": 7.6,
+      "block_id": 4,
+      "footprint_m2": 107.27,
+      "footprint_wkt": "POLYGON ((-120.741 -326.495, -113.951 -315.208, -120.929 -311.010, -127.719 -322.296, -120.741 -326.495))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_11_casa_1p",
+      "type": "casa_1p",
+      "floors": 1,
+      "height_m": 4.4,
+      "block_id": 4,
+      "footprint_m2": 79.86,
+      "footprint_wkt": "POLYGON ((-70.818 -308.898, -65.973 -300.844, -73.253 -296.464, -78.099 -304.517, -70.818 -308.898))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_12_casa_2p",
+      "type": "casa_2p",
+      "floors": 2,
+      "height_m": 7.6,
+      "block_id": 4,
+      "footprint_m2": 113.12,
+      "footprint_wkt": "POLYGON ((-93.810 -295.442, -87.524 -284.995, -95.474 -280.212, -101.760 -290.659, -93.810 -295.442))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_13_casa_1p",
+      "type": "casa_1p",
+      "floors": 1,
+      "height_m": 4.4,
+      "block_id": 5,
+      "footprint_m2": 109.72,
+      "footprint_wkt": "POLYGON ((-92.986 -86.129, -87.046 -76.930, -95.463 -71.495, -101.403 -80.693, -92.986 -86.129))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_14_comercio",
+      "type": "comercio",
+      "floors": 1,
+      "height_m": 4.5,
+      "block_id": 5,
+      "footprint_m2": 89.69,
+      "footprint_wkt": "POLYGON ((-51.517 -63.215, -45.724 -54.244, -52.780 -49.688, -58.573 -58.659, -51.517 -63.215))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_15_casa_1p",
+      "type": "casa_1p",
+      "floors": 1,
+      "height_m": 4.4,
+      "block_id": 5,
+      "footprint_m2": 120.45,
+      "footprint_wkt": "POLYGON ((-92.658 -43.455, -86.092 -33.287, -94.452 -27.889, -101.018 -38.057, -92.658 -43.455))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_16_casa_2p",
+      "type": "casa_2p",
+      "floors": 2,
+      "height_m": 7.6,
+      "block_id": 6,
+      "footprint_m2": 117.87,
+      "footprint_wkt": "POLYGON ((-232.532 -79.825, -225.491 -68.883, -233.109 -63.981, -240.150 -74.923, -232.532 -79.825))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_17_casa_1p",
+      "type": "casa_1p",
+      "floors": 1,
+      "height_m": 4.4,
+      "block_id": 6,
+      "footprint_m2": 99.65,
+      "footprint_wkt": "POLYGON ((-237.941 -132.709, -232.575 -124.370, -241.026 -118.933, -246.392 -127.272, -237.941 -132.709))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_18_casa_2p",
+      "type": "casa_2p",
+      "floors": 2,
+      "height_m": 7.6,
+      "block_id": 6,
+      "footprint_m2": 106.91,
+      "footprint_wkt": "POLYGON ((-211.075 -55.919, -205.135 -46.688, -213.325 -41.418, -219.265 -50.649, -211.075 -55.919))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_19_casa_1p",
+      "type": "casa_1p",
+      "floors": 1,
+      "height_m": 4.4,
+      "block_id": 7,
+      "footprint_m2": 100.94,
+      "footprint_wkt": "POLYGON ((45.780 -97.178, 51.575 -87.817, 43.780 -82.991, 37.985 -92.352, 45.780 -97.178))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_20_casa_2p",
+      "type": "casa_2p",
+      "floors": 2,
+      "height_m": 7.6,
+      "block_id": 7,
+      "footprint_m2": 78.54,
+      "footprint_wkt": "POLYGON ((10.079 -68.803, 15.053 -60.770, 7.985 -56.394, 3.012 -64.427, 10.079 -68.803))",
+      "provisional": true
+    },
+    {
+      "name": "PROVISIONAL_EDIF_21_comercio",
+      "type": "comercio",
+      "floors": 1,
+      "height_m": 4.5,
+      "block_id": 7,
+      "footprint_m2": 102.46,
+      "footprint_wkt": "POLYGON ((33.759 -167.139, 39.991 -157.073, 32.633 -152.517, 26.401 -162.583, 33.759 -167.139))",
+      "provisional": true
+    }
+  ],
+  "trees": 14,
+  "lamps": 14,
+  "signs": 6,
+  "ground_object": "TERRENO_BASE",
+  "camera": "CAMARA_PRINCIPAL",
+  "camera_location": [
+    4.12,
+    -326.49,
+    68.69
+  ],
+  "view_span_m": 298.61,
+  "limitations": [
+    "Los edificios son volumetricos de prueba, sin correspondencia con construcciones reales",
+    "Alturas, colores, techos y aberturas son estimados",
+    "El OSM no aporta retiros, medianeras ni uso del suelo",
+    "No se modelo la Plaza Mitre en esta etapa"
+  ],
+  "output_blend": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_3D.blend",
+  "source_blend": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_mapa.blend",
+  "generated_at": "2026-11-14T15:04:34",
+  "source_sha256": "61b9619a6b37029d01322193bbd45e7de050c16c77727e21d3d77d89c217565b",
+  "streets": {
+    "CALZADA": 48,
+    "CORDON": 48,
+    "VEREDA": 49
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "source": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\datos_osm\\baradero_centro.osm",
+  "source_sha256": "61b9619a6b37029d01322193bbd45e7de050c16c77727e21d3d77d89c217565b",
+  "collection": "BARA_DRIVE_CALLES",
+  "backup": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\backups\\antes_calles_20261114_120538_983946.blend",
+  "projection": "WGS84 / UTM zone 21S (EPSG:32721), Snyder series",
+  "origin": {
+    "lat": -33.80752,
+    "lon": -59.50218,
+    "easting_m": 268380.96613998304,
+    "northing_m": 6256370.369211186
+  },
+  "axes": "X este UTM; Y norte de cuadrícula UTM; Z arriba",
+  "width_configuration": {
+    "highway": {
+      "motorway": 12.0,
+      "motorway_link": 5.0,
+      "trunk": 10.0,
+      "trunk_link": 5.0,
+      "primary": 9.0,
+      "primary_link": 5.0,
+      "secondary": 8.0,
+      "secondary_link": 5.0,
+      "tertiary": 7.0,
+      "tertiary_link": 5.0,
+      "unclassified": 7.0,
+      "residential": 7.0,
+      "living_street": 5.0,
+      "service": 4.0
+    },
+    "lane_width_m": 3.25,
+    "edge_allowance_per_side_m": 0.5
+  },
+  "total_osm_ways": 46,
+  "highway_ways": 28,
+  "processed": 28,
+  "omitted": 18,
+  "omitted_by_reason": {
+    "sin_highway": 18
+  },
+  "omitted_details": [
+    {
+      "id": "239949279",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "379691341",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "379861396",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "386834199",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "448060697",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801819092",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801819093",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801819095",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801826479",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801826480",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801826481",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801826482",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801826483",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801826484",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801826485",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "801827866",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "805118281",
+      "reason": "sin_highway"
+    },
+    {
+      "id": "805136982",
+      "reason": "sin_highway"
+    }
+  ],
+  "errors": [],
+  "existing_scene_preserved": true,
+  "max_centerline_error_m": 0.00012582719804741396,
+  "objects": 28,
+  "vertices": 626,
+  "triangles": 570,
+  "roads": [
+    {
+      "id": "228161261",
+      "object": "Calle_228161261_René Simón",
+      "name": "René Simón",
+      "highway": "secondary",
+      "width_m": 4.25,
+      "width_source": "lanes_estimado",
+      "length_m": 896.119,
+      "vertices": 20,
+      "triangles": 18,
+      "warnings": []
+    },
+    {
+      "id": "228161262",
+      "object": "Calle_228161262_Malabia",
+      "name": "Malabia",
+      "highway": "secondary",
+      "width_m": 4.25,
+      "width_source": "lanes_estimado",
+      "length_m": 220.478,
+      "vertices": 8,
+      "triangles": 6,
+      "warnings": []
+    },
+    {
+      "id": "228161263",
+      "object": "Calle_228161263_Gascón",
+      "name": "Gascón",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1456.609,
+      "vertices": 32,
+      "triangles": 30,
+      "warnings": []
+    },
+    {
+      "id": "228161264",
+      "object": "Calle_228161264_René Simón",
+      "name": "René Simón",
+      "highway": "secondary",
+      "width_m": 8.0,
+      "width_source": "highway_estimado",
+      "length_m": 297.457,
+      "vertices": 18,
+      "triangles": 16,
+      "warnings": []
+    },
+    {
+      "id": "228161265",
+      "object": "Calle_228161265_Malabia",
+      "name": "Malabia",
+      "highway": "secondary",
+      "width_m": 4.25,
+      "width_source": "lanes_estimado",
+      "length_m": 434.809,
+      "vertices": 12,
+      "triangles": 10,
+      "warnings": []
+    },
+    {
+      "id": "228161407",
+      "object": "Calle_228161407_Malabia",
+      "name": "Malabia",
+      "highway": "secondary",
+      "width_m": 8.0,
+      "width_source": "highway_estimado",
+      "length_m": 1015.653,
+      "vertices": 22,
+      "triangles": 20,
+      "warnings": []
+    },
+    {
+      "id": "228161408",
+      "object": "Calle_228161408_Darragueira",
+      "name": "Darragueira",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1455.456,
+      "vertices": 32,
+      "triangles": 30,
+      "warnings": []
+    },
+    {
+      "id": "228161596",
+      "object": "Calle_228161596_Cabrera",
+      "name": "Cabrera",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1694.295,
+      "vertices": 48,
+      "triangles": 46,
+      "warnings": []
+    },
+    {
+      "id": "228161597",
+      "object": "Calle_228161597_Boedo",
+      "name": "Boedo",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1459.544,
+      "vertices": 32,
+      "triangles": 30,
+      "warnings": []
+    },
+    {
+      "id": "228161668",
+      "object": "Calle_228161668_Avenida San Martín",
+      "name": "Avenida San Martín",
+      "highway": "secondary",
+      "width_m": 8.0,
+      "width_source": "highway_estimado",
+      "length_m": 2116.84,
+      "vertices": 42,
+      "triangles": 40,
+      "warnings": []
+    },
+    {
+      "id": "228161671",
+      "object": "Calle_228161671_Laprida",
+      "name": "Laprida",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1125.023,
+      "vertices": 22,
+      "triangles": 20,
+      "warnings": []
+    },
+    {
+      "id": "228161673",
+      "object": "Calle_228161673_Anchorena",
+      "name": "Anchorena",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1122.239,
+      "vertices": 22,
+      "triangles": 20,
+      "warnings": []
+    },
+    {
+      "id": "228161712",
+      "object": "Calle_228161712_Sáenz",
+      "name": "Sáenz",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 947.84,
+      "vertices": 18,
+      "triangles": 16,
+      "warnings": []
+    },
+    {
+      "id": "228162442",
+      "object": "Calle_228162442_Rodríguez",
+      "name": "Rodríguez",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1132.389,
+      "vertices": 28,
+      "triangles": 26,
+      "warnings": []
+    },
+    {
+      "id": "228162453",
+      "object": "Calle_228162453_Thames",
+      "name": "Thames",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1630.758,
+      "vertices": 34,
+      "triangles": 32,
+      "warnings": []
+    },
+    {
+      "id": "228162456",
+      "object": "Calle_228162456_Gorriti",
+      "name": "Gorriti",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1042.704,
+      "vertices": 22,
+      "triangles": 20,
+      "warnings": []
+    },
+    {
+      "id": "228162645",
+      "object": "Calle_228162645_Bulnes",
+      "name": "Bulnes",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1440.727,
+      "vertices": 34,
+      "triangles": 32,
+      "warnings": []
+    },
+    {
+      "id": "228162649",
+      "object": "Calle_228162649_Paso",
+      "name": "Paso",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 937.901,
+      "vertices": 22,
+      "triangles": 20,
+      "warnings": []
+    },
+    {
+      "id": "228163421",
+      "object": "Calle_228163421_Acevedo",
+      "name": "Acevedo",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 582.094,
+      "vertices": 16,
+      "triangles": 14,
+      "warnings": []
+    },
+    {
+      "id": "239949320",
+      "object": "Calle_239949320_René Simón",
+      "name": "René Simón",
+      "highway": "secondary",
+      "width_m": 4.25,
+      "width_source": "lanes_estimado",
+      "length_m": 897.953,
+      "vertices": 20,
+      "triangles": 18,
+      "warnings": []
+    },
+    {
+      "id": "301191091",
+      "object": "Calle_301191091_Aráoz",
+      "name": "Aráoz",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1033.716,
+      "vertices": 20,
+      "triangles": 18,
+      "warnings": []
+    },
+    {
+      "id": "301191122",
+      "object": "Calle_301191122_Colombres",
+      "name": "Colombres",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1354.883,
+      "vertices": 32,
+      "triangles": 30,
+      "warnings": []
+    },
+    {
+      "id": "311603187",
+      "object": "Calle_311603187_Rene Simon",
+      "name": "Rene Simon",
+      "highway": "secondary",
+      "width_m": 8.0,
+      "width_source": "highway_estimado",
+      "length_m": 159.216,
+      "vertices": 10,
+      "triangles": 8,
+      "warnings": []
+    },
+    {
+      "id": "360897430",
+      "object": "Calle_360897430_Laprida",
+      "name": "Laprida",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 62.824,
+      "vertices": 4,
+      "triangles": 2,
+      "warnings": []
+    },
+    {
+      "id": "601167979",
+      "object": "Calle_601167979_Santa María de Oro",
+      "name": "Santa María de Oro",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 1446.456,
+      "vertices": 32,
+      "triangles": 30,
+      "warnings": []
+    },
+    {
+      "id": "601167985",
+      "object": "Calle_601167985_Castro Barros",
+      "name": "Castro Barros",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "highway_estimado",
+      "length_m": 465.633,
+      "vertices": 12,
+      "triangles": 10,
+      "warnings": []
+    },
+    {
+      "id": "635329950",
+      "object": "Calle_635329950_Servicio",
+      "name": null,
+      "highway": "service",
+      "width_m": 4.0,
+      "width_source": "highway_estimado",
+      "length_m": 106.308,
+      "vertices": 8,
+      "triangles": 6,
+      "warnings": []
+    },
+    {
+      "id": "685524802",
+      "object": "Calle_685524802_Avenida San Martín",
+      "name": "Avenida San Martín",
+      "highway": "secondary",
+      "width_m": 8.0,
+      "width_source": "highway_estimado",
+      "length_m": 138.235,
+      "vertices": 4,
+      "triangles": 2,
+      "warnings": []
+    }
+  ],
+  "notes": [
+    "Sin recorte de vías al bounds del archivo",
+    "Anchos provisionales salvo width explícito",
+    "Superficie plana Z=0; sin datos de elevación",
+    "Cruces superpuestos, sin unión booleana",
+    "Material asfalto uniforme solicitado; surface original conservado en osm_tags"
+  ]
+}

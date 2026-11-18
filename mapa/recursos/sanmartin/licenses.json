@@ -1,0 +1,253 @@
+[
+  {
+    "id": "island_tree_02",
+    "source": "https://polyhaven.com/a/island_tree_02",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "files": [
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\island_tree_02_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/island_tree_02/island_tree_02_1k.gltf",
+        "md5": "825057164e987894cbfc6c462977fa71"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_nor_gl_1k.jpg",
+        "md5": "d8b8bc86de9934a743fc9b0a5470e695"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_diff_1k.jpg",
+        "md5": "b7435527d9628527ce47d89fc1468e9a"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_arm_1k.jpg",
+        "md5": "e487f91bcb37a2a1109ef6234f1db27e"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_leaves_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_nor_gl_1k.jpg",
+        "md5": "a08ffb98b5ffb7dfa682e05a1639c642"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_leaves_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_diff_1k.jpg",
+        "md5": "1356cbb5a5dd1318f9f2a01eddbf03e1"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_leaves_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_arm_1k.jpg",
+        "md5": "27b06c4a53ff115ed7d51ee94e417257"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_branches_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_nor_gl_1k.jpg",
+        "md5": "789084affb01f4a22290a848558f5e12"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_branches_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_diff_1k.jpg",
+        "md5": "7792907fe2b2b748c129a2384192a579"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_branches_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_arm_1k.jpg",
+        "md5": "5b6f5b3838f4a8f60fea14fa3a3fef9f"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\island_tree_02.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/island_tree_02/island_tree_02.bin",
+        "md5": "7fa9d6ee752b670cabb65053a5c6395b"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\island_tree_02\\textures\\island_tree_02_leaves_alpha_1k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_alpha_1k.png",
+        "md5": "5ad9fb9a06e70c069bd3d3ba23577375"
+      }
+    ]
+  },
+  {
+    "id": "jacaranda_tree",
+    "source": "https://polyhaven.com/a/jacaranda_tree",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "files": [
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\jacaranda_tree_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/jacaranda_tree/jacaranda_tree_1k.gltf",
+        "md5": "8fed93ff7cbdaac0f5c199ef1fd0f694"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_branches_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_branches_nor_gl_1k.jpg",
+        "md5": "789084affb01f4a22290a848558f5e12"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_branches_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_branches_diff_1k.jpg",
+        "md5": "e5bacbfd3e7ce397bdd34b0bac6669ca"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_branches_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_branches_arm_1k.jpg",
+        "md5": "5b6f5b3838f4a8f60fea14fa3a3fef9f"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_trunk_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_trunk_nor_gl_1k.jpg",
+        "md5": "af34d3a054b498f153e4793f7520a630"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_trunk_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_trunk_diff_1k.jpg",
+        "md5": "c3edc2e76157023e7a5c35cd13867498"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_trunk_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_trunk_arm_1k.jpg",
+        "md5": "7232b4514e9412725a6a8e65a69f4ed4"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_leaves_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_leaves_nor_gl_1k.jpg",
+        "md5": "7cbd82c0dd4b8c8a4ab314338f50404d"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_leaves_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_leaves_diff_1k.jpg",
+        "md5": "8ae91737f39567629768a255817d80be"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_leaves_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jacaranda_tree/jacaranda_tree_leaves_arm_1k.jpg",
+        "md5": "fabee050680fd173032acf003ef61191"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\jacaranda_tree.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/jacaranda_tree/jacaranda_tree.bin",
+        "md5": "ae25eacd5e67ea2e9bbbaa2854b6ed99"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\jacaranda_tree\\textures\\jacaranda_tree_leaves_alpha_1k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/jacaranda_tree/jacaranda_tree_leaves_alpha_1k.png",
+        "md5": "740214de7b900e30737009ff4ee2c01a"
+      }
+    ]
+  },
+  {
+    "id": "asphalt_02",
+    "source": "https://polyhaven.com/a/asphalt_02",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "files": [
+      {
+        "path": "mapa\\recursos\\sanmartin\\asphalt_02\\asphalt_02_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_diff_1k.jpg",
+        "md5": "fa19772d4817754c3efab708c651f5a8"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\asphalt_02\\asphalt_02_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_nor_gl_1k.jpg",
+        "md5": "338da8de636ea36133170578cac82e8e"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\asphalt_02\\asphalt_02_rough_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_rough_1k.jpg",
+        "md5": "ec80a2929797c1b3ffc121c4f665585a"
+      }
+    ]
+  },
+  {
+    "id": "concrete_pavement",
+    "source": "https://polyhaven.com/a/concrete_pavement",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "files": [
+      {
+        "path": "mapa\\recursos\\sanmartin\\concrete_pavement\\concrete_pavement_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavement/concrete_pavement_diff_1k.jpg",
+        "md5": "b7a0d071a3406d55a1c3e9a73a06df03"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\concrete_pavement\\concrete_pavement_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavement/concrete_pavement_nor_gl_1k.jpg",
+        "md5": "025a1d4e910cf3e5b3d63ada43a791d8"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\concrete_pavement\\concrete_pavement_rough_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavement/concrete_pavement_rough_1k.jpg",
+        "md5": "e5a0fc9831bad12c7b3779179aa706f7"
+      }
+    ]
+  },
+  {
+    "id": "grey_plaster",
+    "source": "https://polyhaven.com/a/grey_plaster",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "files": [
+      {
+        "path": "mapa\\recursos\\sanmartin\\grey_plaster\\grey_plaster_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_plaster/grey_plaster_diff_1k.jpg",
+        "md5": "42d2ffe5338fcc0065e28076cbe15eba"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\grey_plaster\\grey_plaster_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_plaster/grey_plaster_nor_gl_1k.jpg",
+        "md5": "add2064b193d083c892aead5eaf461d2"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\grey_plaster\\grey_plaster_rough_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_plaster/grey_plaster_rough_1k.jpg",
+        "md5": "b97159bbbb4817965892ec7ab6efe46f"
+      }
+    ]
+  },
+  {
+    "id": "grass_ground",
+    "source": "https://polyhaven.com/a/grass_ground",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "files": [
+      {
+        "path": "mapa\\recursos\\sanmartin\\grass_ground\\grass_ground_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_ground/grass_ground_diff_1k.jpg",
+        "md5": "299047258586c762735b7284d3c662c3"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\grass_ground\\grass_ground_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_ground/grass_ground_nor_gl_1k.jpg",
+        "md5": "d518c5b2af6f2c0297bc807b351f511f"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\grass_ground\\grass_ground_rough_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_ground/grass_ground_rough_1k.jpg",
+        "md5": "2e6afca246cf6b80bdb53f46fe7e5ce5"
+      }
+    ]
+  },
+  {
+    "id": "palm_bark",
+    "source": "https://polyhaven.com/a/palm_bark",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "files": [
+      {
+        "path": "mapa\\recursos\\sanmartin\\palm_bark\\palm_bark_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/palm_bark/palm_bark_diff_1k.jpg",
+        "md5": "89e6474313f1547e3c12c4b68410ee39"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\palm_bark\\palm_bark_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/palm_bark/palm_bark_nor_gl_1k.jpg",
+        "md5": "47c13a26ef585fbb0d93f5593f8f711f"
+      },
+      {
+        "path": "mapa\\recursos\\sanmartin\\palm_bark\\palm_bark_rough_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/palm_bark/palm_bark_rough_1k.jpg",
+        "md5": "8ce664df74d422a570ed97cc9cffc2bf"
+      }
+    ]
+  }
+]

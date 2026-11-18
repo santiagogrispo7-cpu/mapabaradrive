@@ -1,0 +1,327 @@
+{
+  "verified_file": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_Realista_v2.blend",
+  "blender_version": "4.2.23 LTS",
+  "scene": "Scene",
+  "objects_total": 396,
+  "base_collections": {
+    "CALLES": 48,
+    "CORDONES": 48,
+    "VEREDAS": 49,
+    "EDIFICIOS": 21,
+    "VEGETACION": 14,
+    "SEÑALES": 6
+  },
+  "realistic_objects": 139,
+  "objects_by_kind": {
+    "plaza_cesped": 1,
+    "plaza_cordon": 1,
+    "plaza_sendero": 1,
+    "plaza_perimetro": 1,
+    "plaza_anillo": 1,
+    "plaza_arbol": 54,
+    "plaza_cesped_interior": 1,
+    "plaza_arbusto": 22,
+    "plaza_banco": 16,
+    "plaza_farol": 16,
+    "plaza_cesto": 4,
+    "plaza_monumento": 1,
+    "plaza_condor": 1,
+    "delegacion_rampa": 1,
+    "delegacion": 1,
+    "delegacion_letrero": 2,
+    "delegacion_escudo": 1,
+    "delegacion_panel": 1,
+    "delegacion_onda": 2,
+    "delegacion_maceta": 1,
+    "delegacion_explanada": 1,
+    "delegacion_arbol": 2,
+    "delegacion_cesto": 2,
+    "camara_realista": 4,
+    "luz_realista": 1
+  },
+  "cameras": {
+    "CAMARA_PLAZA": [
+      81.82608032226562,
+      -47.501216888427734,
+      72.0
+    ],
+    "CAMARA_DELEGACION": [
+      -27.879480361938477,
+      88.66243743896484,
+      13.5
+    ],
+    "CAMARA_MONUMENTO": [
+      18.826082229614258,
+      37.498783111572266,
+      10.0
+    ],
+    "CAMARA_PLAZA_AEREA": [
+      -0.17391842603683472,
+      60.498783111572266,
+      230.0
+    ]
+  },
+  "renders": [
+    "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\verificacion_realista_plaza.png",
+    "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\verificacion_realista_delegacion.png",
+    "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\docs\\renders\\verificacion_realista_monumento.png"
+  ],
+  "checks": [
+    {
+      "name": "archivo_existe",
+      "passed": true,
+      "detail": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_Realista_v2.blend"
+    },
+    {
+      "name": "archivo_abre",
+      "passed": true,
+      "detail": "Blender 4.2.23 LTS"
+    },
+    {
+      "name": "coleccion_raiz",
+      "passed": true,
+      "detail": "BARA_MAPA_3D"
+    },
+    {
+      "name": "base_calles",
+      "passed": true,
+      "detail": "esperados 48, encontrados 48"
+    },
+    {
+      "name": "base_cordones",
+      "passed": true,
+      "detail": "esperados 48, encontrados 48"
+    },
+    {
+      "name": "base_veredas",
+      "passed": true,
+      "detail": "esperados 49, encontrados 49"
+    },
+    {
+      "name": "base_edificios",
+      "passed": true,
+      "detail": "esperados 21, encontrados 21"
+    },
+    {
+      "name": "base_vegetacion",
+      "passed": true,
+      "detail": "esperados 14, encontrados 14"
+    },
+    {
+      "name": "base_señales",
+      "passed": true,
+      "detail": "esperados 6, encontrados 6"
+    },
+    {
+      "name": "base_total",
+      "passed": true,
+      "detail": "396 objetos en la escena"
+    },
+    {
+      "name": "coleccion_realista",
+      "passed": true,
+      "detail": "BARA_LUGARES_REALES"
+    },
+    {
+      "name": "subcoleccion_plaza_mitre",
+      "passed": true,
+      "detail": "PLAZA_MITRE"
+    },
+    {
+      "name": "subcoleccion_delegacion",
+      "passed": true,
+      "detail": "DELEGACION"
+    },
+    {
+      "name": "subcoleccion_contexto",
+      "passed": true,
+      "detail": "CONTEXTO"
+    },
+    {
+      "name": "subcoleccion_camaras_reales",
+      "passed": true,
+      "detail": "CAMARAS_REALES"
+    },
+    {
+      "name": "subcoleccion_iluminacion_real",
+      "passed": true,
+      "detail": "ILUMINACION_REAL"
+    },
+    {
+      "name": "hija_del_mapa",
+      "passed": true,
+      "detail": "BARA_LUGARES_REALES cuelga de BARA_MAPA_3D"
+    },
+    {
+      "name": "objetos_nuevos",
+      "passed": true,
+      "detail": "139 objetos"
+    },
+    {
+      "name": "etiquetas_realista",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "plaza_plaza_mitre_cesped",
+      "passed": true,
+      "detail": "PLAZA_MITRE_CESPED"
+    },
+    {
+      "name": "plaza_plaza_mitre_cordon",
+      "passed": true,
+      "detail": "PLAZA_MITRE_CORDON"
+    },
+    {
+      "name": "plaza_plaza_mitre_senderos",
+      "passed": true,
+      "detail": "PLAZA_MITRE_SENDEROS"
+    },
+    {
+      "name": "plaza_plaza_mitre_perimetro",
+      "passed": true,
+      "detail": "PLAZA_MITRE_PERIMETRO"
+    },
+    {
+      "name": "plaza_plaza_mitre_cesped_interior",
+      "passed": true,
+      "detail": "PLAZA_MITRE_CESPED_INTERIOR"
+    },
+    {
+      "name": "plaza_plaza_monumento_condor",
+      "passed": true,
+      "detail": "PLAZA_MONUMENTO_CONDOR"
+    },
+    {
+      "name": "plaza_plaza_condor",
+      "passed": true,
+      "detail": "PLAZA_CONDOR"
+    },
+    {
+      "name": "plaza_centrada_en_osm",
+      "passed": true,
+      "detail": "desvio 0.34 m"
+    },
+    {
+      "name": "monumento_en_centro",
+      "passed": true,
+      "detail": "desvio 0.00 m"
+    },
+    {
+      "name": "monumento_alto",
+      "passed": true,
+      "detail": "altura 9.68 m"
+    },
+    {
+      "name": "condor_sobre_monumento",
+      "passed": true,
+      "detail": "cota 10.56 m"
+    },
+    {
+      "name": "arboles_plaza",
+      "passed": true,
+      "detail": "54 arboles"
+    },
+    {
+      "name": "bancos_plaza",
+      "passed": true,
+      "detail": "16 bancos"
+    },
+    {
+      "name": "faroles_plaza",
+      "passed": true,
+      "detail": "16 faroles"
+    },
+    {
+      "name": "cestos_plaza",
+      "passed": true,
+      "detail": "4 cestos"
+    },
+    {
+      "name": "materiales_plaza",
+      "passed": true,
+      "detail": "todos los objetos de la plaza tienen material"
+    },
+    {
+      "name": "delegacion_existe",
+      "passed": true,
+      "detail": "DELEGACION_MUNICIPAL"
+    },
+    {
+      "name": "delegacion_dimensiones",
+      "passed": true,
+      "detail": "32.0 x 13.0 x 8.8 m"
+    },
+    {
+      "name": "delegacion_osm",
+      "passed": true,
+      "detail": "way/386834199"
+    },
+    {
+      "name": "delegacion_direccion",
+      "passed": true,
+      "detail": "Av. San Martin 905, Baradero"
+    },
+    {
+      "name": "delegacion_frente_a_plaza",
+      "passed": true,
+      "detail": "16.94 m del borde de la plaza (informe 17.71 m)"
+    },
+    {
+      "name": "delegacion_fuera_de_plaza",
+      "passed": true,
+      "detail": "la huella no invade Plaza Mitre"
+    },
+    {
+      "name": "delegacion_fuera_de_calzada",
+      "passed": true,
+      "detail": "solape con calzadas 0.00 m2"
+    },
+    {
+      "name": "delegacion_fachada",
+      "passed": true,
+      "detail": "rampa, escudo, panel y letrero"
+    },
+    {
+      "name": "camara_camara_plaza",
+      "passed": true,
+      "detail": "CAMARA_PLAZA"
+    },
+    {
+      "name": "camara_camara_delegacion",
+      "passed": true,
+      "detail": "CAMARA_DELEGACION"
+    },
+    {
+      "name": "camara_camara_monumento",
+      "passed": true,
+      "detail": "CAMARA_MONUMENTO"
+    },
+    {
+      "name": "camara_camara_plaza_aerea",
+      "passed": true,
+      "detail": "CAMARA_PLAZA_AEREA"
+    },
+    {
+      "name": "camara_activa",
+      "passed": true,
+      "detail": "CAMARA_PLAZA"
+    },
+    {
+      "name": "vista_camara_guardada",
+      "passed": true,
+      "detail": "VIEW_3D en modo camara"
+    },
+    {
+      "name": "vista_material_guardada",
+      "passed": true,
+      "detail": "sombreado MATERIAL"
+    },
+    {
+      "name": "renders_generados",
+      "passed": true,
+      "detail": "verificacion_realista_plaza.png, verificacion_realista_delegacion.png, verificacion_realista_monumento.png"
+    }
+  ],
+  "passed": true
+}

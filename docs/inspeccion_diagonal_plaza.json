@@ -1,0 +1,922 @@
+{
+  "source": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_Realista_v2.blend",
+  "alignment": {
+    "matched_ways": 28,
+    "max_error_m": 9.335160258969694e-05
+  },
+  "nearby_osm_ways": [
+    {
+      "id": "228161668",
+      "name": "Avenida San Martín",
+      "distance_plaza_m": 4.7364488595610945,
+      "points": [
+        [
+          -996.7521995894494,
+          -1367.055818369612
+        ],
+        [
+          -906.7856716284296,
+          -1231.7356935385615
+        ],
+        [
+          -898.7606182947638,
+          -1219.7201702352613
+        ],
+        [
+          -839.3678252140526,
+          -1127.742289500311
+        ],
+        [
+          -785.9913531682687,
+          -1042.3708418365568
+        ],
+        [
+          -732.0963881376665,
+          -956.1880618939176
+        ],
+        [
+          -678.0547493718332,
+          -873.6977806417271
+        ],
+        [
+          -626.3287338028895,
+          -793.8391292542219
+        ],
+        [
+          -571.1477459758753,
+          -711.2663447055966
+        ],
+        [
+          -509.7180679119192,
+          -616.688862205483
+        ],
+        [
+          -455.90443560120184,
+          -531.5199988400564
+        ],
+        [
+          -407.92732477304526,
+          -452.3868073169142
+        ],
+        [
+          -345.29952960973606,
+          -360.45613902807236
+        ],
+        [
+          -288.11192343680887,
+          -272.95340595953166
+        ],
+        [
+          -217.55387187871384,
+          -161.13160244747996
+        ],
+        [
+          -151.88592164369766,
+          -59.961532421410084
+        ],
+        [
+          -74.29460602032486,
+          52.695925501175225
+        ],
+        [
+          -25.00506225018762,
+          130.31592561863363
+        ],
+        [
+          50.88137820974225,
+          246.1601734869182
+        ],
+        [
+          111.49077042384306,
+          332.3224751967937
+        ],
+        [
+          162.1982735140482,
+          403.9494570894167
+        ]
+      ]
+    },
+    {
+      "id": "228161673",
+      "name": "Anchorena",
+      "distance_plaza_m": 6.785200180462866,
+      "points": [
+        [
+          255.17173835396534,
+          346.289398977533
+        ],
+        [
+          211.23464721173514,
+          270.92087862454355
+        ],
+        [
+          148.83427962346468,
+          176.09253789950162
+        ],
+        [
+          76.18714278750122,
+          64.5562009382993
+        ],
+        [
+          24.63704868417699,
+          -10.410277336835861
+        ],
+        [
+          -53.68957900814712,
+          -131.7079817103222
+        ],
+        [
+          -112.89031103847083,
+          -227.21535735204816
+        ],
+        [
+          -183.16140106704552,
+          -335.24490871839225
+        ],
+        [
+          -240.15061558934394,
+          -421.0219412557781
+        ],
+        [
+          -302.6931109591387,
+          -514.1927918680012
+        ],
+        [
+          -356.2738546245964,
+          -594.5273224972188
+        ]
+      ]
+    },
+    {
+      "id": "228162442",
+      "name": "Rodríguez",
+      "distance_plaza_m": 4.826870450717758,
+      "points": [
+        [
+          -476.2427707167808,
+          424.1757485549897
+        ],
+        [
+          -393.1969620618038,
+          370.7190665025264
+        ],
+        [
+          -303.1596063527395,
+          312.7929311376065
+        ],
+        [
+          -218.32196703390218,
+          256.8148341961205
+        ],
+        [
+          -117.64759006665554,
+          190.36738222651184
+        ],
+        [
+          -25.00506225018762,
+          130.31592561863363
+        ],
+        [
+          -13.254211741907056,
+          122.55555281229317
+        ],
+        [
+          76.18714278750122,
+          64.5562009382993
+        ],
+        [
+          155.50809675100027,
+          13.52392584271729
+        ],
+        [
+          210.67146125767613,
+          -20.16131796874106
+        ],
+        [
+          302.3166152113117,
+          -75.1791689246893
+        ],
+        [
+          372.8890435413341,
+          -119.70011565834284
+        ],
+        [
+          392.342600052536,
+          -131.09167445078492
+        ],
+        [
+          477.8395969099947,
+          -185.57222391664982
+        ]
+      ]
+    },
+    {
+      "id": "601167979",
+      "name": "Santa María de Oro",
+      "distance_plaza_m": 5.0914546555524085,
+      "points": [
+        [
+          694.7060069529107,
+          -427.4982586335391
+        ],
+        [
+          597.079478648142,
+          -367.4060584092513
+        ],
+        [
+          514.1351880159928,
+          -314.9490983877331
+        ],
+        [
+          429.9866008932586,
+          -262.5331199625507
+        ],
+        [
+          343.69580716692144,
+          -209.30418068356812
+        ],
+        [
+          324.5357532821363,
+          -197.4061885792762
+        ],
+        [
+          253.1723724179319,
+          -153.49302892386913
+        ],
+        [
+          165.39581747166812,
+          -98.68132666684687
+        ],
+        [
+          111.02106199471746,
+          -63.88958708103746
+        ],
+        [
+          24.63704868417699,
+          -10.410277336835861
+        ],
+        [
+          -74.29460602032486,
+          52.695925501175225
+        ],
+        [
+          -168.64482896006666,
+          111.36245873570442
+        ],
+        [
+          -270.2553984897677,
+          176.3216081932187
+        ],
+        [
+          -358.3853565942263,
+          231.30900709331036
+        ],
+        [
+          -445.27257671492407,
+          286.5811959486455
+        ],
+        [
+          -531.1578639470972,
+          340.2345625702292
+        ]
+      ]
+    },
+    {
+      "id": "685524802",
+      "name": "Avenida San Martín",
+      "distance_plaza_m": 5.543199404514708,
+      "points": [
+        [
+          -13.254211741907056,
+          122.55555281229317
+        ],
+        [
+          64.15590963431168,
+          237.08277361653745
+        ]
+      ]
+    }
+  ],
+  "nearby_road_objects": [
+    {
+      "name": "PB_Calle_Asfalto",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -50.0,
+        -4.0,
+        50.0,
+        4.0
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "PB_Vereda_Norte",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -50.0,
+        4.0,
+        50.0,
+        6.0
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "PB_Vereda_Sur",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -50.0,
+        -6.0,
+        50.0,
+        -4.0
+      ],
+      "distance_plaza_m": 3.3861881494522095
+    },
+    {
+      "name": "PB_Linea_Central_01",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -49.0,
+        -0.07500000298023224,
+        -46.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 35.255711261774664
+    },
+    {
+      "name": "PB_Linea_Central_02",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -44.0,
+        -0.07500000298023224,
+        -41.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 32.663486519353505
+    },
+    {
+      "name": "PB_Linea_Central_03",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -39.0,
+        -0.07500000298023224,
+        -36.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 30.071261776932356
+    },
+    {
+      "name": "PB_Linea_Central_04",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -34.0,
+        -0.07500000298023224,
+        -31.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 27.479037034511208
+    },
+    {
+      "name": "PB_Linea_Central_05",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -29.0,
+        -0.07500000298023224,
+        -26.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 24.886812292090056
+    },
+    {
+      "name": "PB_Linea_Central_06",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -24.0,
+        -0.07500000298023224,
+        -21.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 22.294587549668904
+    },
+    {
+      "name": "PB_Linea_Central_07",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -19.0,
+        -0.07500000298023224,
+        -16.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 19.702362807247752
+    },
+    {
+      "name": "PB_Linea_Central_08",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -14.0,
+        -0.07500000298023224,
+        -11.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 17.1101380648266
+    },
+    {
+      "name": "PB_Linea_Central_09",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -9.0,
+        -0.07500000298023224,
+        -6.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 14.51791332240545
+    },
+    {
+      "name": "PB_Linea_Central_10",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        -4.0,
+        -0.07500000298023224,
+        -1.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 11.9256885799843
+    },
+    {
+      "name": "PB_Linea_Central_11",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        1.0,
+        -0.07500000298023224,
+        4.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 9.333463837563148
+    },
+    {
+      "name": "PB_Linea_Central_12",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        6.0,
+        -0.07500000298023224,
+        9.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 6.741239095141997
+    },
+    {
+      "name": "PB_Linea_Central_13",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        11.0,
+        -0.07500000298023224,
+        14.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 4.149014352720845
+    },
+    {
+      "name": "PB_Linea_Central_14",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        16.0,
+        -0.07500000298023224,
+        19.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 1.5567896102996934
+    },
+    {
+      "name": "PB_Linea_Central_15",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        21.0,
+        -0.07500000298023224,
+        24.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "PB_Linea_Central_16",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        26.0,
+        -0.07500000298023224,
+        29.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 2.0160434981040805
+    },
+    {
+      "name": "PB_Linea_Central_17",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        31.0,
+        -0.07500000298023224,
+        34.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 6.198790172201724
+    },
+    {
+      "name": "PB_Linea_Central_18",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        36.0,
+        -0.07500000298023224,
+        39.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 10.381536846299369
+    },
+    {
+      "name": "PB_Linea_Central_19",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        41.0,
+        -0.07500000298023224,
+        44.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 14.564283520397014
+    },
+    {
+      "name": "PB_Linea_Central_20",
+      "collections": [
+        "Prueba_Baradero"
+      ],
+      "osm_way_id": null,
+      "layer": null,
+      "bounds": [
+        46.0,
+        -0.07500000298023224,
+        49.0,
+        0.07500000298023224
+      ],
+      "distance_plaza_m": 18.74703019449466
+    },
+    {
+      "name": "Calle_228161668_Avenida San Martín",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "228161668",
+      "layer": null,
+      "bounds": [
+        -1000.0831909179688,
+        -1369.2703857421875,
+        165.46295166015625,
+        406.2606506347656
+      ],
+      "distance_plaza_m": 0.736452172417122
+    },
+    {
+      "name": "Calle_228161673_Anchorena",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "228161673",
+      "layer": null,
+      "bounds": [
+        -359.1856384277344,
+        -596.4693603515625,
+        258.1954345703125,
+        348.0521240234375
+      ],
+      "distance_plaza_m": 3.2852011770440965
+    },
+    {
+      "name": "Calle_228162442_Rodríguez",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "228162442",
+      "layer": null,
+      "bounds": [
+        -478.1371765136719,
+        -188.52389526367188,
+        479.720458984375,
+        427.1187438964844
+      ],
+      "distance_plaza_m": 1.3268697634254043
+    },
+    {
+      "name": "Calle_601167979_Santa María de Oro",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "601167979",
+      "layer": null,
+      "bounds": [
+        -533.0122680664062,
+        -430.4788818359375,
+        696.5406494140625,
+        343.20294189453125
+      ],
+      "distance_plaza_m": 1.5914555492915765
+    },
+    {
+      "name": "Calle_685524802_Avenida San Martín",
+      "collections": [
+        "BARA_DRIVE_CALLES"
+      ],
+      "osm_way_id": "685524802",
+      "layer": null,
+      "bounds": [
+        -16.568204879760742,
+        120.31559753417969,
+        67.46990203857422,
+        239.32273864746094
+      ],
+      "distance_plaza_m": 5.4376236894999215
+    },
+    {
+      "name": "CALZADA_+000_+000",
+      "collections": [
+        "CALLES"
+      ],
+      "osm_way_id": null,
+      "layer": "CALZADA",
+      "bounds": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "distance_plaza_m": 1.3268689718669568
+    },
+    {
+      "name": "CALZADA_+000_-001",
+      "collections": [
+        "CALLES"
+      ],
+      "osm_way_id": null,
+      "layer": "CALZADA",
+      "bounds": [
+        0.0,
+        -256.0,
+        256.0,
+        0.0
+      ],
+      "distance_plaza_m": 3.285199414781003
+    },
+    {
+      "name": "CALZADA_-001_+000",
+      "collections": [
+        "CALLES"
+      ],
+      "osm_way_id": null,
+      "layer": "CALZADA",
+      "bounds": [
+        -256.0,
+        0.0,
+        0.0,
+        256.0
+      ],
+      "distance_plaza_m": 0.7364495281634086
+    },
+    {
+      "name": "CORDON_+000_+000",
+      "collections": [
+        "CORDONES"
+      ],
+      "osm_way_id": null,
+      "layer": "CORDON",
+      "bounds": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "distance_plaza_m": 1.176867700116141
+    },
+    {
+      "name": "CORDON_+000_-001",
+      "collections": [
+        "CORDONES"
+      ],
+      "osm_way_id": null,
+      "layer": "CORDON",
+      "bounds": [
+        0.0,
+        -256.0,
+        256.0,
+        0.0
+      ],
+      "distance_plaza_m": 3.135199569315681
+    },
+    {
+      "name": "CORDON_-001_+000",
+      "collections": [
+        "CORDONES"
+      ],
+      "osm_way_id": null,
+      "layer": "CORDON",
+      "bounds": [
+        -256.0,
+        0.0,
+        0.0,
+        256.0
+      ],
+      "distance_plaza_m": 0.5864468516156736
+    },
+    {
+      "name": "VEREDA_+000_+000",
+      "collections": [
+        "VEREDAS"
+      ],
+      "osm_way_id": null,
+      "layer": "VEREDA",
+      "bounds": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "VEREDA_+000_-001",
+      "collections": [
+        "VEREDAS"
+      ],
+      "osm_way_id": null,
+      "layer": "VEREDA",
+      "bounds": [
+        0.0,
+        -256.0,
+        256.0,
+        0.0
+      ],
+      "distance_plaza_m": 1.135200110162616
+    },
+    {
+      "name": "VEREDA_-001_+000",
+      "collections": [
+        "VEREDAS"
+      ],
+      "osm_way_id": null,
+      "layer": "VEREDA",
+      "bounds": [
+        -256.0,
+        0.0,
+        0.0,
+        256.0
+      ],
+      "distance_plaza_m": 0.0
+    },
+    {
+      "name": "VEREDA_-001_-001",
+      "collections": [
+        "VEREDAS"
+      ],
+      "osm_way_id": null,
+      "layer": "VEREDA",
+      "bounds": [
+        -256.0,
+        -256.0,
+        0.0,
+        0.0
+      ],
+      "distance_plaza_m": 11.471376959621672
+    }
+  ],
+  "identified_objects": [
+    "PB_Calle_Asfalto",
+    "PB_Vereda_Norte",
+    "PB_Vereda_Sur",
+    "PB_Linea_Central_01",
+    "PB_Linea_Central_02",
+    "PB_Linea_Central_03",
+    "PB_Linea_Central_04",
+    "PB_Linea_Central_05",
+    "PB_Linea_Central_06",
+    "PB_Linea_Central_07",
+    "PB_Linea_Central_08",
+    "PB_Linea_Central_09",
+    "PB_Linea_Central_10",
+    "PB_Linea_Central_11",
+    "PB_Linea_Central_12",
+    "PB_Linea_Central_13",
+    "PB_Linea_Central_14",
+    "PB_Linea_Central_15",
+    "PB_Linea_Central_16",
+    "PB_Linea_Central_17",
+    "PB_Linea_Central_18",
+    "PB_Linea_Central_19",
+    "PB_Linea_Central_20"
+  ],
+  "identification": "Tramo de prueba de 100 m sobre Y=0 en Prueba_Baradero, sin correspondencia OSM",
+  "axis_length_m": 100.0,
+  "axis_within_0_5m_of_osm_m": 3.0730963977114616,
+  "existing_surface_coverage": {
+    "CALZADA": {
+      "expected_m2": 257.99494899200795,
+      "existing_m2": 257.99494723752537,
+      "difference_m2": 2.2132216867365426e-05
+    },
+    "CORDON": {
+      "expected_m2": 12.304451339340375,
+      "existing_m2": 12.30445263127207,
+      "difference_m2": 5.215655507979828e-05
+    },
+    "VEREDA": {
+      "expected_m2": 135.67263160874603,
+      "existing_m2": 135.67264150128838,
+      "difference_m2": 3.525146582730844e-05
+    }
+  },
+  "terrain": "TERRENO_BASE continuo, sin huecos; se recupera al retirar la superposicion",
+  "plaza_center": [
+    -0.17391843153568573,
+    60.498783790564445
+  ]
+}

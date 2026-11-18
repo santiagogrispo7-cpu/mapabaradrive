@@ -1,0 +1,131 @@
+{
+  "root": "BARA_SANMARTIN_REALISTA",
+  "length_m": 136.79,
+  "start": [
+    -151.886,
+    -59.962,
+    0.0
+  ],
+  "end": [
+    -74.295,
+    52.696,
+    0.0
+  ],
+  "source_way": "228161668",
+  "traffic_signal_node": "2367942995",
+  "vegetacion": {
+    "arboles_cuadra": 19,
+    "plantillas": 5,
+    "tri_jacaranda": [
+      3863832,
+      1016895
+    ],
+    "tri_arbol": [
+      1072212,
+      305509
+    ],
+    "tri_jacaranda_lod1": 232640,
+    "tri_arbol_lod1": 71247,
+    "arboles_reemplazados": [
+      [
+        "ARBOL_01",
+        "SM_Arbol_CC0_REEMPLAZO_01"
+      ],
+      [
+        "ARBOL_02",
+        "SM_Arbol_CC0_REEMPLAZO_02"
+      ],
+      [
+        "ARBOL_03",
+        "SM_Arbol_CC0_REEMPLAZO_03"
+      ],
+      [
+        "ARBOL_04",
+        "SM_Arbol_CC0_REEMPLAZO_04"
+      ],
+      [
+        "ARBOL_05",
+        "SM_Arbol_CC0_REEMPLAZO_05"
+      ],
+      [
+        "ARBOL_06",
+        "SM_Arbol_CC0_REEMPLAZO_06"
+      ],
+      [
+        "ARBOL_07",
+        "SM_Arbol_CC0_REEMPLAZO_07"
+      ],
+      [
+        "ARBOL_08",
+        "SM_Arbol_CC0_REEMPLAZO_08"
+      ],
+      [
+        "ARBOL_09",
+        "SM_Arbol_CC0_REEMPLAZO_09"
+      ],
+      [
+        "ARBOL_10",
+        "SM_Arbol_CC0_REEMPLAZO_10"
+      ],
+      [
+        "ARBOL_11",
+        "SM_Arbol_CC0_REEMPLAZO_11"
+      ],
+      [
+        "ARBOL_12",
+        "SM_Arbol_CC0_REEMPLAZO_12"
+      ],
+      [
+        "ARBOL_13",
+        "SM_Arbol_CC0_REEMPLAZO_13"
+      ],
+      [
+        "ARBOL_14",
+        "SM_Arbol_CC0_REEMPLAZO_14"
+      ]
+    ]
+  },
+  "objetos_por_tipo": {
+    "null": 19,
+    "vegetacion_cc0_instancia": 33
+  },
+  "triangulos": 8250595,
+  "superficies_pbr": {
+    "CALLES": 48,
+    "VEREDAS": 49,
+    "CORDONES": 48,
+    "TERRENO_BASE": 1
+  },
+  "notice": "Parcelas y alturas estimadas desde fotos; no relevamiento metrico",
+  "output_blend": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_SanMartin_Realista.blend",
+  "source_blend": "C:\\Users\\a22ma\\OneDrive\\Desktop\\bara-drive\\Mapa-Baradero\\mapabaradrive\\mapa\\blender\\Baradero_Calles_Corregidas.blend",
+  "generated_at": "2026-11-14T23:20:50",
+  "osm_alignment": {
+    "matched_ways": 28,
+    "max_error_m": 9.335160258969694e-05
+  },
+  "source_photos": [
+    "referencias/avenida-sanmartin/esquinasemaforo.png",
+    "referencias/avenida-sanmartin/esquinasemaforo2.png",
+    "referencias/avenida-sanmartin/av.sanmartin.png",
+    "referencias/avenida-sanmartin/av.sanmartin1.png",
+    "referencias/avenida-sanmartin/avsanmartin2.png",
+    "referencias/avenida-sanmartin/avsanmartin3.png",
+    "referencias/avenida-sanmartin/patiodecomidas1.png"
+  ],
+  "licenses": {
+    "skills": [
+      "arjun988/blender-skills (MIT)",
+      "Oldcircle/geo-sleuth (MIT)"
+    ],
+    "assets": "Poly Haven CC0-1.0 (arboles, palmera, asfalto, vereda, cesped, revoque)"
+  },
+  "limitations": [
+    "Modelo aproximado: las fotos no tienen escala ni planta cadastral.",
+    "Las alturas de las fachadas se estiman visualmente desde las seis capturas.",
+    "La cuadra se ancla al cruce OSM San Martin/Malabia (way 228161668, nodo 2367942995).",
+    "Los limites de parcela se aproximan a partir de la foto aerea de referencia.",
+    "No se modelaron vehiculos, personas ni cableado de media tension real.",
+    "No se reconstruyo la iglesia ni el resto de Plaza Mitre en esta etapa."
+  ]
+}
